@@ -1,5 +1,6 @@
 # Melody Generation From Lyrics
 Leah Ferguson, Ashley Thomas
+
 CS349 Final Project
 
 ###Project Update (4/6/16)
