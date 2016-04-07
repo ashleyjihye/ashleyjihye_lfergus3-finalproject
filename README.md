@@ -15,4 +15,3 @@ We originally planned to have a website to showcase our project, but due to feed
 
 In terms of picking our classification algorithm, we've decided to use an HMM, as this most closely fits our data. The notes will be the hidden states, and the outputs will be the syllables. We intend to start with a bigram model, and then extend this to trigrams. We would also like to incorporate note lengths as well (instead of solely pitch), so we plan to extend our HMM to a factorial HMM (ie. a dynamic Bayesian network) that has both note pitches and note lengths as the states, and syllables as the outputs.
 
-As an aside, we're still wondering exactly how to test our program. We've specified some possibilities in an email to you, so we won't rehash the details here.
