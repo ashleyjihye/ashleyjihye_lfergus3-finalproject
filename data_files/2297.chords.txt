@@ -1,0 +1,37 @@
+#	Title	What Do You Want To Make Those Eyes At Me For?
+#	Source Filename	Howard Johnson, Jimmy Monaco, Joe McCarthy - What Do You Want To Make Those Eyes At Me For?.xml
+66.5	68	0	3	0	major
+68	76	7	3	0	major
+76	84	0	3	0	major
+84	96	2	3	0	major
+96	100	7	3	0	major
+100	100.75	5	3	0	major
+100.75	108	7	3	0	major
+108	112	5	3	0	major
+112	116	7	3	0	major
+116	118	4	3	1	minor
+118	120	5	3	0	major
+120	123	0	3	0	major
+123	126	4	3	1	minor-seventh
+126	132	0	3	0	major
+132	140	7	3	0	major
+140	142	5	3	0	major
+142	144	7	3	0	major
+144	148	0	3	0	major
+148	156	7	3	0	major
+156	164	0	3	0	major
+164	176	2	3	0	major
+176	180	7	3	0	major
+180	180.75	5	3	0	major
+180.75	188	7	3	0	major
+188	192	5	3	0	major
+192	196	7	3	0	major
+196	198	4	3	1	minor
+198	200	5	3	0	major
+200	203	0	3	0	major
+203	206	4	3	1	minor-seventh
+206	212	0	3	0	major
+212	220	7	3	0	major
+220	222	5	3	0	major
+222	224	7	3	0	major
+224	228	0	3	0	major

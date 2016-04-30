@@ -1,0 +1,27 @@
+#	Title	Baubles, Bangles and Beads
+#	Source Filename	George Forrest, Robert Wright - Baubles, Bangles and Beads.xml
+0	3	7	3	1	minor-seventh
+3	6	0	3	0	dominant
+6	12	5	3	0	major
+12	15	7	3	1	minor-seventh
+15	18	0	3	0	dominant
+18	24	5	3	0	major
+24	30	4	3	0	major
+30	36	9	3	0	major
+36	42	4	3	0	major
+42	48	9	3	0	major
+48	54	8	3	0	dominant
+54	60	1	3	0	major
+60	66	0	3	0	dominant
+66	72	5	3	0	major
+72	75	7	3	1	minor-seventh
+75	78	0	3	0	dominant
+78	81	5	3	0	major
+81	84	2	3	0	dominant
+84	87	7	3	1	minor-seventh
+87	90	0	3	0	dominant
+90	93	5	3	0	major
+93	96	2	3	0	dominant
+96	99	7	3	1	minor-seventh
+99	102	0	3	0	dominant
+102	108	5	3	0	major

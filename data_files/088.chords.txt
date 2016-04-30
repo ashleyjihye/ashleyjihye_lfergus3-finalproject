@@ -1,0 +1,31 @@
+#	Title	If I Give My Heart To You
+#	Source Filename	Al Jacobs, Jimmy Brewster, Jimmie Crane - If I Give My Heart To You.xml
+4	12	0	3	0	major
+12	16	2	3	1	minor
+16	20	7	3	0	dominant
+20	22	2	3	1	minor-seventh
+22	28	7	3	0	dominant
+28	32	0	3	0	major
+32	36	7	3	0	dominant
+36	44	0	3	0	major
+44	48	2	3	1	minor
+48	52	7	3	0	dominant
+52	54	2	3	1	minor-seventh
+54	60	7	3	0	dominant
+60	64	0	3	0	major
+64	72	0	3	0	major
+72	80	5	3	0	major
+80	83	0	3	0	major
+83	84	7	3	1	minor
+84	88	9	3	0	dominant
+88	96	2	3	1	minor
+96	100	2	3	1	minor
+100	100.5	5	3	1	minor
+100.5	104	7	3	0	dominant
+104	112	0	3	0	major
+112	116	2	3	1	minor
+116	120	7	3	0	dominant
+120	122	2	3	1	minor-seventh
+122	128	7	3	0	dominant
+128	132	0	3	0	major
+132	136	0	3	0	major

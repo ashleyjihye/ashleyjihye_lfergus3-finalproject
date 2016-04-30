@@ -1,0 +1,21 @@
+#	Title	Shake, Rattle And Roll
+#	Source Filename	Charles Calhoun - Shake, Rattle And Roll.xml
+4	16	0	3	0	major
+16	20	0	3	0	dominant
+20	28	5	3	0	major
+28	36	0	3	0	major
+36	40	2	3	1	minor
+40	44	7	3	0	dominant
+44	64	0	3	0	major
+64	68	0	3	0	dominant
+68	76	5	3	0	major
+76	84	0	3	0	major
+84	88	2	3	1	minor
+88	92	7	3	0	dominant
+92	112	0	3	0	major
+112	116	0	3	0	dominant
+116	124	5	3	0	dominant
+124	132	0	3	0	major
+132	136	2	3	1	minor
+136	140	7	3	0	dominant
+140	148	0	3	0	major

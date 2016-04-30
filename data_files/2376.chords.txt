@@ -1,0 +1,11 @@
+#	Title	Felsütött a nap sugára
+#	Source Filename	Hungarian folk song - Felsutott a nap sugara.xml
+0	4	9	3	1	minor
+4	8	4	3	1	minor
+8	12	9	3	1	minor
+12	16	9	3	1	minor
+16	20	4	3	1	minor
+20	24	9	3	1	minor
+24	28	9	3	1	minor
+28	36	0	3	0	major
+36	40	9	3	1	minor

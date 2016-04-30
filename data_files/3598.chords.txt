@@ -1,0 +1,29 @@
+#	Title	Love Will Keep Us Together
+#	Source Filename	Neil Sedaka, Howard Greenfield - Love Will Keep Us Together.xml
+0	16	7	3	0	major
+16	24	4	3	0	dominant
+24	32	0	3	0	major
+32	40	0	3	1	minor
+40	52	7	3	0	major
+52	56	7	3	0	dominant
+56	60	0	3	0	major
+60	64	2	3	0	dominant
+64	80	7	3	0	major
+80	96	7	3	0	major
+96	104	4	3	0	dominant
+104	112	0	3	0	major
+112	120	0	3	1	minor
+120	132	7	3	0	major
+132	136	7	3	0	dominant
+136	140	0	3	0	major
+140	144	2	3	0	dominant
+144	160	7	3	0	major
+160	164	10	3	0	major
+164	168	0	3	0	major
+168	172	3	3	0	major
+172	176	7	3	0	major
+176	180	10	3	0	major
+180	184	0	3	0	major
+184	188	3	3	0	major
+188	196	2	3	0	dominant
+196	208	7	3	0	major

@@ -1,0 +1,26 @@
+#	Title	Falu végén van egy ház
+#	Source Filename	Hungarian folk song - Falu v?g?n van egy h?z.xml
+1	1	1	Fa
+2	3	1	lu
+3	1	1	vé
+4	3	1	gén
+5	0	1	van
+6	0	1	egy
+7	0	1	ház.
+8	1	1	Fa
+9	3	1	lu
+10	1	1	vé
+11	3	1	gén,
+12	1	1	ú
+13	2	1	id
+14	2	1	ro
+15	2	1	fid
+16	3	1	rom,
+17	1	1	gá
+18	2	1	li
+19	3	1	ca
+20	1	1	szik
+21	3	1	szom,
+22	0	1	van
+23	0	1	egy
+24	0	1	ház.

@@ -1,0 +1,20 @@
+#	Title	The Chicken
+#	Source Filename	Alfred James Ellis - The Chicken.xml
+0	2	0	3	0	dominant
+2	4	5	3	0	dominant
+4	6	0	3	0	dominant
+6	8	5	3	0	dominant
+8	10	0	3	0	dominant
+10	16	5	3	0	dominant
+16	32	0	3	0	dominant
+32	40	5	3	0	dominant
+40	44	4	3	0	dominant
+44	48	9	3	0	dominant
+48	64	2	3	0	dominant
+64	80	0	3	0	dominant
+80	96	0	3	0	dominant
+96	104	5	3	0	dominant
+104	108	4	3	0	dominant
+108	112	9	3	0	dominant
+112	128	2	3	0	dominant
+128	144	0	3	0	dominant

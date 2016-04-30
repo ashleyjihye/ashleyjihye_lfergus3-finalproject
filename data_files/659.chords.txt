@@ -1,0 +1,32 @@
+#	Title	Rivers of Babylon
+#	Source Filename	Brent Dowe, Trevor McNaughton - Rivers of Babylon.xml
+20	28	7	3	0	major
+28	32	0	3	0	major
+32	52	0	3	0	major
+52	60	7	3	0	major
+60	68	0	3	0	major
+68	76	0	3	0	major
+76	80	5	3	0	major
+80	84	0	3	0	major
+84	92	0	3	0	major
+92	96	7	3	0	major
+96	100	0	3	0	major
+100	104	0	3	0	major
+104	112	0	3	0	major
+112	116	5	3	0	major
+116	120	0	3	0	major
+120	128	0	3	0	major
+128	132	7	3	0	major
+132	144	0	3	0	major
+144	148	7	3	0	major
+148	152	0	3	0	major
+152	156	7	3	0	major
+156	160	0	3	0	major
+160	164	7	3	0	major
+164	176	0	3	0	major
+176	180	7	3	0	major
+180	184	0	3	0	major
+184	188	7	3	0	major
+188	192	0	3	0	major
+192	196	7	3	0	major
+196	200	0	3	0	major

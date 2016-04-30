@@ -1,0 +1,13 @@
+#	Title	Akkor szép az erdő
+#	Source Filename	Hungarian folk song - Akkor sz?p az erd?.xml
+0	4	9	3	1	minor
+4	10	7	3	0	major
+10	12	0	3	0	major
+12	16	9	3	1	minor
+16	18	0	3	0	major
+18	22	7	3	0	major
+22	24	9	3	1	minor
+24	28	9	3	1	minor
+28	30	0	3	0	major
+30	34	7	3	0	major
+34	36	9	3	1	minor

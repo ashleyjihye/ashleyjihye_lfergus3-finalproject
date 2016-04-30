@@ -1,0 +1,25 @@
+#	Title	Elvira
+#	Source Filename	Dallas Frazier - Elvira.xml
+4	24	0	3	0	major
+24	28	7	3	0	dominant
+28	36	0	3	0	major
+36	60	0	3	0	major
+60	68	7	3	0	dominant
+68	76	0	3	0	major
+76	84	5	3	0	dominant
+84	88	0	3	0	major
+88	120	5	3	0	dominant
+120	124	7	3	0	dominant
+124	152	0	3	0	major
+152	156	7	3	0	dominant
+156	164	0	3	0	major
+164	188	0	3	0	major
+188	196	7	3	0	dominant
+196	204	0	3	0	major
+204	212	5	3	0	dominant
+212	216	0	3	0	major
+216	248	5	3	0	dominant
+248	252	7	3	0	dominant
+252	280	0	3	0	major
+280	284	7	3	0	dominant
+284	292	0	3	0	major

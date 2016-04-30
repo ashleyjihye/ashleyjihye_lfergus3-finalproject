@@ -1,0 +1,15 @@
+#	Title	I Saw Three Ships
+#	Source Filename	Traditional English Carol - I Saw Three Ships.xml
+6	9	0	3	0	major
+9	12	7	3	0	major
+12	15	0	3	0	major
+15	18	7	3	0	major
+18	24	0	3	0	major
+24	30	7	3	0	major
+30	33	0	3	0	major
+33	36	7	3	0	major
+36	39	0	3	0	major
+39	42	7	3	0	major
+42	48	0	3	0	major
+48	51	7	3	0	major
+51	54	0	3	0	major

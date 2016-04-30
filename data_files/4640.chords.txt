@@ -1,0 +1,24 @@
+#	Title	Loch Lomond
+#	Source Filename	Traditional Scots tune gleaned by Lady Scott - Loch Lomond.xml
+4	8	0	3	0	major
+8	12	5	3	0	major
+12	16	0	3	0	major
+16	18	5	3	0	major
+18	20	0	3	0	major
+20	24	9	3	1	minor
+24	26	2	3	1	minor
+26	28	7	3	0	dominant
+28	32	0	3	0	major
+32	34	7	3	0	dominant
+34	40	0	3	0	major
+40	42	5	3	0	major
+42	44	7	3	0	dominant
+44	48	0	3	0	major
+48	50	5	3	0	major
+50	52	0	3	0	major
+52	56	9	3	1	minor
+56	58	2	3	1	minor
+58	60	0	3	0	dominant
+60	64	0	3	0	major
+64	66	7	3	0	dominant
+66	68	0	3	0	major

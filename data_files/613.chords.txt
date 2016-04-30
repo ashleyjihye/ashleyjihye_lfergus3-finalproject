@@ -1,0 +1,20 @@
+#	Title	Autumn Of My Life
+#	Source Filename	Bobby Goldsboro - Autumn Of My Life.xml
+4	8	0	3	0	major
+8	12	9	3	1	minor
+12	16	5	3	0	major
+16	24	0	3	0	major
+24	28	9	3	1	minor
+28	32	2	3	1	minor-seventh
+32	36	7	3	0	dominant
+36	40	0	3	0	major
+40	44	9	3	1	minor
+44	48	5	3	0	major
+48	51	0	3	0	major
+51	52	4	3	0	dominant
+52	56	9	3	1	minor
+56	58	5	3	0	major
+58	60	7	3	0	dominant
+60	62	0	3	0	major
+62	64	5	3	0	major
+64	68	0	3	0	major

@@ -1,0 +1,36 @@
+#	Title	One Note Samba
+#	Source Filename	Antonio Carlos Jobim - One Note Samba.xml
+5	8.5	4	3	1	minor-seventh
+8.5	13	3	3	0	dominant
+13	21	2	3	1	minor-seventh
+21	24.5	4	3	1	minor-seventh
+24.5	28	3	3	0	dominant
+28	36	2	3	1	minor-seventh
+36	40.5	7	3	1	minor-seventh
+40.5	44	0	3	0	dominant
+44	48	5	3	0	major-seventh
+48	53	10	3	0	dominant
+53	56.5	4	3	1	minor-seventh
+56.5	61	3	3	0	dominant
+61	64	2	3	1	minor-seventh
+64	68.5	0	3	0	major-sixth
+68.5	72.5	5	3	1	minor-seventh
+72.5	76.5	10	3	0	dominant
+76.5	84.5	3	3	0	major-seventh
+84.5	88.5	3	3	1	minor-seventh
+88.5	92.5	8	3	0	dominant
+92.5	101	1	3	0	major-seventh
+101	104.5	4	3	1	minor-seventh
+104.5	109	3	3	0	dominant
+109	117	2	3	1	minor-seventh
+117	120.5	4	3	1	minor-seventh
+120.5	124	3	3	0	dominant
+124	132	2	3	1	minor-seventh
+132	136.5	7	3	1	minor-seventh
+136.5	140	0	3	0	dominant
+140	144	5	3	0	major-seventh
+144	148	10	3	0	dominant
+148	152.5	3	3	0	major-sixth
+152.5	156	2	3	0	dominant
+156	159.5	1	3	0	major-seventh
+159.5	164	0	3	0	major-sixth

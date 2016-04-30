@@ -1,0 +1,23 @@
+#	Title	A bachelor gay (from &quot;The Maid of the Mountains&quot;)
+#	Source Filename	Peter Dawson - A Bachelor Gay.xml
+4	8	0	3	0	major
+8	12	9	3	0	dominant
+12	20	2	3	0	dominant
+20	24	2	3	1	minor-seventh
+24	28	7	3	0	dominant
+28	30	0	3	0	major
+30	32	3	3	2	diminished
+32	34.5	7	3	0	dominant
+34.5	36	7	3	0	dominant
+36	40	0	3	0	major
+40	44	9	3	0	dominant
+44	48	5	3	0	major
+48	52	6	3	2	diminished
+52	54	0	3	0	major
+54	55	7	3	0	dominant
+55	56	8	3	2	diminished
+56	58	9	3	1	minor-seventh
+58	60	2	3	0	dominant
+60	62	0	3	0	major
+62	64	7	3	0	dominant
+64	72	0	3	0	major

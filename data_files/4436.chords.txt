@@ -1,0 +1,37 @@
+#	Title	Bei Dir War Es Immer So Schon
+#	Source Filename	Theo Mackeben - Bei Dir War Es Immer So Schon.xml
+4	8	5	3	0	major
+8	12	5	3	1	minor
+12	16	0	3	0	major
+16	18	0	3	0	major
+18	20	3	3	2	diminished
+20	24	2	3	1	minor-seventh
+24	28	7	3	0	dominant
+28	32	0	3	0	major
+32	36	0	3	0	dominant
+36	40	5	3	0	major
+40	44	5	3	1	minor
+44	48	0	3	0	major
+48	50	0	3	0	major
+50	52	3	3	2	diminished
+52	56	2	3	1	minor-seventh
+56	60	7	3	0	dominant
+60	64	4	3	2	half-diminished
+64	68	9	3	0	dominant
+68	72	2	3	1	minor-seventh
+72	76	7	3	0	dominant
+76	84	0	3	0	major
+84	88	2	3	1	minor-seventh
+88	92	4	3	0	dominant
+92	98	9	3	1	minor
+98	100	0	3	0	dominant
+100	104	5	3	0	major
+104	108	5	3	1	minor
+108	112	0	3	0	major
+112	114	0	3	0	major
+114	116	3	3	2	diminished
+116	120	2	3	1	minor-seventh
+120	124	7	3	0	dominant
+124	128	0	3	0	major
+128	130	7	3	1	minor-seventh
+130	132	0	3	0	dominant

@@ -1,0 +1,25 @@
+#	Title	Tristan Begins
+#	Source Filename	Acrylles d'Anguilla, Richard Wagner - Tristan Begins.xml
+0	4	6	3	2	half-diminished
+4	6	0	3	0	major
+6	8	3	3	0	major
+8	12	6	3	2	half-diminished
+12	14	0	3	0	major
+14	16	9	3	0	major
+16	18	2	3	1	minor
+18	19	9	3	1	minor
+19	20	2	3	1	minor
+20	21	9	3	1	minor-seventh
+21	22	2	3	1	minor
+22	24	9	3	1	minor
+24	26	6	3	2	half-diminished
+26	28	7	3	-1	power
+28	30	5	3	0	major
+30	32	7	3	0	major
+32	40	5	3	0	major
+40	43	5	3	0	major-seventh
+43	44	5	3	0	major-sixth
+44	48	6	3	2	half-diminished
+48	56	5	3	0	major
+56	60	5	3	0	major
+60	64	0	3	0	major

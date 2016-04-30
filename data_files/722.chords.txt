@@ -1,0 +1,34 @@
+#	Title	Caterina
+#	Source Filename	Bugs Bower, Earl Shuman - Caterina.xml
+4	32	1	3	0	major
+32	60	2	3	1	minor
+60	64	2	3	0	dominant
+64	94	7	3	0	dominant
+94	96	0	3	0	major
+96	102	5	3	0	major
+102	108	5	3	0	major
+108	112	5	3	1	minor
+112	116	0	3	0	major
+116	120	9	3	0	dominant
+120	124	2	3	1	minor
+124	128	7	3	0	dominant
+128	130	5	3	0	major
+130	136	0	3	0	major
+136	164	1	3	0	major
+164	192	2	3	1	minor
+192	196	2	3	0	dominant
+196	226	7	3	0	dominant
+226	228	0	3	0	major
+228	234	5	3	0	major
+234	240	5	3	0	major
+240	244	5	3	1	minor
+244	248	0	3	0	major
+248	252	9	3	0	dominant
+252	256	2	3	1	minor
+256	260	7	3	0	dominant
+260	262	5	3	0	major
+262	268	0	3	0	major
+268	270	5	3	0	major
+270	272	0	3	0	major
+272	275	7	3	0	dominant
+275	276	0	3	0	major

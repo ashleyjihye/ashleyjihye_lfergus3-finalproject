@@ -1,0 +1,31 @@
+#	Title	Áldalak, jó Uram
+#	Source Filename	Unknown - Aldalak, jo Uram.xml
+0	2	0	3	0	major
+2	4	7	3	0	major
+4	8	9	3	1	minor
+8	10	5	3	0	major
+10	12	7	3	0	major
+12	14	0	3	0	major
+14	16	0	3	0	dominant
+16	18	5	3	0	major
+18	20	7	3	0	major
+20	22	4	3	0	major
+22	24	9	3	1	minor
+24	26	2	3	1	minor
+26	28	2	3	0	major
+28	30	7	3	0	major
+30	32	7	3	0	dominant
+32	34	0	3	0	major
+34	36	7	3	0	major
+36	40	9	3	1	minor
+40	42	5	3	0	major
+42	44	7	3	0	major
+44	46	0	3	0	major
+46	48	0	3	0	dominant
+48	50	5	3	0	major
+50	52	7	3	0	major
+52	54	4	3	0	major
+54	56	9	3	1	minor
+56	58	2	3	1	minor
+58	60	7	3	0	major
+60	64	0	3	0	major

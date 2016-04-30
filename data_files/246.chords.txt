@@ -1,0 +1,12 @@
+#	Title	Bella ciao
+#	Source Filename	Anonymous - Bella ciao.xml
+1.5	13.5	9	3	1	minor
+13.5	17.5	4	3	0	dominant
+17.5	21.5	2	3	1	minor
+21.5	25.5	9	3	1	minor
+25.5	29.5	4	3	0	dominant
+29.5	33.5	9	3	1	minor
+33.5	37.5	2	3	1	minor
+37.5	41.5	9	3	1	minor
+41.5	45.5	4	3	0	dominant
+45.5	48	9	3	1	minor

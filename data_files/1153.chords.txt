@@ -1,0 +1,23 @@
+#	Title	Detroit City (I Wanna Go Home)
+#	Source Filename	Danny Dill, Mel Tillis - Detroit City (I Wanna Go Home).xml
+4	8	0	3	0	major
+8	12	7	3	0	dominant
+12	20	0	3	0	major
+20	28	7	3	0	dominant
+28	36	0	3	0	major
+36	44	5	3	0	major
+44	52	0	3	0	major
+52	60	2	3	0	dominant
+60	68	7	3	0	dominant
+68	76	0	3	0	major
+76	84	5	3	0	major
+84	88	0	3	0	major
+88	92	7	3	0	dominant
+92	104	0	3	0	major
+104	112	7	3	0	dominant
+112	116	0	3	0	major
+116	120	0	3	0	dominant
+120	128	5	3	0	major
+128	132	0	3	0	major
+132	136	7	3	0	dominant
+136	144	0	3	0	major

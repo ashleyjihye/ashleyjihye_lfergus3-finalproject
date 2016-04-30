@@ -1,0 +1,23 @@
+#	Title	It's a Long Way to Tipperary
+#	Source Filename	Jack Judge - It's a Long Way to Tipperary.xml
+4	6.5	0	3	0	major
+6.5	8	7	3	0	dominant
+8	11	0	3	0	major
+11	12	0	3	0	dominant
+12	16	5	3	0	major
+16	22.5	0	3	0	major
+22.5	24	7	3	0	dominant
+24	28	0	3	0	major
+28	32	2	3	0	dominant
+32	36	7	3	0	major
+36	37	0	3	0	major
+37	40	7	3	0	dominant
+40	41	0	3	0	major
+41	44	0	3	0	dominant
+44	48	5	3	0	major
+48	52	4	3	0	major
+52	56	0	3	0	major
+56	58	5	3	0	major
+58	63	0	3	0	major
+63	64	7	3	0	dominant
+64	68	0	3	0	major

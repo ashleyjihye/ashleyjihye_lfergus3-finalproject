@@ -1,0 +1,30 @@
+#	Title	I'm Just Wild About Harry
+#	Source Filename	Eubie Blake, Noble Sissle - I'm Just Wild About Harry.xml
+0	8	0	3	0	major
+8	12	2	3	1	minor-seventh
+12	30	7	3	0	dominant
+30	40	0	3	0	major
+40	48	2	3	1	minor-seventh
+48	51	0	3	0	major
+51	56	7	3	3	augmented
+56	62	0	3	0	major
+62	64	7	3	0	dominant
+64	72	0	3	0	major
+72	76	2	3	1	minor-seventh
+76	88	7	3	0	dominant
+88	94	9	3	1	minor
+94	96	5	3	0	major-sixth
+96	104	2	3	0	dominant
+104	108	4	3	1	minor
+108	110	9	3	0	dominant
+110	112	7	3	0	dominant
+112	115	0	3	0	major
+115	118	5	3	0	major-sixth
+118	120	7	3	0	major
+120	123	0	3	0	major
+123	126	5	3	1	minor-sixth
+126	128	7	3	0	dominant
+128	131	5	3	0	major
+131	134	5	3	0	major-sixth
+134	136	7	3	0	dominant
+136	144	0	3	0	major

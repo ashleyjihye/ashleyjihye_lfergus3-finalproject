@@ -1,0 +1,14 @@
+#	Title	Kossuth Lajos azt üzente
+#	Source Filename	Hungarian soldier's song - Kossuth Lajos azt ?zente.xml
+0	4	4
+4	4	4
+8	4	4
+12	4	4
+16	4	4
+20	4	4
+24	4	4
+28	4	4
+32	4	4
+36	4	4
+40	4	4
+44	4	4

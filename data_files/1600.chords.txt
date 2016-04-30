@@ -1,0 +1,32 @@
+#	Title	Love story
+#	Source Filename	Francis Lai - Love story.xml
+0	8	9	3	1	minor
+8	16	4	3	0	dominant
+16	20	9	3	1	minor
+20	24	5	3	0	major
+24	32	4	3	0	dominant
+32	40	9	3	1	minor
+40	48	9	3	1	minor
+48	56	4	3	0	dominant
+56	60	9	3	1	minor
+60	64	5	3	0	major
+64	72	4	3	0	dominant
+72	80	9	3	0	major
+80	84	2	3	1	minor
+84	88	7	3	0	dominant
+88	92	0	3	0	major
+92	96	5	3	0	major
+96	100	4	3	0	dominant
+100	104	9	3	1	minor
+104	108	2	3	1	minor
+108	112	7	3	0	dominant
+112	116	0	3	0	major
+116	120	5	3	0	major
+120	124	11	3	0	dominant
+124	132	4	3	0	dominant
+132	140	9	3	1	minor
+140	148	4	3	0	dominant
+148	152	9	3	1	minor
+152	156	5	3	0	major
+156	164	4	3	0	dominant
+164	172	9	3	1	minor

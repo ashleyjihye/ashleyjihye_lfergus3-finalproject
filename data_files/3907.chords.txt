@@ -1,0 +1,16 @@
+#	Title	Glendora
+#	Source Filename	Ray Stanley - Glendora.xml
+0	20	9	3	1	minor
+20	24	5	3	0	dominant
+24	26	9	3	1	minor
+26	27	5	3	0	dominant
+27	28	4	3	0	dominant
+28	32	9	3	1	minor
+32	34	9	3	1	minor
+34	36	4	3	1	minor-seventh
+36	38	9	3	1	minor
+38	40	4	3	1	minor-seventh
+40	42	9	3	1	minor
+42	43	5	3	0	dominant
+43	44	4	3	0	dominant
+44	48	9	3	1	minor

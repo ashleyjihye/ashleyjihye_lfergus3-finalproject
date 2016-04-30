@@ -1,0 +1,24 @@
+#	Title	Everywhere You Go
+#	Source Filename	Larry Shay, Joe Goodwin, Mark Fisher - Everywhere You Go.xml
+0	4	0	3	0	major
+4	8	0	3	0	major-seventh
+8	12	0	3	0	major-sixth
+12	24	0	3	0	major
+24	32	7	3	0	dominant
+32	36	2	3	1	minor
+36	40	5	3	3	augmented
+40	44	2	3	1	minor-seventh
+44	54	7	3	0	dominant
+54	56	7	3	3	augmented
+56	64	0	3	0	major
+64	72	4	3	0	dominant
+72	80	9	3	0	dominant
+80	88	2	3	0	dominant
+88	96	7	3	0	dominant
+96	100	0	3	0	major
+100	104	4	3	1	minor
+104	108	7	3	1	minor-sixth
+108	112	9	3	0	dominant
+112	116	2	3	0	dominant
+116	120	7	3	0	dominant
+120	128	0	3	0	major

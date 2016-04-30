@@ -1,0 +1,7 @@
+#	Title	PLANET CLAIRE
+#	Source Filename	Henry Mancini, B52's - PLANET CLAIRE.xml
+0	160	4	3	0	dominant-ninth
+160	192	9	3	1	minor
+192	240	4	3	0	dominant-ninth
+240	272	9	3	1	minor
+272	384	4	3	0	dominant-ninth

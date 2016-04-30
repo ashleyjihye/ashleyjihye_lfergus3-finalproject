@@ -1,0 +1,27 @@
+#	Title	Comin' Through The Rye
+#	Source Filename	Unknown, Robert Burns - Comin' Through The Rye.xml
+0	4	7	3	0	major
+4	12	2	3	0	dominant
+12	20	7	3	0	major
+20	28	2	3	0	dominant
+28	36	7	3	0	major
+36	40	2	3	0	dominant
+40	44	7	3	0	major
+44	48	0	3	0	major
+48	50	7	3	0	major
+50	52	2	3	0	dominant
+52	54	7	3	0	major
+54	60	2	3	0	dominant
+60	68	7	3	0	major
+68	76	2	3	0	dominant
+76	84	7	3	0	major
+84	92	2	3	0	dominant
+92	100	7	3	0	major
+100	104	2	3	0	dominant
+104	108	7	3	0	major
+108	112	0	3	0	major
+112	114	7	3	0	major
+114	116	2	3	0	dominant
+116	118	7	3	0	major
+118	124	2	3	0	dominant
+124	132	7	3	0	major

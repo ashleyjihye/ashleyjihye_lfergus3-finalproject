@@ -1,0 +1,20 @@
+#	Title	Love Dance
+#	Source Filename	Ivan Lins, Vitor Martins, Paul Williams - Love Dance.xml
+4	12	2	3	0	major-sixth
+12	53.875	2	3	0	major-sixth
+53.875	97.875	5	3	1	minor-seventh
+97.875	172	5	3	1	minor-seventh
+172	176	2	3	0	major-sixth
+176	180	2	3	0	major-sixth
+180	184	2	3	0	major-sixth
+184	188	2	3	0	major-sixth
+188	189.75	2	3	0	major-sixth
+189.75	192	10	3	4	suspended-fourth
+192	194	9	3	4	suspended-fourth
+194	196	9	3	0	dominant
+196	200	2	3	4	suspended-fourth
+200	204	7	3	4	suspended-fourth
+204	208	11	3	0	dominant
+208	212	2	3	0	major-sixth
+212	216	11	3	0	dominant
+216	220	2	3	0	major-sixth

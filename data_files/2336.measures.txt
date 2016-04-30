@@ -1,0 +1,9 @@
+#	Title	A földvári utca térdig sáros
+#	Source Filename	Hungarian folk song - A f?ldv?ri utca t?rdig s?ros.xml
+0	4	4
+4	4	4
+8	4	4
+12	4	4
+16	4	4
+20	4	4
+24	4	4

@@ -1,0 +1,11 @@
+#	Title	Superstition
+#	Source Filename	Stevie Wonder - Superstition.xml
+80	88	9	3	1	minor
+88	96	9	3	1	minor
+96	98	4	3	0	dominant
+98	100	5	3	0	dominant
+100	102	4	3	0	dominant
+102	104	3	3	0	dominant
+104	108	2	3	0	dominant
+108	112	4	3	0	dominant
+112	236	9	3	1	minor

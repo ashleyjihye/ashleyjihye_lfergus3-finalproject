@@ -1,0 +1,13 @@
+#	Title	Ach, Du Lieber Augustin
+#	Source Filename	Marx Augustin - Ach, Du Lieber Augustin.xml
+0	6	0	3	0	major
+6	9	7	3	0	dominant
+9	18	0	3	0	major
+18	21	7	3	0	dominant
+21	24	0	3	0	major
+24	27	7	3	0	dominant
+27	30	0	3	0	major
+30	33	7	3	0	dominant
+33	42	0	3	0	major
+42	45	7	3	0	dominant
+45	48	0	3	0	major

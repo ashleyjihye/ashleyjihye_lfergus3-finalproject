@@ -1,0 +1,20 @@
+#	Title	Country Bumpkin
+#	Source Filename	Don Wayne - Country Bumpkin.xml
+3.5	10	0	3	0	major
+10	14	5	3	0	major
+14	22	0	3	0	major
+22	30	7	3	0	dominant
+30	34	0	3	0	major
+34	44	7	3	0	dominant
+44	48	5	3	0	major
+48	56	0	3	0	major
+56	64	7	3	0	dominant
+64	70	0	3	0	major
+70	72	0	3	0	dominant
+72	76.5	5	3	0	major
+76.5	80	7	3	0	dominant
+80	86	0	3	0	major
+86	88	0	3	0	dominant
+88	92	5	3	0	major
+92	96	7	3	0	dominant
+96	104	0	3	0	major

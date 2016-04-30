@@ -1,0 +1,27 @@
+#	Title	Hij Was Een Smokkelaar
+#	Source Filename	Traditional - Hij Was Een Smokkelaar.xml
+0	3	0	3	0	major
+3	6	0	3	2	diminished
+6	9	7	3	2	diminished
+9	12	7	3	0	dominant
+12	15	0	3	0	major
+15	18	0	3	2	diminished
+18	24	7	3	0	dominant
+24	36	0	3	0	major
+36	60	7	3	0	dominant
+60	81	0	3	0	major
+81	84	0	3	0	dominant
+84	96	5	3	0	major
+96	102	0	3	0	major
+102	108	7	3	0	dominant
+108	111	0	3	0	major
+111	114	5	3	0	major
+114	120	0	3	0	major
+120	138	0	3	0	major
+138	162	7	3	0	dominant
+162	180	0	3	0	major
+180	186	0	3	0	dominant
+186	198	5	3	0	major
+198	204	0	3	0	major
+204	210	7	3	0	dominant
+210	216	0	3	0	major

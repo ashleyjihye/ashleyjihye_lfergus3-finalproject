@@ -1,0 +1,25 @@
+#	Title	I Guess I'll Have To Change My Plan
+#	Source Filename	Arthur Schwartz, Howard Dietz - I Guess I'll Have To Change My Plan.xml
+4	6	0	3	0	major
+6	8	7	3	0	dominant
+8	16	0	3	0	major
+16	18	2	3	1	minor
+18	24	7	3	0	dominant
+24	28	0	3	0	major
+28	30	9	3	1	minor
+30	32	2	3	0	dominant
+32	35	2	3	1	minor
+35	36	7	3	0	dominant
+36	38	0	3	0	major
+38	40	7	3	0	dominant
+40	44	0	3	0	major
+44	48	0	3	0	dominant
+48	54	5	3	0	major
+54	56	5	3	1	minor
+56	64	0	3	0	major
+64	66	2	3	1	minor
+66	68	7	3	0	dominant
+68	76	0	3	0	major
+76	79	2	3	1	minor
+79	80	7	3	0	dominant
+80	84	0	3	0	major

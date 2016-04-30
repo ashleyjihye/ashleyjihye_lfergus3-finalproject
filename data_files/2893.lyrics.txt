@@ -1,0 +1,118 @@
+#	Title	When The Rain Tumbles Down In July
+#	Source Filename	Joy McKean, Joy McKean  - When The Rain Tumbles Down In July.xml
+1	0	1	Let
+2	0	1	me
+3	0	1	wan -
+4	0	1	der
+5	0	1	North
+6	0	1	to
+7	0	1	the
+8	0	1	home -
+10	0	1	stead,/
+11	0	1	Way
+12	0	1	out,/
+13	0	1	fur -
+14	0	1	ther
+15	0	1	on,/
+16	0	1	there
+18	0	1	to
+19	0	1	roam,/
+21	0	1	By
+22	0	1	a
+23	0	1	gul -
+24	0	1	ly
+25	0	1	in
+26	0	1	flood
+27	0	1	let
+28	0	1	me
+29	0	1	lin -
+31	0	1	ger,/
+32	0	1	When
+33	0	1	the
+34	0	1	sum -
+35	0	1	mer -
+36	0	1	y
+37	0	1	sun -
+38	0	1	shine
+39	0	1	has
+40	0	1	flown,/
+41	0	1	where
+42	0	1	the
+43	0	1	logs
+44	0	1	tang -
+45	0	1	gle
+46	0	1	up
+47	0	1	on
+48	0	1	the
+49	0	1	creek -
+51	0	1	beds,/
+52	0	1	And
+53	0	1	clouds
+54	0	1	veil
+55	0	1	the
+56	0	1	old
+57	0	1	north -
+59	0	1	ern
+60	0	1	sky,/
+62	0	1	And
+64	0	1	the
+65	0	1	cat -
+66	0	1	le
+67	0	1	move
+68	0	1	back
+69	0	1	from
+70	0	1	the
+71	0	1	low -
+73	0	1	lands,/
+74	0	1	When
+75	0	1	the
+76	0	1	rain
+77	0	1	tum -
+78	0	1	bles
+79	0	1	down
+80	0	1	in
+81	0	1	Jul - ly
+169	0	1	husks
+170	0	1	in
+171	0	1	the
+172	0	1	barn
+173	0	1	through
+174	0	1	the
+175	0	1	day,/
+177	0	1	And
+178	0	1	the
+179	0	1	dro -
+180	0	1	ver
+181	0	1	draws
+182	0	1	rein
+183	0	1	by
+184	0	1	the
+185	0	1	riv -
+187	0	1	er,/
+189	0	1	Its
+190	0	1	been
+191	0	1	years
+192	0	1	since
+193	0	1	he's
+194	0	1	seen
+197	0	1	it
+198	0	1	so
+199	0	1	high,/
+200	0	1	And
+201	0	1	that's
+202	0	1	just
+203	0	1	a
+204	0	1	sto -
+205	0	1	ry
+206	0	1	of
+207	0	1	home -
+209	0	1	wards,/
+210	0	1	When
+211	0	1	the
+212	0	1	rain
+213	0	1	tumb -
+214	0	1	bles
+215	0	1	down
+216	0	1	in
+217	0	1	Ju -
+218	0	1	ly./

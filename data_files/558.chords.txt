@@ -1,0 +1,18 @@
+#	Title	Cindy, Oh Cindy
+#	Source Filename	Bob Barron, Burt Long - Cindy, Oh Cindy.xml
+0	12	7	3	0	major
+12	28	2	3	0	dominant
+28	44	7	3	0	major
+44	48	7	3	0	major
+48	52	4	3	1	minor
+52	60	0	3	0	major
+60	64	7	3	0	major
+64	68	4	3	1	minor
+68	72	0	3	0	major
+72	80	7	3	0	major
+80	84	4	3	1	minor
+84	88	0	3	0	major
+88	96	7	3	0	major
+96	100	4	3	1	minor
+100	104	0	3	0	major
+104	112	7	3	0	major

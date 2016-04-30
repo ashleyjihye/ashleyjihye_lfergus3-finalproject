@@ -1,0 +1,23 @@
+#	Title	Underneath The Arches
+#	Source Filename	Bud Flanagan, Reg Connelly - Underneath The Arches .xml
+4	12	0	3	0	major
+12	20	2	3	0	dominant
+20	28	7	3	0	dominant
+28	36	0	3	0	major
+36	44	9	3	0	dominant
+44	61	2	3	0	dominant
+61	64	2	3	1	minor-seventh
+64	68	7	3	0	dominant
+68	76	0	3	0	major
+76	84	2	3	0	dominant
+84	90	7	3	0	dominant
+90	92	5	3	0	dominant
+92	100	4	3	0	dominant
+100	108	9	3	0	dominant
+108	116	2	3	0	dominant
+116	120	2	3	1	minor-seventh
+120	122	5	3	1	minor
+122	124	7	3	0	dominant
+124	126	0	3	0	major
+126	128	10	3	0	dominant
+128	132	0	3	0	major

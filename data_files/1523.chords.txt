@@ -1,0 +1,36 @@
+#	Title	Sleepy Lagoon
+#	Source Filename	Eric Coates, Jack Lawrence - Sleepy Lagoon.xml
+3	18	0	3	0	major
+18	21	9	3	1	minor
+21	27	2	3	0	dominant
+27	33	2	3	1	minor
+33	39	7	3	0	dominant
+39	42	0	3	0	major
+42	45	2	3	0	major
+45	51	7	3	0	dominant
+51	63	0	3	0	major
+63	69	0	3	0	dominant
+69	78	5	3	0	major
+78	81	5	3	1	minor
+81	84	0	3	0	major
+84	87	9	3	0	dominant
+87	90	2	3	1	minor
+90	93	7	3	0	dominant
+93	99	0	3	0	major
+99	114	0	3	0	major
+114	117	9	3	1	minor
+117	123	2	3	0	dominant
+123	129	2	3	1	minor
+129	135	7	3	0	dominant
+135	138	0	3	0	major
+138	141	2	3	0	major
+141	147	7	3	0	dominant
+147	159	0	3	0	major
+159	165	0	3	0	dominant
+165	174	5	3	0	major
+174	177	5	3	1	minor
+177	180	0	3	0	major
+180	183	9	3	0	dominant
+183	186	2	3	1	minor
+186	189	7	3	0	dominant
+189	195	0	3	0	major

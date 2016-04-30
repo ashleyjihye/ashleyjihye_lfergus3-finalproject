@@ -1,0 +1,36 @@
+#	Title	The Green Door
+#	Source Filename	Bob Davie, Marvin Moore - The Green Door.xml
+0	2	0	3	0	major
+2	4	5	3	0	major
+4	8	0	3	0	major
+8	12	5	3	0	major
+12	16	0	3	0	major
+16	18	7	3	0	major
+18	20	5	3	0	major
+20	24	0	3	0	major
+24	28	5	3	0	major
+28	32	0	3	0	major
+32	36	5	3	0	major
+36	40	0	3	0	major
+40	42	7	3	0	major
+42	44	5	3	0	major
+44	48	0	3	0	major
+48	50	0	3	0	major
+50	52	5	3	0	major
+52	56	0	3	0	major
+56	60	5	3	0	major
+60	64	0	3	0	major
+64	66	7	3	0	major
+66	68	5	3	0	major
+68	72	0	3	0	major
+72	76	5	3	0	major
+76	80	0	3	0	major
+80	84	5	3	0	major
+84	88	0	3	0	major
+88	90	7	3	0	major
+90	92	5	3	0	major
+92	96	0	3	0	major
+96	100	0	3	0	major
+100	102	7	3	0	major
+102	104	5	3	0	major
+104	108	0	3	0	major

@@ -1,0 +1,30 @@
+#	Title	Guter Mond, du gehst so stille
+#	Source Filename	Volksweise - Guter Mond, du gehst so stille.xml
+4	8.5	0	3	0	major
+8.5	12	7	3	0	major
+12	13	0	3	0	major
+13	14.5	9	3	1	minor
+14.5	15.5	5	3	0	major
+15.5	16	7	3	0	major
+16	19	0	3	0	major
+19	20	7	3	0	major
+20	24	0	3	0	major
+24	28	7	3	0	major
+28	29	0	3	0	major
+29	30	9	3	1	minor
+30	31	5	3	0	major
+31	32	7	3	0	major
+32	36	0	3	0	major
+36	40	7	3	0	major
+40	44	0	3	0	major
+44	48	5	3	0	major
+48	49	0	3	0	major
+49	51	7	3	0	major
+51	52	7	3	0	dominant
+52	56	0	3	0	major
+56	60	7	3	0	major
+60	61	0	3	0	major
+61	62	9	3	1	minor
+62	63	5	3	0	major
+63	64	7	3	0	major
+64	68	0	3	0	major

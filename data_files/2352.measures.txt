@@ -1,0 +1,10 @@
+#	Title	Béreslegény, jól megrakd a szekeret
+#	Source Filename	Hungarian folk song - B?resleg?ny, j?l megrakd a szekeret.xml
+0	4	4
+4	4	4
+8	4	4
+12	4	4
+16	4	4
+20	4	4
+24	4	4
+28	4	4

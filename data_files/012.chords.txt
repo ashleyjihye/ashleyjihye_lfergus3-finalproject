@@ -1,0 +1,36 @@
+#	Title	Sunny Afternoon
+#	Source Filename	 Ray Davies - Sunny Afternoon.xml
+4	8	9	3	1	minor
+8	12	7	3	0	dominant
+12	16	0	3	0	major
+16	20	7	3	0	dominant
+20	24	4	3	0	major
+24	28	4	3	0	dominant
+28	32	9	3	1	minor
+32	36	7	3	0	dominant
+36	40	0	3	0	major
+40	44	7	3	0	dominant
+44	48	4	3	0	major
+48	52	4	3	0	dominant
+52	56	9	3	1	minor
+56	60	9	3	0	major
+60	68	9	3	0	dominant
+68	76	2	3	0	dominant
+76	84	7	3	0	dominant
+84	88	0	3	0	major
+88	92	4	3	0	dominant
+92	96	9	3	1	minor
+96	100	2	3	0	dominant
+100	104	9	3	1	minor
+104	105.5	2	3	0	dominant
+105.5	108	7	3	0	dominant
+108	112	0	3	0	major
+112	116	4	3	0	dominant
+116	120	9	3	1	minor
+120	124	4	3	0	dominant
+124	128	9	3	1	minor
+128	132	4	3	0	dominant
+132	136	9	3	1	minor
+136	140	4	3	0	dominant
+140	144	9	3	1	minor
+144	148	4	3	0	dominant

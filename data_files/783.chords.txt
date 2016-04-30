@@ -1,0 +1,22 @@
+#	Title	Blue Suede Shoes
+#	Source Filename	Carl Lee Perkins - Blue Suede Shoes.xml
+4	20	5	3	0	major
+20	28	10	3	0	major
+28	36	5	3	0	major
+36	40	0	3	0	dominant
+40	44	10	3	0	major
+44	84	5	3	0	major
+84	92	10	3	0	major
+92	100	5	3	0	major
+100	104	0	3	0	dominant
+104	108	10	3	0	major
+108	112	5	3	0	major
+112	114	10	3	0	major
+114	148	5	3	0	major
+148	156	10	3	0	major
+156	164	5	3	0	major
+164	168	0	3	0	dominant
+168	172	10	3	0	major
+172	176	5	3	0	major
+176	178	10	3	0	major
+178	180	5	3	0	major

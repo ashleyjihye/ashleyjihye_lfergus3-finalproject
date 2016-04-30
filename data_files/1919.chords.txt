@@ -1,0 +1,29 @@
+#	Title	When The Stars Were Brightly Shining
+#	Source Filename	Giacomo Puccini - When The Stars Were Brightly Shining.xml
+6	9	9	3	1	minor
+9	12	5	3	0	major
+12	15	2	3	1	minor-sixth
+15	21	9	3	1	minor
+21	24	9	3	1	minor
+24	27	5	3	0	major
+27	30	7	3	0	dominant
+30	33	5	3	0	major-seventh
+33	35	11	3	2	half-diminished
+35	36	4	3	0	dominant
+36	44	2	3	2	half-diminished
+44	46	4	3	0	dominant
+46	53	9	3	1	minor
+53	56	9	3	1	minor
+56	62	5	3	0	major
+62	68	9	3	1	minor
+68	71	9	3	1	minor
+71	74	5	3	0	major
+74	77	7	3	0	dominant
+77	80	5	3	0	major-seventh
+80	82	11	3	2	half-diminished
+82	83	4	3	0	dominant
+83	91.5	2	3	2	half-diminished
+91.5	93	4	3	0	dominant
+93	98	9	3	1	minor
+98	99	2	3	1	minor-sixth
+99	102	9	3	1	minor

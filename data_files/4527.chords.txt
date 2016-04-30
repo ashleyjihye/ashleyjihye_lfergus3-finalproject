@@ -1,0 +1,21 @@
+#	Title	De Nacht is Nog Zo Lang
+#	Source Filename	Traditional - De Nacht is Nog Zo Lang.xml
+3	15	7	3	0	dominant
+15	27	0	3	0	major
+27	36	0	3	0	major
+36	39	7	3	0	dominant
+39	51	0	3	0	major
+51	63	7	3	0	dominant
+63	81	0	3	0	major
+81	87	9	3	0	dominant
+87	99	2	3	1	minor
+99	105	0	3	0	major
+105	111	7	3	0	dominant
+111	123	0	3	0	major
+123	135	7	3	0	dominant
+135	153	0	3	0	major
+153	159	9	3	0	dominant
+159	171	2	3	1	minor
+171	177	0	3	0	major
+177	183	7	3	0	dominant
+183	195	0	3	0	major

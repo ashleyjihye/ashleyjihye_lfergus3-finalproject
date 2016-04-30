@@ -1,0 +1,32 @@
+#	Title	Cigareetes, Whusky &amp; Wild, Wild Women
+#	Source Filename	Tim Spencer - Cigareetes, Whusky & Wild, Wild Women.xml
+0	6	0	3	0	major
+6	9	5	3	0	major
+9	18	0	3	0	major
+18	21	2	3	0	dominant
+21	24	7	3	0	dominant
+24	30	0	3	0	major
+30	33	5	3	0	major
+33	42	0	3	0	major
+42	45	7	3	0	dominant
+45	48	0	3	0	major
+48	54	0	3	0	major
+54	57	5	3	0	major
+57	66	0	3	0	major
+66	69	2	3	0	dominant
+69	81	7	3	0	dominant
+81	87	0	3	0	major
+87	90	5	3	0	major
+90	99	0	3	0	major
+99	102	7	3	0	dominant
+102	111	0	3	0	major
+111	117	0	3	0	major
+117	120	5	3	0	major
+120	129	0	3	0	major
+129	132	2	3	0	dominant
+132	144	7	3	0	dominant
+144	150	0	3	0	major
+150	153	5	3	0	major
+153	162	0	3	0	major
+162	165	7	3	0	dominant
+165	174	0	3	0	major

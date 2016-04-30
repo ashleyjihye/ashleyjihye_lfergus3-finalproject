@@ -1,0 +1,10 @@
+#	Title	Que Reste-t-il des nos Amours ?
+#	Source Filename	Charles Trenet - Que Reste-t-il des nos Amours ?.xml
+8	10	5	3	0	major
+10	12	5	3	0	major
+12	18	11	3	2	diminished
+18	24	4	3	0	dominant
+24	26	6	3	2	diminished
+26	28	5	3	0	dominant
+28	32	2	3	1	minor-sixth
+32	128	4	3	0	dominant

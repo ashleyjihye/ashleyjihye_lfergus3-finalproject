@@ -1,0 +1,26 @@
+#	Title	Blessed Assurance
+#	Source Filename	Fanny J Crosby, Phoebe P Knapp - Blessed Assurance.xml
+3	9	0	3	0	major
+9	12	5	3	0	major
+12	24	0	3	0	major
+24	27	7	3	0	major
+27	30	2	3	0	dominant
+30	39	7	3	0	dominant
+39	45	0	3	0	major
+45	48	5	3	0	major
+48	63	0	3	0	major
+63	69	2	3	1	minor
+69	72	7	3	0	dominant
+72	78	0	3	0	major
+78	81	7	3	0	dominant
+81	87	0	3	0	major
+87	90	5	3	0	major
+90	99	0	3	0	major
+99	102	5	3	0	major
+102	105	0	3	0	major
+105	108	2	3	0	dominant
+108	111	7	3	0	major
+111	120	7	3	0	dominant
+120	126	2	3	1	minor
+126	129	7	3	0	dominant
+129	135	0	3	0	major

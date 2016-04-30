@@ -1,0 +1,16 @@
+#	Title	Carol of the drum
+#	Source Filename	unknown - Carol of the drum.xml
+0	4	0	3	0	major
+4	12	5	3	0	major
+12	16	5	3	0	major
+16	18	7	3	0	dominant
+18	24	0	3	0	major
+24	28	0	3	0	major
+28	29	0	3	0	dominant
+29	31	5	3	0	major
+31	33	0	3	0	major
+33	36	7	3	0	dominant
+36	40	0	3	0	major
+40	44	5	3	0	major
+44	45	7	3	0	dominant
+45	48	0	3	0	major

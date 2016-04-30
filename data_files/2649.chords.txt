@@ -1,0 +1,37 @@
+#	Title	Play Fiddle,Play
+#	Source Filename	Jack Lawrence, Emery Deutsch, Arthur Altman - Play Fiddle,Play.xml
+0	3	9	3	1	minor
+3	6	9	3	1	minor-seventh
+6	9	5	3	0	major-sixth
+9	12	2	3	1	minor-sixth
+12	15	4	3	0	dominant
+15	17	11	3	2	half-diminished
+17	18	4	3	0	dominant
+18	24	9	3	1	minor
+24	27	9	3	1	minor
+27	30	9	3	1	minor-seventh
+30	33	5	3	0	major-sixth
+33	36	2	3	1	minor-sixth
+36	39	4	3	0	dominant
+39	41	11	3	2	half-diminished
+41	42	4	3	0	dominant
+42	44	9	3	1	minor
+44	45	2	3	1	minor
+45	48	9	3	1	minor
+48	54	7	3	0	dominant
+54	60	0	3	0	major
+60	63	11	3	0	dominant
+63	66	11	3	0	dominant
+66	68	4	3	0	dominant
+68	69	11	3	2	half-diminished
+69	72	4	3	0	dominant
+72	75	9	3	1	minor
+75	78	9	3	1	minor-seventh
+78	81	5	3	0	major-sixth
+81	84	2	3	1	minor-sixth
+84	87	4	3	0	dominant
+87	89	11	3	2	half-diminished
+89	90	4	3	0	dominant
+90	92	9	3	1	minor
+92	93	2	3	1	minor
+93	96	9	3	1	minor

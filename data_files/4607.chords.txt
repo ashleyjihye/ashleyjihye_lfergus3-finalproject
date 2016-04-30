@@ -1,0 +1,32 @@
+#	Title	John Peel
+#	Source Filename	Traditional English - John Peel.xml
+4	12	0	3	0	major
+12	20	7	3	0	dominant
+20	24	0	3	0	major
+24	26	5	3	0	major
+26	28	0	3	0	major
+28	32	2	3	1	minor
+32	34	7	3	0	dominant
+34	44	0	3	0	major
+44	52	7	3	0	dominant
+52	56	0	3	0	major
+56	58	5	3	0	major
+58	60	0	3	0	major
+60	64	2	3	1	minor
+64	66	7	3	0	dominant
+66	71	0	3	0	major
+71	80	5	3	0	major
+80	88	0	3	0	dominant
+88	92	5	3	0	major
+92	94	10	3	0	major
+94	96	5	3	0	major
+96	100	7	3	1	minor
+100	102	0	3	0	major
+102	112	5	3	0	major
+112	120	0	3	0	dominant
+120	124	5	3	0	major
+124	126	10	3	0	major
+126	128	5	3	0	major
+128	132	7	3	1	minor
+132	135	0	3	0	dominant
+135	136	5	3	0	major

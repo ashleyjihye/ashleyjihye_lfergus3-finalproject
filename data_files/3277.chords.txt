@@ -1,0 +1,25 @@
+#	Title	Never On Sunday
+#	Source Filename	Manos Hadjidakis, Billy Towne - Never On Sunday.xml
+4	12	7	3	0	dominant
+12	20	0	3	0	major
+20	28	7	3	0	dominant
+28	36	0	3	0	major
+36	44	7	3	0	dominant
+44	52	0	3	0	major
+52	60	7	3	0	dominant
+60	66	0	3	0	major
+66	67	9	3	0	major
+67	68	7	3	0	dominant
+68	76	0	3	0	major
+76	84	0	3	0	major
+84	92	7	3	0	dominant
+92	96	2	3	1	minor-seventh
+96	100	7	3	0	dominant
+100	106	0	3	0	major
+106	107	9	3	0	major
+107	108	7	3	0	dominant
+108	116	0	3	0	major
+116	124	7	3	0	dominant
+124	129	2	3	1	minor-seventh
+129	132	7	3	0	dominant
+132	140	0	3	0	major

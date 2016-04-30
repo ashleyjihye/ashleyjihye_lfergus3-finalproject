@@ -1,0 +1,27 @@
+#	Title	Cuckoo waltz
+#	Source Filename	Emanuel Jonasson - Cuckoo waltz.xml
+12	18	7	3	0	dominant
+18	27	0	3	0	major
+27	39	7	3	0	dominant
+39	51	0	3	0	major
+51	60	7	3	0	dominant
+60	63	7	3	0	dominant
+63	66	0	3	0	major
+66	75	0	3	0	major
+75	87	7	3	0	dominant
+87	99	0	3	0	major
+99	108	7	3	0	dominant
+108	111	7	3	0	dominant
+111	114	0	3	0	major
+114	126	5	3	0	major
+126	138	0	3	0	major
+138	150	7	3	0	dominant
+150	162	0	3	0	major
+162	174	5	3	0	major
+174	186	0	3	0	major
+186	195	7	3	0	dominant
+195	198	7	3	0	dominant
+198	207	0	3	0	major
+207	216	0	3	0	major
+216	219	7	3	0	dominant
+219	222	0	3	0	major

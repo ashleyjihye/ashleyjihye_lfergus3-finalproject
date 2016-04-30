@@ -1,0 +1,36 @@
+#	Title	Core 'NGrato
+#	Source Filename	Salvatore Cardillo - Core 'NGrato.xml
+0	4	4	3	1	minor
+4	8	5	3	0	major
+8	12	7	3	0	dominant
+12	16	0	3	0	major
+16	20	2	3	1	minor-seventh
+20	24	0	3	0	major
+24	28	7	3	0	dominant
+28	36	0	3	0	major
+36	40	9	3	1	minor
+40	44	4	3	1	minor
+44	48	5	3	0	major
+48	52	0	3	0	major
+52	56	2	3	1	minor
+56	58	0	3	0	major
+58	60	7	3	0	dominant
+60	62	0	3	0	major
+62	64	4	3	1	minor
+64	66	11	3	0	dominant
+66	68	4	3	1	minor
+68	70	5	3	0	major-sixth
+70	72	7	3	0	dominant
+72	76	9	3	1	minor
+76	80	5	3	0	major
+80	83	0	3	0	major
+83	84	7	3	0	dominant
+84	88	0	3	0	major
+88	92.75	4	3	1	minor
+92.75	96	5	3	0	major
+96	100.75	7	3	0	dominant
+100.75	104	0	3	0	major
+104	108	2	3	1	minor
+108	112	0	3	0	major
+112	116.75	7	3	0	dominant
+116.75	120	0	3	0	major

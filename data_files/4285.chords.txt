@@ -1,0 +1,29 @@
+#	Title	A dédapám
+#	Source Filename	Skorpi? - A d?dap?m.xml
+0	8	9	3	1	minor
+8	16	0	3	0	major
+16	24	7	3	0	major
+24	32	9	3	1	minor
+32	40	9	3	1	minor
+40	48	0	3	0	major
+48	56	7	3	0	major
+56	60	2	3	1	minor
+60	64	9	3	1	minor
+64	72	9	3	1	minor
+72	80	0	3	0	major
+80	88	7	3	0	major
+88	92	2	3	1	minor
+92	96	9	3	1	minor
+96	104	9	3	1	minor
+104	112	0	3	0	major
+112	120	7	3	0	major
+120	124	2	3	1	minor
+124	132	9	3	1	minor
+132	136	0	3	0	major
+136	140	7	3	0	major
+140	144	2	3	1	minor
+144	152	9	3	1	minor
+152	156	0	3	0	major
+156	160	7	3	0	major
+160	164	2	3	1	minor
+164	168	9	3	1	minor

@@ -1,0 +1,18 @@
+#	Title	Jaj, de nagyon régen volt, de soká lesz
+#	Source Filename	Hungarian song - Jaj, de nagyon regen volt, de soka lesz.xml
+0	4	9	3	1	minor
+4	12	4	3	0	major
+12	16	9	3	1	minor
+16	20	9	3	1	minor
+20	28	4	3	0	major
+28	32	9	3	1	minor
+32	36	9	3	1	minor
+36	40	2	3	1	minor
+40	42	9	3	1	minor
+42	44	4	3	0	major
+44	48	9	3	1	minor
+48	52	9	3	1	minor
+52	56	2	3	1	minor
+56	58	9	3	1	minor
+58	60	4	3	0	major
+60	64	9	3	1	minor

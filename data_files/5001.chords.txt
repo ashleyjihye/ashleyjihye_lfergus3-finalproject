@@ -1,0 +1,19 @@
+#	Title	She'll be coming round the mountain
+#	Source Filename	traditional - She'll be coming round the mountain.xml
+4	28	0	3	0	major
+28	36	7	3	0	dominant
+36	44	0	3	0	major
+44	48	5	3	0	major
+48	52	2	3	0	dominant
+52	56	0	3	0	major
+56	58	2	3	0	dominant
+58	60	7	3	0	dominant
+60	72	0	3	0	major
+72	90	0	3	0	major
+90	96	7	3	0	dominant
+96	100	0	3	0	major
+100	108	5	3	0	major
+108	110	0	3	0	major
+110	112	2	3	0	dominant
+112	114	7	3	0	dominant
+114	120	0	3	0	major

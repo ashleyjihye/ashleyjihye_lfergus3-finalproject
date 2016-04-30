@@ -1,0 +1,35 @@
+#	Title	Roma Nun Fa La Stupida Stasera
+#	Source Filename	Armando Trovaioli - Roma Nun Fa La Stupida Stasera.xml
+0	2	0	3	0	major
+2	3	0	3	3	augmented
+3	4	5	3	-1	minor-major
+4	8	0	3	0	major
+8	10	0	3	0	dominant-ninth
+10	12	11	3	0	dominant
+12	14	2	3	1	minor
+14	16	9	3	0	dominant
+16	18	5	3	0	major-sixth
+18	20	2	3	1	minor-sixth
+20	22.25	9	3	1	minor-seventh
+22.25	25	2	3	2	half-diminished
+25	26.75	5	3	0	dominant-ninth
+26.75	28	7	3	0	dominant
+28	29	0	3	0	major
+29	30	5	3	0	major
+30	32	7	3	0	dominant
+32	34	0	3	0	major
+34	35	0	3	3	augmented
+35	36	5	3	-1	minor-major
+36	40	0	3	0	major
+40	44	0	3	0	dominant
+44	48	5	3	0	major
+48	50	2	3	1	minor
+50	51.75	4	3	0	dominant
+51.75	53.0833	5	3	1	minor-seventh
+53.0833	54	4	3	0	dominant
+54	56	9	3	1	minor
+56	57	2	3	1	minor
+57	58	2	3	-1	minor
+58	60	7	3	0	dominant
+60	61	0	3	0	dominant-ninth
+61	64	0	3	0	major

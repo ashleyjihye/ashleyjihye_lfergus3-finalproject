@@ -1,0 +1,31 @@
+#	Title	The Glow Worm
+#	Source Filename	Lilla Caley Robinson, Paul Lincke, Johnny Mercer - The Glow Worm.xml
+0	4	0	3	0	major
+4	12	7	3	0	dominant
+12	20	0	3	0	major
+20	24	7	3	0	dominant
+24	26	2	3	1	minor-seventh
+26	28	7	3	0	dominant
+28	36	0	3	0	major
+36	44	7	3	0	dominant
+44	52	0	3	0	major
+52	53.5	9	3	1	minor-seventh
+53.5	56	2	3	0	major
+56	58	2	3	1	minor-seventh
+58	60	7	3	0	dominant
+60	64	0	3	0	major
+64	68	0	3	0	major
+68	76	7	3	0	dominant
+76	84	0	3	0	major
+84	88	7	3	0	dominant
+88	90	2	3	1	minor-seventh
+90	92	7	3	0	dominant
+92	100	0	3	0	major
+100	108	7	3	0	dominant
+108	116	0	3	0	major
+116	117.5	9	3	1	minor-seventh
+117.5	120	2	3	0	major
+120	122	2	3	1	minor-seventh
+122	124	7	3	0	dominant
+124	128	0	3	0	major
+128	132	0	3	0	major

@@ -1,0 +1,13 @@
+#	Title	Fais Dodo
+#	Source Filename	Traditional - Fais Dodo.xml
+0	6	0	3	0	major
+6	9	7	3	0	major
+9	18	0	3	0	major
+18	21	7	3	0	major
+21	24	0	3	0	major
+24	48	7	3	0	major
+48	54	0	3	0	major
+54	57	7	3	0	major
+57	66	0	3	0	major
+66	69	7	3	0	major
+69	72	0	3	0	major

@@ -1,0 +1,32 @@
+#	Title	Do I Hear A Waltz
+#	Source Filename	Richard Rodgers, Stephen Sondheim - Do I Hear A Waltz.xml
+3	15	7	3	0	major
+15	27	2	3	0	dominant
+27	33	9	3	1	minor
+33	36	7	3	0	major
+36	39	2	3	0	dominant
+39	45	7	3	0	major
+45	51	2	3	0	dominant
+51	63	7	3	0	major
+63	75	3	3	0	major
+75	78	9	3	1	minor
+78	81	2	3	0	dominant
+81	87	7	3	0	major
+87	99	9	3	0	dominant
+99	102	0	3	0	major
+102	105	9	3	0	dominant
+105	111	7	3	0	major
+111	117	2	3	0	dominant
+117	123	7	3	0	major
+123	126	0	3	0	major
+126	129	9	3	0	dominant
+129	135	7	3	0	major
+135	141	2	3	0	dominant
+141	147	2	3	0	dominant
+147	159	7	3	0	major
+159	171	2	3	0	dominant
+171	180	9	3	1	minor
+180	183	7	3	0	major
+183	186	7	3	1	minor
+186	192	2	3	0	dominant
+192	207	2	3	0	dominant

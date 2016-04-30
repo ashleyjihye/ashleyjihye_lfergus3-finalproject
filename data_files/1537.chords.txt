@@ -1,0 +1,29 @@
+#	Title	Say &quot;Si, Si&quot;
+#	Source Filename	Ernesto Lecuona, Francia Luban, Al Stillman - Para Vigo me voy (Say "Si Si").xml
+1	2	3	3	2	diminished
+2	5	7	3	0	dominant
+5	6	3	3	2	diminished
+6	9	7	3	0	dominant
+9	10	7	3	3	augmented-seventh
+10	13	0	3	0	major-sixth
+13	14	7	3	3	augmented-seventh
+14	18	0	3	0	major-sixth
+18	26	7	3	0	dominant
+26	29	0	3	0	major-sixth
+29	30	7	3	3	augmented-seventh
+30	33	0	3	0	major-sixth
+33	34	3	3	2	diminished
+34	37	7	3	0	dominant
+37	38	3	3	2	diminished
+38	41	7	3	0	dominant
+41	42	7	3	3	augmented-seventh
+42	45	0	3	0	major-sixth
+45	46	7	3	3	augmented-seventh
+46	50	0	3	0	major-sixth
+50	54	5	3	0	major
+54	57	0	3	0	major
+57	58	3	3	2	diminished
+58	62	7	3	0	dominant
+62	63	0	3	0	major
+63	64	5	3	0	major
+64	66	0	3	0	major

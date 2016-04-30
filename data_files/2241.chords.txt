@@ -1,0 +1,37 @@
+#	Title	The Birds And The Bees
+#	Source Filename	Herb Newman - The Birds And The Bees.xml
+4	8	0	3	0	major
+8	20	7	3	0	dominant
+20	28	0	3	0	major
+28	32	0	3	0	major
+32	44	7	3	0	dominant
+44	50	0	3	0	major
+50	52	0	3	0	dominant
+52	60	5	3	0	major
+60	67	0	3	0	major
+67	68	9	3	1	minor
+68	76	2	3	0	dominant
+76	79	7	3	0	dominant
+79	80	2	3	1	minor
+80	84	7	3	0	dominant
+84	88	0	3	0	major
+88	100	7	3	0	dominant
+100	108	0	3	0	major
+108	112	0	3	0	major
+112	124	7	3	0	dominant
+124	132	0	3	0	major
+132	136	0	3	0	major
+136	148	7	3	0	dominant
+148	154	0	3	0	major
+154	156	0	3	0	dominant
+156	164	5	3	0	major
+164	171	0	3	0	major
+171	172	9	3	1	minor
+172	180	2	3	0	dominant
+180	183	7	3	0	dominant
+183	184	2	3	1	minor
+184	188	7	3	0	dominant
+188	192	0	3	0	major
+192	204	7	3	0	dominant
+204	208	0	3	0	major
+208	212	2	3	1	minor-seventh

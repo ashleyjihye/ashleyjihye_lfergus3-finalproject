@@ -1,0 +1,26 @@
+#	Title	Your Eyes Have Told Me So
+#	Source Filename	Walter Blaufuss, Gustave Kahn, Egbert Van Alstyne - Your Eyes Have Told Me So.xml
+3	9	0	3	0	major
+9	12	2	3	1	minor-seventh
+12	15	7	3	0	dominant
+15	21	0	3	0	major
+21	24	2	3	1	minor-seventh
+24	27	7	3	0	dominant
+27	33	9	3	0	dominant
+33	36	7	3	0	major
+36	39	7	3	2	diminished
+39	45	2	3	0	dominant
+45	51	7	3	0	dominant
+51	57	0	3	0	major
+57	60	2	3	1	minor-seventh
+60	63	7	3	0	dominant
+63	69	0	3	0	major
+69	72	2	3	1	minor-seventh
+72	75	7	3	0	dominant
+75	78	0	3	0	dominant
+78	81	5	3	0	major
+81	84	9	3	0	dominant
+84	87	2	3	1	minor
+87	90	2	3	0	dominant
+90	93	7	3	0	dominant
+93	102	0	3	0	major

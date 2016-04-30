@@ -1,0 +1,27 @@
+#	Title	Szájbergyerek
+#	Source Filename	Kisteh?n t?nczenekar - Sz?jbergyerek.xml
+0	4	9	3	1	minor
+4	8	4	3	0	major
+8	12	4	3	0	major
+12	16	9	3	1	minor
+16	20	9	3	1	minor
+20	24	2	3	1	minor
+24	28	9	3	1	minor
+28	32	4	3	0	major
+32	36	9	3	1	minor
+36	40	4	3	0	major
+40	44	4	3	0	major
+44	48	9	3	1	minor
+48	52	9	3	1	minor
+52	56	2	3	1	minor
+56	60	9	3	1	minor
+60	64	4	3	0	major
+64	68	9	3	1	minor
+68	72	4	3	0	major
+72	76	4	3	0	major
+76	80	9	3	1	minor
+80	84	9	3	1	minor
+84	88	2	3	1	minor
+88	92	9	3	1	minor
+92	96	4	3	0	major
+96	100	9	3	1	minor

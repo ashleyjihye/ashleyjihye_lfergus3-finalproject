@@ -1,0 +1,31 @@
+#	Title	We'll Meet Again
+#	Source Filename	Hughie Charles, Ross Parker - We'll Meet Again.xml
+0	4	0	3	0	major
+4	8	4	3	0	dominant
+8	16	9	3	0	dominant
+16	24	2	3	0	dominant
+24	28	2	3	1	minor
+28	32	7	3	0	dominant
+32	36	0	3	0	major
+36	40	4	3	0	dominant
+40	48	9	3	0	dominant
+48	52	2	3	0	dominant
+52	54	2	3	1	minor
+54	56	7	3	0	dominant
+56	64	0	3	0	major
+64	72	0	3	0	dominant
+72	80	5	3	0	major
+80	88	2	3	0	dominant
+88	90	7	3	0	dominant
+90	92	9	3	0	dominant
+92	94	5	3	1	minor
+94	96	7	3	0	dominant
+96	100	0	3	0	major
+100	104	4	3	0	dominant
+104	112	9	3	0	dominant
+112	116	2	3	0	dominant
+116	118	2	3	1	minor-seventh
+118	120	7	3	0	dominant
+120	122	0	3	0	major
+122	124	10	3	0	dominant
+124	128	0	3	0	major

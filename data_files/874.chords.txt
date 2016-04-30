@@ -1,0 +1,26 @@
+#	Title	Jelly Roll
+#	Source Filename	Charles Mingus - Jelly Roll.xml
+0	16	7	3	0	dominant
+16	24	0	3	0	dominant
+24	32.5	5	3	0	dominant
+32.5	35	0	3	0	dominant
+35	36	10	3	0	dominant
+36	44	9	3	0	dominant
+44	48	7	3	0	dominant
+48	56	0	3	0	dominant
+56	72	7	3	0	dominant
+72	80	0	3	0	dominant
+80	88.5	5	3	0	dominant
+88.5	91	0	3	0	dominant
+91	92	10	3	0	dominant
+92	100	9	3	0	dominant
+100	104	7	3	0	dominant
+104	112	0	3	0	dominant
+112	128	7	3	0	dominant
+128	136	0	3	0	dominant
+136	144.5	5	3	0	dominant
+144.5	146	0	3	0	dominant
+146	148	10	3	0	dominant
+148	156	9	3	0	dominant
+156	160	7	3	0	dominant
+160	168	0	3	0	dominant

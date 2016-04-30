@@ -1,0 +1,25 @@
+#	Title	Lily of Laguna
+#	Source Filename	Leslie Stuart - Lily of Laguna.xml
+0	10	0	3	0	major
+10	12	0	3	0	dominant
+12	16	5	3	0	major
+16	17.5	2	3	1	minor-seventh
+17.5	18	6	3	0	major
+18	20	7	3	0	dominant
+20	22	2	3	1	minor-seventh
+22	24	7	3	0	dominant
+24	26	2	3	1	minor-seventh
+26	28	7	3	0	dominant
+28	29	2	3	1	minor
+29	30	7	3	0	major
+30	36	0	3	0	major
+36	40	7	3	0	dominant
+40	44	7	3	0	dominant
+44	49	0	3	0	major
+49	50	0	3	0	dominant
+50	51	10	3	0	dominant
+51	52	9	3	0	dominant
+52	56	2	3	0	dominant
+56	58	2	3	1	minor-seventh
+58	60	7	3	0	dominant
+60	64	0	3	0	major

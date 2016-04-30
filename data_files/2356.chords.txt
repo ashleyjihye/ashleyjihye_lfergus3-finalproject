@@ -1,0 +1,21 @@
+#	Title	Csínom Palkó, csínom Jankó
+#	Source Filename	Hungarian folk song - Cs?nom Palk?, cs?nom Jank?.xml
+0	4	7	3	1	minor
+4	8	0	3	1	minor
+8	12	2	3	0	dominant
+12	16	7	3	1	minor
+16	20	7	3	1	minor
+20	24	0	3	1	minor
+24	28	2	3	0	dominant
+28	32	7	3	1	minor
+32	34	11	3	0	major
+34	36	5	3	0	dominant
+36	38	11	3	0	major
+38	40	7	3	1	minor
+40	42	11	3	0	major
+42	44	5	3	0	dominant
+44	48	11	3	0	major
+48	52	2	3	0	dominant
+52	56	7	3	1	minor
+56	60	2	3	0	dominant
+60	64	7	3	1	minor

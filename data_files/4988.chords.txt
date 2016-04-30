@@ -1,0 +1,20 @@
+#	Title	Stumbling
+#	Source Filename	Zez Confrey - Stumbling.xml
+0	5	0	3	0	major
+5	6	0	3	0	dominant
+6	8	9	3	0	dominant
+8	16	2	3	0	dominant
+16	19.5	7	3	0	dominant
+19.5	20	2	3	2	diminished
+20	24	9	3	1	minor
+24	28	2	3	0	dominant
+28	32	7	3	0	major
+32	37	0	3	0	major
+37	38	0	3	0	dominant
+38	40	9	3	0	dominant
+40	48	2	3	0	dominant
+48	52	5	3	1	minor-sixth
+52	56	0	3	0	major
+56	58	2	3	0	dominant
+58	60	7	3	0	dominant
+60	62	0	3	0	major

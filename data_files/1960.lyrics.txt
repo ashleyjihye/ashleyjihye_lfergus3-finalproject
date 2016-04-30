@@ -1,0 +1,123 @@
+#	Title	Ribbon of Darkness
+#	Source Filename	Gordon Lightfoot - Ribbon of Darkness.xml
+10	1	1	1. Rib
+11	3	1	bon
+12	0	1	of
+13	1	1	dark
+14	3	1	ness
+15	1	1	o
+16	3	1	ver
+17	0	1	me____
+19	0	1	Since
+20	0	1	my
+21	0	1	true
+22	0	1	love
+23	0	1	walked
+24	0	1	out
+25	0	1	the
+26	0	1	door, ____
+27	0	1	door, ____
+29	0	1	Tears
+30	0	1	I
+31	1	1	nev
+32	3	1	er
+33	0	1	had
+34	1	1	be
+35	3	1	fore, ___
+37	1	1	Rib
+38	3	1	bon
+39	0	1	of
+40	1	1	dark
+41	3	1	ness
+42	1	1	o
+43	3	1	ver
+44	0	1	me.  ____
+45	0	1	(to Refrain 2)
+46	0	2	2. Clouds
+48	0	2	a -
+49	1	2	gath'
+50	3	2	rin'
+51	0	2	o'er
+52	0	2	my
+53	0	2	head ____
+55	0	2	That
+56	0	2	kill
+57	0	2	the
+58	0	2	day
+59	0	2	and
+60	0	2	hide
+61	0	2	the
+62	0	2	sun, _____
+63	0	2	sun, _____
+65	0	2	That
+66	0	2	shroud
+67	0	2	the
+68	0	2	night
+70	0	2	is
+71	0	2	done, __
+73	1	2	Rib
+74	3	2	bon
+75	0	2	of
+76	1	2	dark
+77	3	2	ness
+78	1	2	o
+79	3	2	ver
+80	0	1	3. Rain
+80	0	2	5. Here
+81	0	1	is
+81	0	2	in
+82	0	1	fal
+82	0	2	this
+83	0	1	ling
+83	0	2	cold
+84	0	1	on
+84	0	2	ro
+85	0	1	the
+85	0	2	om
+86	0	1	mead
+86	1	2	ly--
+88	3	1	ow_______
+88	0	2	ing____
+90	0	1	Where
+90	0	2	Don't
+91	0	1	once
+91	0	2	want
+92	0	1	my
+92	0	2	to
+93	0	1	love
+93	0	2	see
+94	0	1	and
+94	0	2	no
+95	0	1	I
+95	0	2	one
+96	0	1	did
+96	0	2	but
+97	0	1	lie, _____
+97	0	2	you, ____
+99	0	1	Now
+99	0	2	Lord,
+100	0	1	she
+100	0	2	I
+101	0	1	is
+101	0	2	wish
+102	0	1	gone
+102	0	2	I
+103	0	1	from
+103	0	2	could
+104	0	1	the
+104	0	2	be
+105	0	1	mead
+105	1	2	dy---
+107	3	1	ow, _____
+107	0	2	ing ______
+109	0	1	My
+109	0	2	To
+110	0	1	love,
+110	0	2	for
+111	0	1	good
+111	0	2	get
+112	0	1	bye.
+112	0	2	you.
+113	0	1	(to Refrain 4)
+113	0	2	(to Refrain 6)
+114	0	1	me. ________

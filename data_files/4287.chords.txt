@@ -1,0 +1,16 @@
+#	Title	Vol Vistu Gaily Star
+#	Source Filename	Slim Gaillard - Vol Vistu Gaily Star.xml
+0	24	9	3	1	minor
+24	56	4	3	0	dominant
+56	88	9	3	1	minor
+88	104	2	3	1	minor-seventh
+104	112	9	3	1	minor
+112	120	4	3	0	dominant
+120	128	9	3	1	minor
+128	152	9	3	1	minor
+152	184	4	3	0	dominant
+184	216	9	3	1	minor
+216	232	2	3	1	minor-seventh
+232	240	9	3	1	minor
+240	248	4	3	0	dominant
+248	256	9	3	1	minor

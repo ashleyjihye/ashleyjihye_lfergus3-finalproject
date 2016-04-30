@@ -1,0 +1,23 @@
+#	Title	Three Little Birds
+#	Source Filename	Bob Marley - Three Little Birds.xml
+0	4	0	3	0	major
+4	8	0	3	0	major
+8	12	0	3	0	major
+12	20	0	3	0	major
+20	24	5	3	0	major
+24	32.5833	0	3	0	major
+32.5833	36	0	3	0	major
+36	44.5	5	3	0	major
+44.5	44.5	5	3	0	major
+44.5	48.6667	0	3	0	major
+48.6667	52.5	0	3	0	major
+52.5	76	7	3	0	major
+76	84	0	3	0	major
+84	88	5	3	0	major
+88	96.5833	0	3	0	major
+96.5833	100	0	3	0	major
+100	108.5	5	3	0	major
+108.5	108.5	5	3	0	major
+108.5	112.667	0	3	0	major
+112.667	116.5	0	3	0	major
+116.5	140	7	3	0	major

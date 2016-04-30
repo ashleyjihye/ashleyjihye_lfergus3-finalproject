@@ -1,0 +1,10 @@
+#	Title	Részeg vagyok, rózsám
+#	Source Filename	Hungarian song - R?szeg vagyok, r?zs?m.xml
+0	4	0	3	0	major
+4	8	7	3	0	major
+8	12	0	3	0	major
+12	16	7	3	0	major
+16	24	7	3	0	major
+24	28	0	3	0	major
+28	30	7	3	0	major
+30	32	0	3	0	major

@@ -1,0 +1,21 @@
+#	Title	Till The End Of Time
+#	Source Filename	Buddy Kaye, Ted Mossman - Till The End Of Time.xml
+4	24	0	3	0	major
+24	26	7	3	1	minor
+26	28	9	3	0	dominant
+28	54	2	3	1	minor
+54	56	7	3	0	dominant
+56	59	0	3	0	major
+59	60	0	3	1	minor
+60	64	2	3	0	dominant
+64	68	7	3	0	dominant
+68	88	0	3	0	major
+88	90	7	3	1	minor
+90	92	9	3	0	dominant
+92	104	2	3	1	minor
+104	108	5	3	1	minor
+108	112	0	3	0	major
+112	116	9	3	0	dominant
+116	120	2	3	1	minor
+120	124	7	3	0	dominant
+124	136	0	3	0	major

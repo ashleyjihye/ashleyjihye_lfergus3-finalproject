@@ -1,0 +1,34 @@
+#	Title	When You Come To The End Of The Day
+#	Source Filename	Gus Kahn & Frank Westphal - When You Come To The End Of The Day.xml
+3	6	0	3	0	major
+6	9	4	3	0	dominant
+9	12	5	3	0	major
+12	15	9	3	0	dominant
+15	18	2	3	1	minor
+18	21	2	3	1	minor-seventh
+21	24	7	3	0	dominant
+24	27	7	3	0	dominant
+27	30	0	3	0	major
+30	33	3	3	2	diminished
+33	36	7	3	0	dominant
+36	39	0	3	0	major
+39	42	9	3	1	minor-seventh
+42	45	2	3	0	dominant
+45	48	2	3	2	half-diminished
+48	51	7	3	0	dominant
+51	54	0	3	0	major
+54	57	4	3	0	dominant
+57	60	5	3	0	major
+60	63	9	3	0	dominant
+63	66	2	3	1	minor
+66	69	2	3	1	minor-seventh
+69	72	7	3	0	dominant
+72	75	7	3	0	dominant
+75	78	0	3	0	major
+78	81	3	3	2	diminished
+81	84	7	3	0	dominant
+84	86	1	3	2	diminished
+86	87	9	3	0	dominant
+87	90	2	3	0	dominant
+90	93	7	3	0	dominant
+93	99	0	3	0	major

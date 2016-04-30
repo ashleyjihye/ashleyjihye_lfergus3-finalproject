@@ -1,0 +1,27 @@
+#	Title	We Just Couldn't Say Goodbye
+#	Source Filename	Harry Woods - We Just Couldn't Say Goodbye.xml
+2	6	7	3	0	dominant
+6	8.83333	0	3	0	major
+8.83333	10	7	3	2	diminished
+10	14	7	3	0	dominant
+14	15	2	3	0	dominant
+15	16	7	3	0	dominant
+16	18	0	3	0	major
+18	22	7	3	0	dominant
+22	24.8333	0	3	0	major
+24.8333	26	7	3	2	diminished
+26	30	7	3	0	dominant
+30	31	2	3	0	dominant
+31	32	7	3	0	dominant
+32	34	0	3	0	major
+34	36	7	3	1	minor-seventh
+36	38	0	3	0	dominant
+38	42	5	3	0	major
+42	44	2	3	0	dominant
+44	50	7	3	0	dominant
+50	54	7	3	0	dominant
+54	57	0	3	0	major
+57	58	7	3	2	diminished
+58	62	7	3	0	dominant
+62	64	2	3	0	dominant
+64	66	0	3	0	major

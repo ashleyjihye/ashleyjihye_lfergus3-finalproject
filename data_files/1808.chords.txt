@@ -1,0 +1,18 @@
+#	Title	In The Good Old Summertime
+#	Source Filename	George Evans, Ren Shields - In The Good Old Summertime.xml
+3	9	0	3	0	major
+9	15	0	3	0	dominant
+15	21	5	3	0	major
+21	36	0	3	0	major
+36	39	9	3	1	minor
+39	45	2	3	0	dominant
+45	48	2	3	1	minor
+48	51	7	3	0	dominant
+51	57	0	3	0	major
+57	63	0	3	0	dominant
+63	69	5	3	0	major
+69	84	0	3	0	major
+84	87	9	3	1	minor
+87	90	2	3	0	dominant
+90	93	7	3	0	dominant
+93	99	0	3	0	major

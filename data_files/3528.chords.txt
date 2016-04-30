@@ -1,0 +1,36 @@
+#	Title	Save The Last Dance For Me
+#	Source Filename	Mort Shuman, Doc Pomus - Save The Last Dance For Me.xml
+2	8	0	3	0	major
+8	12	7	3	0	dominant
+12	18	8	3	0	dominant
+18	21	0	3	0	major
+21	21.5	7	3	0	dominant
+21.5	22	0	3	0	dominant
+22	26	5	3	0	major
+26	30	0	3	0	major
+30	34	7	3	0	dominant
+34	38	0	3	0	major
+38	44	0	3	0	major
+44	48	7	3	0	dominant
+48	54	8	3	0	dominant
+54	57	0	3	0	major
+57	57.5	7	3	0	dominant
+57.5	58	0	3	0	dominant
+58	62	5	3	0	major
+62	66	0	3	0	major
+66	70	7	3	0	dominant
+70	74	0	3	0	major
+74	78	7	3	0	dominant
+78	82	0	3	0	major
+82	86	7	3	0	dominant
+86	88	0	3	0	major
+88	90	0	3	0	major
+90	96	0	3	0	major
+96	106	7	3	0	dominant
+106	109	0	3	0	major
+109	109.5	7	3	0	dominant
+109.5	110	0	3	0	major
+110	114	5	3	0	major
+114	118	0	3	0	major
+118	122	7	3	0	dominant
+122	124	0	3	0	major

@@ -1,0 +1,26 @@
+#	Title	The Irish Washerwoman
+#	Source Filename	Jerimiah Dugan, Charles Hansen - The Irish Washerwoman.xml
+6	18	0	3	0	major
+18	30	7	3	0	dominant
+30	42	0	3	0	major
+42	48	7	3	0	dominant
+48	66	0	3	0	major
+66	78	7	3	0	dominant
+78	81	5	3	0	major
+81	84	0	3	0	major
+84	87	5	3	0	major
+87	90	0	3	0	major
+90	96	7	3	0	dominant
+96	102	0	3	0	major
+102	114	0	3	0	major
+114	126	7	3	0	dominant
+126	138	0	3	0	major
+138	144	7	3	0	dominant
+144	162	0	3	0	major
+162	174	7	3	0	dominant
+174	177	5	3	0	major
+177	180	0	3	0	major
+180	183	5	3	0	major
+183	186	0	3	0	major
+186	192	7	3	0	dominant
+192	198	0	3	0	major

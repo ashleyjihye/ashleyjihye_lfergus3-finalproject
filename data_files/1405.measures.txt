@@ -1,0 +1,15 @@
+#	Title	Five Long Years
+#	Source Filename	Eddie Boyd - Five Long Years.xml
+0	12	8
+12	12	8
+24	12	8
+36	12	8
+48	12	8
+60	12	8
+72	12	8
+84	12	8
+96	12	8
+108	12	8
+120	12	8
+132	12	8
+144	12	8

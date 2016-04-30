@@ -1,0 +1,11 @@
+#	Title	Dites - Moi
+#	Source Filename	Richard Rodgers, Oscar Hammerstein II - Dites - Moi.xml
+0	12	0	3	0	major
+12	28	7	3	0	dominant
+28	40	0	3	0	major
+40	44	0	3	0	dominant
+44	48	5	3	0	major
+48	52	2	3	1	minor
+52	56	0	3	0	major
+56	60	7	3	0	dominant
+60	64	0	3	0	major

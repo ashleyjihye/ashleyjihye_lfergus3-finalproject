@@ -1,0 +1,31 @@
+#	Title	Laura
+#	Source Filename	David Raksin, Johnny Mercer - Laura.xml
+0	2	9	3	1	minor-seventh
+2	4	2	3	0	dominant
+4	8	7	3	0	major-seventh
+8	10	7	3	1	minor-seventh
+10	12	0	3	0	dominant
+12	16	5	3	0	major-seventh
+16	19	5	3	1	minor-seventh
+19	20	8	3	1	minor-sixth
+20	24	3	3	0	major-seventh
+24	25	9	3	2	half-diminished
+25	26	2	3	-1	dominant
+26	27	2	3	-1	dominant-ninth
+27	28	2	3	0	dominant
+28	30	11	3	1	minor-seventh
+30	32	4	3	0	dominant
+32	34	9	3	1	minor-seventh
+34	36	2	3	0	dominant
+36	40	7	3	0	major-seventh
+40	42	7	3	1	minor-seventh
+42	44	0	3	0	dominant
+44	48	5	3	0	major-seventh
+48	51	5	3	1	minor-seventh
+51	52	8	3	1	minor-sixth
+52	54	0	3	0	major-seventh
+54	56	2	3	0	dominant
+56	57	2	3	0	dominant
+57	58	2	3	3	dominant
+58	60	7	3	0	dominant-ninth
+60	62	0	3	0	major-sixth

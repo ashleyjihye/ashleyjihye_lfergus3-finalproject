@@ -1,0 +1,14 @@
+#	Title	A Villa Negra románca
+#	Source Filename	Ranki Gyorgy, Garai Gabor - A Villa Negra romanca.xml
+4	16	9	3	0	dominant
+16	20	2	3	1	minor
+20	32	8	3	0	dominant
+32	34	0	3	0	major
+34	36	4	3	0	dominant
+36	48	9	3	1	minor
+48	62	2	3	1	minor
+62	64	4	3	0	dominant
+64	68	9	3	1	minor
+68	80	9	3	1	minor
+80	96	2	3	1	minor
+96	100	9	3	1	minor

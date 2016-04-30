@@ -1,0 +1,7 @@
+#	Title	And love goes on
+#	Title	Eart, wind & fire - And love goes on.xml
+1	296	297	7	4
+2	297	298	5	4
+3	298	299	7	4
+4	299	300	7	4
+5	300	303	7	4

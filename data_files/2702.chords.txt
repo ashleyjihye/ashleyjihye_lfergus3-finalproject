@@ -1,0 +1,34 @@
+#	Title	Colour My World
+#	Source Filename	James Pankow - Colour My World.xml
+12	24	0	3	0	major-seventh
+24	36	4	3	1	minor
+36	48	5	3	0	major
+48	60	10	3	0	major-ninth
+60	72	3	3	0	major-seventh
+72	84	1	3	0	major-seventh
+84	90	9	3	0	dominant-ninth
+90	96	9	3	0	dominant
+96	108	2	3	0	major-seventh
+108	117	10	3	0	dominant-ninth
+117	132	7	3	0	dominant
+132	144	7	3	0	dominant
+144	153	0	3	0	major-seventh
+153	155	5	3	0	major
+155	156	7	3	0	major-sixth
+156	168	0	3	0	major-seventh
+168	180	0	3	0	major-seventh
+180	192	4	3	1	minor
+192	204	5	3	0	major
+204	216	10	3	0	major-ninth
+216	228	3	3	0	major-seventh
+228	240	1	3	0	major-seventh
+240	246	9	3	0	dominant-ninth
+246	252	9	3	0	dominant
+252	264	2	3	0	major-seventh
+264	273	10	3	0	dominant-ninth
+273	288	7	3	0	dominant
+288	300	7	3	0	dominant
+300	309	0	3	0	major-seventh
+309	311	5	3	0	major
+311	312	7	3	0	major-sixth
+312	324	0	3	0	major-seventh

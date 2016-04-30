@@ -1,0 +1,22 @@
+#	Title	El Amanecer
+#	Source Filename	Roberto Firpo - El Amanecer.xml
+4	8	9	3	1	minor
+8	12	4	3	0	major
+12	16	9	3	1	minor
+16	20	3	3	1	minor
+20	24	9	3	1	minor
+24	29	4	3	0	major
+29	32	9	3	1	minor
+32	36.5	9	3	1	minor
+36.5	68.5	4	3	0	major
+68.5	80	4	3	0	major
+80	86	3	3	1	minor
+86	88	4	3	0	major
+88	89	9	3	1	minor
+89	96.5	4	3	0	major
+96.5	100.5	9	3	0	major
+100.5	116.5	4	3	0	major
+116.5	140.5	4	3	0	major
+140.5	144	9	3	0	major
+144	150	5	3	0	major
+150	248	4	3	0	major

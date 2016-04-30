@@ -1,0 +1,35 @@
+#	Title	Yellow Bird
+#	Source Filename	Norman Luboff, Marilyn Keith, Alan Bergman - Yellow Bird.xml
+0	3	0	3	0	major
+3	4	9	3	0	major
+4	7	0	3	0	major
+7	8	7	3	0	major
+8	10	2	3	1	minor
+10	12	7	3	0	dominant
+12	19	0	3	0	major
+19	20	9	3	0	major
+20	23	0	3	0	major
+23	24	7	3	0	major
+24	26	2	3	1	minor
+26	28	7	3	0	dominant
+28	32	0	3	0	major
+32	36	5	3	0	major
+36	40	0	3	0	major
+40	44	7	3	0	dominant
+44	48	0	3	0	major
+48	52	5	3	0	major
+52	56	0	3	0	major
+56	60	7	3	0	dominant
+60	68	0	3	0	major
+68	72	2	3	1	minor-seventh
+72	76	7	3	0	dominant
+76	84	0	3	0	major
+84	88	2	3	1	minor
+88	92	7	3	0	dominant
+92	94	2	3	1	minor
+94	96	7	3	0	dominant
+96	107	0	3	0	major
+107	108	9	3	0	major
+108	112	0	3	0	major
+112	116	9	3	0	major
+116	124	0	3	0	major

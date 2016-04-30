@@ -1,0 +1,10 @@
+#	Title	Két szál pünkösdrózsa
+#	Source Filename	Hungarian folk song - K?t sz?l p?nk?sdr?zsa.xml
+0	2	4
+2	2	4
+4	2	4
+6	2	4
+8	2	4
+10	2	4
+12	2	4
+14	2	4

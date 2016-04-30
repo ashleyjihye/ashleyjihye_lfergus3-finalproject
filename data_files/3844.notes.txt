@@ -1,0 +1,10 @@
+#	Title	Every time We Say Goodbye
+#	Title	Porter - Every time We Say Goodbye.xml
+1	0	1	4	4
+2	16	17	7	4
+3	32	33	0	5
+4	48	49	8	4
+5	64	65	4	4
+6	80	81	7	4
+7	96	97	0	5
+8	112	113	4	4

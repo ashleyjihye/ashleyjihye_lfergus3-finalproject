@@ -1,0 +1,30 @@
+#	Title	Mister Ed
+#	Source Filename	Jay Livingston, Ray Evans - Mister Ed.xml
+6	18	0	3	0	major
+18	48	7	3	0	dominant-seventh
+48	66	0	3	0	major
+66	96	7	3	0	dominant-seventh
+96	102	0	3	0	major
+102	105	5	3	0	major
+105	108	5	3	2	diminished
+108	111	5	3	0	major
+111	114	5	3	2	diminished
+114	117	5	3	0	major
+117	120	5	3	2	diminished
+120	126	5	3	0	major
+126	129	0	3	0	major
+129	132	0	3	2	diminished
+132	138	0	3	0	major
+138	144	2	3	0	dominant-seventh
+144	150	7	3	0	dominant-seventh
+150	162	0	3	0	major
+162	198	7	3	0	dominant-seventh
+198	201	6	3	0	dominant-ninth
+201	210	7	3	0	dominant-ninth
+210	222	7	3	0	dominant-seventh
+222	243	0	3	0	major
+243	246	7	3	0	dominant-13th
+246	258	0	3	0	major
+258	261	2	3	1	minor
+261	264	7	3	0	dominant-seventh
+264	270	0	3	0	major

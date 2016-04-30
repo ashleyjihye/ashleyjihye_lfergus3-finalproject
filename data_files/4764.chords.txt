@@ -1,0 +1,23 @@
+#	Title	MEXICAN HAT DANCE
+#	Source Filename	Unknown - MEXICAN HAT DANCE.xml
+6	12	0	3	0	major
+12	24	7	3	0	dominant
+24	30	0	3	0	major
+30	36	2	3	1	minor-seventh
+36	42	7	3	0	dominant
+42	54	0	3	0	major
+54	72	0	3	0	major
+72	96	7	3	0	dominant
+96	120	0	3	0	major
+120	144	7	3	0	dominant
+144	150	0	3	0	major
+150	156	2	3	0	dominant
+156	162	7	3	0	major
+162	168	2	3	0	dominant
+168	174	7	3	0	major
+174	180	2	3	0	dominant
+180	186	7	3	0	major
+186	192	2	3	0	dominant
+192	198	7	3	0	major
+198	216	7	3	0	dominant
+216	234	0	3	0	major

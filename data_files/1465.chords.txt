@@ -1,0 +1,24 @@
+#	Title	Freight Train
+#	Source Filename	Elizabeth , 1893  June 29, 1987), Paul James & Fred Williams - Freight Train.xml
+0	4	0	3	0	major
+4	12	7	3	0	dominant
+12	16	0	3	0	major
+16	20	4	3	0	dominant
+20	24	5	3	0	major
+24	26	0	3	0	major
+26	27	2	3	1	minor-seventh
+27	28	7	3	0	dominant
+28	30	0	3	0	major
+30	31	2	3	1	minor-seventh
+31	32	7	3	0	dominant
+32	36	0	3	0	major
+36	44	7	3	0	dominant
+44	48	0	3	0	major
+48	52	4	3	0	dominant
+52	56	5	3	0	major
+56	58	0	3	0	major
+58	59	2	3	1	minor-seventh
+59	60	7	3	0	dominant
+60	62	0	3	0	major
+62	63	2	3	1	minor-seventh
+63	64	7	3	0	dominant

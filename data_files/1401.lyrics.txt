@@ -1,0 +1,3 @@
+#	Title	And love goes on
+#	Source Filename	Eart, wind & fire - And love goes on.xml
+5	0	1	you!

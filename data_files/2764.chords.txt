@@ -1,0 +1,36 @@
+#	Title	Teen Angel
+#	Source Filename	Jean Surrey, Red Surrey - Teen Angel.xml
+4	8	0	3	0	major
+8	12	5	3	0	major
+12	16	0	3	0	major
+16	20	5	3	0	major
+20	24	0	3	0	major
+24	28	5	3	0	major
+28	32	7	3	0	dominant
+32	36	0	3	0	major
+36	40	0	3	0	major
+40	48	7	3	0	dominant
+48	56	0	3	0	major
+56	60	5	3	0	major
+60	65.5	7	3	0	dominant
+65.5	67	0	3	0	major
+67	70	7	3	0	dominant
+70	76	0	3	0	major
+76	80	0	3	0	major
+80	84	5	3	0	major
+84	88	0	3	0	major
+88	92	5	3	0	major
+92	96	0	3	0	major
+96	100	5	3	0	major
+100	104	7	3	0	dominant
+104	108	0	3	0	major
+108	112	0	3	0	major
+112	120	7	3	0	dominant
+120	128	0	3	0	major
+128	132	5	3	0	major
+132	137.5	7	3	0	dominant
+137.5	144	0	3	0	major
+144	148	9	3	1	minor
+148	151	5	3	0	major
+151	152	7	3	0	dominant
+152	156	0	3	0	major

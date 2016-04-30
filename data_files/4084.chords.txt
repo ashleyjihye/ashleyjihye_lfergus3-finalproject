@@ -1,0 +1,37 @@
+#	Title	Campo Afuera
+#	Source Filename	Rodolfo Biagi - Campo Afuera.xml
+4	8	9	3	1	minor
+8	16	4	3	0	dominant
+16	24	9	3	1	minor
+24	28	2	3	1	minor
+28	32	4	3	0	dominant
+32	36	9	3	1	minor
+36	40	9	3	1	minor
+40	48	4	3	0	dominant
+48	56	9	3	1	minor
+56	60	2	3	1	minor
+60	64	4	3	0	dominant
+64	72	9	3	1	minor
+72	80	4	3	0	dominant
+80	88	9	3	1	minor
+88	92	2	3	1	minor
+92	96	7	3	0	dominant
+96	100	0	3	0	major
+100	104	9	3	0	dominant
+104	112	2	3	1	minor
+112	120	9	3	1	minor
+120	124	2	3	1	minor
+124	128	4	3	0	dominant
+128	132	9	3	1	minor
+132	136	9	3	0	major
+136	144	4	3	0	dominant
+144	152	9	3	0	major
+152	156	2	3	1	minor
+156	160	7	3	0	dominant
+160	164	0	3	0	major
+164	168	0	3	1	minor
+168	176	5	3	0	major
+176	184	9	3	1	minor
+184	188	5	3	0	major
+188	192	4	3	0	dominant
+192	196	9	3	1	minor

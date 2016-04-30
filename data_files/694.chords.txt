@@ -1,0 +1,26 @@
+#	Title	Crying Time
+#	Source Filename	Buck Owens - Crying Time.xml
+4	12	0	3	0	major
+12	28	7	3	0	dominant
+28	40	0	3	0	major
+40	44	0	3	0	dominant
+44	52	5	3	0	major
+52	56	0	3	0	major
+56	60	7	3	0	dominant
+60	68	0	3	0	major
+68	76	0	3	0	major
+76	92	7	3	0	dominant
+92	104	0	3	0	major
+104	108	0	3	0	dominant
+108	116	5	3	0	major
+116	120	0	3	0	major
+120	124	7	3	0	dominant
+124	132	0	3	0	major
+132	140	0	3	0	major
+140	156	7	3	0	dominant
+156	168	0	3	0	major
+168	172	0	3	0	dominant
+172	180	5	3	0	major
+180	184	0	3	0	major
+184	188	7	3	0	dominant
+188	196	0	3	0	major

@@ -1,0 +1,29 @@
+#	Title	Slowly
+#	Source Filename	Tommy Hill, Webb Pierce - Slowly.xml
+0	8	7	3	0	major
+8	12	0	3	0	major
+12	24	7	3	0	major
+24	28	9	3	0	dominant
+28	32	2	3	0	major
+32	40	7	3	0	major
+40	44	0	3	0	major
+44	48	7	3	0	major
+48	52	0	3	0	major
+52	56	7	3	0	major
+56	58	9	3	1	minor
+58	60	2	3	0	dominant
+60	62	7	3	0	major
+62	64	2	3	0	dominant
+64	72	7	3	0	major
+72	76	0	3	0	major
+76	88	7	3	0	major
+88	92	9	3	0	dominant
+92	96	2	3	0	dominant
+96	104	7	3	0	major
+104	108	0	3	0	major
+108	112	7	3	0	major
+112	116	0	3	0	major
+116	120	7	3	0	major
+120	122	9	3	1	minor
+122	124	2	3	0	dominant
+124	128	7	3	0	major

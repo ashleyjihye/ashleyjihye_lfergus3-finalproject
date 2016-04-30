@@ -1,0 +1,10 @@
+#	Title	Hej, Vargáné káposztát főz
+#	Source Filename	Hungarian folk song - Hej, Varg?n? k?poszt?t f?z.xml
+0	3	4
+3	3	4
+6	3	4
+9	3	4
+12	3	4
+15	3	4
+18	3	4
+21	3	4

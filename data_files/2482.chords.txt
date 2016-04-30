@@ -1,0 +1,16 @@
+#	Title	Kőrösi lány
+#	Source Filename	Hungarian song - K?r?si l?ny.xml
+0	8	0	3	0	major
+8	14	7	3	0	major
+14	16	0	3	0	major
+16	24	0	3	0	major
+24	30	7	3	0	major
+30	36	0	3	0	major
+36	38	5	3	0	major
+38	40	0	3	0	major
+40	46	7	3	0	major
+46	52	0	3	0	major
+52	54	5	3	0	major
+54	56	0	3	0	major
+56	62	7	3	0	major
+62	64	0	3	0	major

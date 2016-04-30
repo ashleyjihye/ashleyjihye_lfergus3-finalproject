@@ -1,0 +1,36 @@
+#	Title	Senza Mamma (Without A Mother)
+#	Source Filename	Francesco Pennino - Senza Mamma (Without A Mother).xml
+2	4	2	3	1	minor
+4	6	4	3	0	dominant
+6	8	9	3	1	minor
+8	10	2	3	1	minor
+10	12	9	3	1	minor
+12	13	11	3	1	minor
+13	14	4	3	0	dominant
+14	18	9	3	1	minor
+18	20	2	3	1	minor
+20	22	4	3	0	dominant
+22	24	9	3	1	minor
+24	26	2	3	1	minor
+26	28	9	3	1	minor
+28	29	11	3	1	minor
+29	30	4	3	0	dominant
+30	36	9	3	1	minor
+36	40	0	3	0	major
+40	44	2	3	1	minor
+44	48	7	3	0	dominant
+48	56	0	3	0	major
+56	60	2	3	1	minor
+60	64	7	3	0	dominant
+64	67	0	3	0	major
+67	68	7	3	0	dominant
+68	72	0	3	0	major
+72	72.5	4	3	1	minor
+72.5	73	9	3	0	major
+73	76	2	3	1	minor
+76	78	7	3	0	dominant-ninth
+78	80	7	3	0	dominant
+80	80.5	7	3	0	major
+80.5	81	0	3	1	minor
+81	81.5	7	3	0	dominant
+81.5	86	0	3	1	minor

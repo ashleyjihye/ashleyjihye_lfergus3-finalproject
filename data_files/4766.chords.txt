@@ -1,0 +1,37 @@
+#	Title	MIEN SJOENSTE KEDOOKE
+#	Source Filename	Unknown - MIEN SJOENSTE KEDOOKE.xml
+0	8	0	3	0	major
+8	16	7	3	0	dominant
+16	24	5	3	0	major
+24	32	0	3	0	major
+32	56	0	3	0	major
+56	64	7	3	0	dominant
+64	72	5	3	0	major
+72	84	0	3	0	major
+84	88	7	3	0	dominant
+88	96	0	3	0	major
+96	104	0	3	0	major
+104	112	7	3	0	dominant
+112	120	5	3	0	major
+120	136	0	3	0	major
+136	144	7	3	0	dominant
+144	148	5	3	0	major
+148	152	7	3	0	dominant
+152	160	0	3	0	major
+160	184	0	3	0	major
+184	192	7	3	0	dominant
+192	200	5	3	0	major
+200	212	0	3	0	major
+212	216	7	3	0	dominant
+216	224	0	3	0	major
+224	232	0	3	0	major
+232	240	7	3	0	dominant
+240	248	5	3	0	major
+248	264	0	3	0	major
+264	272	7	3	0	dominant
+272	276	5	3	0	major
+276	280	7	3	0	dominant
+280	288	5	3	0	major
+288	296	0	3	0	major
+296	304	5	3	0	major
+304	312	7	3	0	dominant

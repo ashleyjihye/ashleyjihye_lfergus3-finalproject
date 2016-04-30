@@ -1,0 +1,29 @@
+#	Title	So Danco Samba
+#	Source Filename	Antonio Carlos Jobim, Vinicius de Moraes - So Danco Samba.xml
+2	4	0	3	0	major-sixth
+4	6	5	3	0	dominant-ninth
+6	10	2	3	0	dominant-ninth
+10	12	2	3	1	minor-ninth
+12	13.5	7	3	0	dominant-ninth
+13.5	16	0	3	0	major-sixth
+16	18	5	3	0	dominant-ninth
+18	20	0	3	0	major-sixth
+20	22	5	3	0	dominant-ninth
+22	26	2	3	0	dominant-ninth
+26	28	2	3	1	minor-ninth
+28	29.5	7	3	0	dominant-ninth
+29.5	34	0	3	0	major-sixth
+34	36	7	3	1	minor-seventh
+36	38	0	3	0	dominant
+38	42	5	3	0	major-sixth
+42	44	9	3	1	minor-seventh
+44	46	2	3	0	dominant
+46	48	7	3	0	dominant
+48	50	7	3	3	dominant
+50	52	0	3	0	major-sixth
+52	54	5	3	0	dominant-ninth
+54	58	2	3	0	dominant-ninth
+58	60	2	3	1	minor-ninth
+60	62	7	3	0	dominant-ninth
+62	64	0	3	0	major-sixth
+64	66	5	3	0	dominant-ninth

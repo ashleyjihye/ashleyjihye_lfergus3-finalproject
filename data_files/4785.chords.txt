@@ -1,0 +1,11 @@
+#	Title	Ott fogsz majd sírni
+#	Source Filename	Unknown - Ott fogsz majd sirni.xml
+1	12.5	9	3	1	minor
+12.5	28.5	4	3	0	major
+28.5	36	9	3	1	minor
+36	44.5	2	3	1	minor
+44.5	49	9	3	1	minor
+49	52	2	3	1	minor
+52	56	9	3	1	minor
+56	60.5	4	3	0	major
+60.5	64	9	3	1	minor

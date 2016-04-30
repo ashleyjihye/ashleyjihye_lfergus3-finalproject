@@ -1,0 +1,18 @@
+#	Title	You Can't Be True Dear
+#	Source Filename	Hans Otten, Ken Griffin, Hal Cotton, Gerhard Ebeler - You Can't Be True Dear.xml
+6	15	7	3	0	major
+15	18	0	3	0	major
+18	30	2	3	0	dominant
+30	36	9	3	1	minor
+36	42	2	3	0	dominant
+42	54	7	3	0	major
+54	60	7	3	0	major
+60	63	7	3	0	dominant
+63	66	2	3	1	minor
+66	75	9	3	1	minor
+75	78	2	3	0	dominant
+78	84	7	3	0	major
+84	90	2	3	0	dominant
+90	93	7	3	0	major
+93	96	0	3	0	major
+96	99	7	3	0	major

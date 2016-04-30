@@ -1,0 +1,37 @@
+#	Title	Hosanna, Loud Hosanna
+#	Source Filename	Gesangbuch Der Hergogl - 1784, Jeannette Threlfall - Hosanna, Loud Hosanna.xml
+3	4	7	3	0	major
+4	8	0	3	0	major
+8	9	9	3	1	minor
+9	10	7	3	0	major
+10	12	0	3	0	major
+12	13	9	3	1	minor
+13	14	0	3	0	major
+14	16	2	3	0	dominant
+16	19	0	3	0	major
+19	20	7	3	0	major
+20	24	0	3	0	major
+24	25	9	3	1	minor
+25	26	7	3	0	major
+26	28	0	3	0	major
+28	29	9	3	1	minor
+29	30	0	3	0	major
+30	32	7	3	0	major
+32	37	0	3	0	major
+37	38	6	3	1	minor
+38	39	0	3	0	major
+39	40	6	3	1	minor
+40	43	7	3	0	major
+43	45	0	3	0	major
+45	46	7	3	0	major
+46	47	0	3	0	major
+47	48	6	3	1	minor
+48	52	7	3	0	major
+52	56	0	3	0	major
+56	58	9	3	1	minor
+58	59	7	3	0	major
+59	60	0	3	0	major
+60	61	6	3	1	minor
+61	62	9	3	1	minor
+62	64	7	3	0	major
+64	68	0	3	0	major

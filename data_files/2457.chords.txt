@@ -1,0 +1,12 @@
+#	Title	Add ide a didit
+#	Source Filename	Hungarian song - Add ide a didit.xml
+0	6	9	3	1	minor
+6	12	4	3	0	major
+12	14	9	3	1	minor
+14	20	9	3	1	minor
+20	26	4	3	0	major
+26	30	9	3	1	minor
+30	34	2	3	1	minor
+34	38	9	3	1	minor
+38	42	2	3	1	minor
+42	46	4	3	0	major

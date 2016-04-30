@@ -1,0 +1,51 @@
+#	Title	Sugar Blues
+#	Source Filename	Clarence Williams, Lucy Fletcher - Sugar Blues.xml
+0	12	0	3	-1	
+12	16	0	3	0	dominant
+16	20	5	3	-1	
+20	22	0	3	-1	
+22	24	5	3	-1	
+24	32	0	3	-1	
+32	33.5	7	3	-1	
+33.5	36	2	3	0	dominant
+36	40	7	3	-1	
+40	44	2	3	0	dominant
+44	48	7	3	0	dominant
+48	56	0	3	-1	
+56	68	7	3	0	dominant
+68	71	2	3	1	minor
+71	72	7	3	0	dominant
+72	92	0	3	0	dominant
+92	94	5	3	-1	
+94	100	2	3	1	minor
+100	101	0	3	-1	
+101	102	4	3	0	dominant
+102	104	9	3	0	dominant
+104	106	2	3	0	dominant
+106	108	7	3	0	dominant
+108	109	0	3	-1	
+109	110	4	3	0	dominant
+110	112	9	3	0	dominant
+112	114	2	3	0	dominant
+114	116	7	3	0	dominant
+116	118	0	3	-1	
+118	119	7	3	0	dominant
+119	120	7	3	3	augmented
+120	128	0	3	-1	
+128	140	7	3	0	dominant
+140	143	2	3	1	minor
+143	144	7	3	0	dominant
+144	164	0	3	0	dominant
+164	166	5	3	-1	
+166	172	2	3	1	minor
+172	173	0	3	-1	
+173	174	4	3	0	dominant
+174	176	9	3	0	dominant
+176	178	2	3	0	dominant
+178	180	7	3	0	dominant
+180	181	0	3	-1	
+181	182	4	3	0	dominant
+182	184	9	3	0	dominant
+184	186	2	3	0	dominant
+186	188	7	3	0	dominant
+188	196	0	3	-1	

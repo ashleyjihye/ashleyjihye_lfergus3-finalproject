@@ -1,0 +1,12 @@
+#	Title	A barátok, a barátok
+#	Source Filename	Hungarian song - A bar?tok, a bar?tok.xml
+0	10	9	3	1	minor
+10	12	4	3	0	major
+12	16	9	3	1	minor
+16	26	9	3	1	minor
+26	28	4	3	0	major
+28	32	9	3	1	minor
+32	36	7	3	0	major
+36	40	0	3	0	major
+40	44	7	3	0	major
+44	48	0	3	0	major

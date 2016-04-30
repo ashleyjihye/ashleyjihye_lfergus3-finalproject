@@ -1,0 +1,20 @@
+#	Title	Szánt a babám, csireg-csörög
+#	Source Filename	Hungarian folk song - Sz?nt a bab?m, csireg-cs?r?g.xml
+0	2	0	3	0	major
+2	4	7	3	0	dominant
+4	6	7	3	0	major
+6	10	0	3	0	major
+10	11.5	0	3	0	major
+11.5	12	7	3	0	dominant
+12	14	7	3	0	dominant
+14	16	0	3	0	major
+16	18	5	3	0	major
+18	19	0	3	0	major
+19	20	7	3	0	dominant
+20	21.5	0	3	0	major
+21.5	22	7	3	0	dominant
+22	24	7	3	0	dominant
+24	26	0	3	0	major
+26	28	5	3	0	major
+28	29	0	3	0	major
+29	30	7	3	0	dominant

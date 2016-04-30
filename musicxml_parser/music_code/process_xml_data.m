@@ -13,7 +13,7 @@
 % to set this appropriately.
 %if (~(exist('DATAPATH','var')))
 %    fprintf('%s\n', 'hi')
-DATAPATH = '~/Documents/Wellesley/Senior Year/CS349/musicxml_parser/data/test';
+DATAPATH = '~/Documents/Wellesley/Senior Year/CS349/ashleyjihye_lfergus3-finalproject/musicxml_parser/data/test';
 %end
 
 % Set up global constants used throughout all these scripts.
@@ -61,13 +61,13 @@ if (~exist('VALID_XML_PARTNAME_REGEXP','var'))
 end
 
 % Set up relevant code paths
-XML_TOOLS_PATH = '~/Documents/Wellesley/Senior Year/CS349/musicxml_parser/matlab_xml_tools/xml_tools';
+XML_TOOLS_PATH = '~/Documents/Wellesley/Senior Year/CS349/ashleyjihye_lfergus3-finalproject/musicxml_parser/matlab_xml_tools/xml_tools';
 addpath(XML_TOOLS_PATH);
 
-MIDI_TOOLBOX_PATH = '~/Documents/Wellesley/Senior Year/CS349/musicxml_parser/matlab_midi_tools/midi_toolbox';
+MIDI_TOOLBOX_PATH = '~/Documents/Wellesley/Senior Year/CS349/ashleyjihye_lfergus3-finalproject/musicxml_parser/matlab_midi_tools/midi_toolbox';
 addpath(MIDI_TOOLBOX_PATH);
 
-MIDI_WRITER_PATH = '~/Documents/Wellesley/Senior Year/CS349/musicxml_parser/mf2t';
+MIDI_WRITER_PATH = '~/Documents/Wellesley/Senior Year/CS349/ashleyjihye_lfergus3-finalproject/musicxml_parser/mf2t';
 addpath(MIDI_WRITER_PATH);
 
 addpath(pwd);
@@ -446,7 +446,7 @@ end
 % This script will flag and/or remove duplicates from all_songs, according
 % to the (global) FLAG_PROBABLE_DUPLICATES and REMOVE_PROBABLE_DUPLICATES
 % variables.
-flag_or_remove_duplicate_songs;
+%flag_or_remove_duplicate_songs;
 
 % Save the output as a matlab file
 save(MATLAB_OUTPUT_FILE,'all_songs');

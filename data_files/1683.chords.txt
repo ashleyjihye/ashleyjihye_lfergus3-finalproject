@@ -1,0 +1,29 @@
+#	Title	Forever And Ever
+#	Source Filename	Franz Winkler, Malia Rosa - Forever And Ever.xml
+6	18	0	3	0	major
+18	30	5	3	0	major
+30	42	7	3	0	dominant
+42	54	0	3	0	major
+54	66	0	3	0	major
+66	78	5	3	0	major
+78	90	7	3	0	dominant
+90	93	0	3	0	major
+93	96	2	3	1	minor-seventh
+96	104	0	3	0	major
+104	105	7	3	0	dominant
+105	129	0	3	0	major
+129	132	7	3	0	dominant
+132	134	7	3	0	major
+134	141	7	3	0	dominant
+141	144	0	3	0	major
+144	147	2	3	1	minor-seventh
+147	150	0	3	0	major
+150	153	0	3	0	dominant
+153	168	5	3	0	major
+168	177	0	3	0	major
+177	183	7	3	0	dominant
+183	186	2	3	1	minor-seventh
+186	189	7	3	0	dominant
+189	192	0	3	0	major
+192	195	2	3	1	minor-seventh
+195	198	0	3	0	major

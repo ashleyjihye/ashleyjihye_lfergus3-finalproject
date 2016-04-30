@@ -1,0 +1,22 @@
+#	Title	Swanee
+#	Source Filename	George Gershwin, Irving Caesar - Swanee.xml
+0	16	5	3	0	major
+16	20	10	3	0	major
+20	22	7	3	1	minor
+22	24	0	3	0	dominant
+24	36	5	3	0	major
+36	40	9	3	0	major
+40	48	10	3	0	major
+48	52	7	3	1	minor
+52	56	0	3	0	dominant
+56	64	5	3	0	major
+64	80	5	3	0	major
+80	84	10	3	0	major
+84	86	7	3	1	minor-seventh
+86	88	0	3	0	dominant
+88	100	5	3	0	major
+100	104	9	3	0	major
+104	108	10	3	0	major
+108	112	7	3	1	minor
+112	119	0	3	0	major
+119	128	5	3	0	major

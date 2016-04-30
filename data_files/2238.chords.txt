@@ -1,0 +1,23 @@
+#	Title	If I Had My Life To Live Over
+#	Source Filename	Henry Tobias, Moe Jaffe - If I Had My Life To Live Over.xml
+3	18	0	3	0	major
+18	21	4	3	0	dominant
+21	24	5	3	0	major
+24	27	9	3	0	dominant
+27	30	2	3	1	minor-seventh
+30	33	7	3	0	dominant
+33	36	4	3	0	dominant
+36	39	9	3	1	minor
+39	45	2	3	0	dominant
+45	51	7	3	0	dominant
+51	66	0	3	0	major
+66	69	4	3	0	dominant
+69	72	5	3	0	major
+72	75	9	3	0	dominant
+75	80	2	3	1	minor
+80	81	0	3	2	diminished
+81	84	0	3	0	major
+84	87	9	3	0	dominant
+87	90	2	3	1	minor
+90	93	7	3	0	dominant
+93	96	0	3	0	major

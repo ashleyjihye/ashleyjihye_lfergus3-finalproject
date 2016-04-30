@@ -1,0 +1,24 @@
+#	Title	Snowbird
+#	Source Filename	Gene MacLellan 1969, Gene MacLellan - Snowbird.xml
+4	8	0	3	0	major
+8	12	4	3	1	minor
+12	20	2	3	1	minor
+20	32	7	3	0	dominant
+32	44	0	3	0	major
+44	48	4	3	1	minor
+48	56	2	3	1	minor
+56	68	7	3	0	dominant
+68	76	0	3	0	major
+76	80	0	3	0	major
+80	84	4	3	1	minor
+84	92	2	3	1	minor
+92	104	7	3	0	dominant
+104	116	0	3	0	major
+116	120	4	3	1	minor
+120	128	2	3	1	minor
+128	140	7	3	0	dominant
+140	148	0	3	0	major
+148	156	7	3	0	dominant
+156	165	5	3	0	major
+165	168	2	3	1	minor-seventh
+168	180	0	3	0	major

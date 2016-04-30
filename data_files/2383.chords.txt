@@ -1,0 +1,16 @@
+#	Title	Ha énnékem
+#	Source Filename	Hungarian folk song - Ha ?nn?kem.xml
+0	8	9	3	1	minor
+8	14	4	3	0	major
+14	16	9	3	1	minor
+16	24	9	3	1	minor
+24	30	4	3	0	major
+30	36	9	3	1	minor
+36	44	2	3	1	minor
+44	48	9	3	1	minor
+48	54	4	3	0	major
+54	60	9	3	1	minor
+60	68	2	3	1	minor
+68	72	9	3	1	minor
+72	78	4	3	0	major
+78	80	9	3	1	minor

@@ -1,0 +1,22 @@
+#	Title	Bouquet of Roses
+#	Source Filename	Steve Nelson, Bob Hilliard - Bouquet of Roses.xml
+4	8	0	3	0	major
+8	12	7	3	0	dominant
+12	20	0	3	0	major
+20	28	7	3	0	dominant
+28	32	0	3	0	major
+32	36	7	3	0	dominant
+36	40	0	3	0	major
+40	44	7	3	0	dominant
+44	52	0	3	0	major
+52	60	7	3	0	dominant
+60	68	0	3	0	major
+68	76	5	3	0	major
+76	84	0	3	0	major
+84	92	2	3	0	dominant
+92	100	7	3	0	dominant
+100	104	0	3	0	major
+104	108	7	3	0	dominant
+108	116	0	3	0	major
+116	124	7	3	0	dominant
+124	132	0	3	0	major

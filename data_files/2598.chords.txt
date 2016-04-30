@@ -1,0 +1,36 @@
+#	Title	Show Me The Way To Go Home
+#	Source Filename	Irving King & Hal Swain - Show Me The Way To Go Home.xml
+0	4	0	3	0	major-sixth
+4	8	0	3	0	dominant
+8	12	5	3	0	major-sixth
+12	16	0	3	0	major-sixth
+16	20	0	3	0	major-seventh
+20	24	9	3	1	minor-seventh
+24	28	2	3	0	dominant
+28	32	7	3	0	dominant
+32	36	0	3	0	major-seventh
+36	40	0	3	0	dominant
+40	44	5	3	0	major-sixth
+44	48	4	3	0	dominant
+48	52	0	3	0	major-sixth
+52	56	9	3	1	minor-seventh
+56	58	2	3	0	dominant
+58	60	7	3	0	dominant
+60	64	0	3	0	major-sixth
+64	68	0	3	0	major-sixth
+68	72	0	3	0	dominant
+72	76	5	3	0	major-sixth
+76	80	0	3	0	major-sixth
+80	84	0	3	0	major-seventh
+84	88	9	3	1	minor-seventh
+88	92	2	3	0	dominant
+92	96	7	3	0	dominant
+96	100	0	3	0	major-seventh
+100	104	0	3	0	dominant
+104	108	5	3	0	major-sixth
+108	112	4	3	0	dominant
+112	116	0	3	0	major-sixth
+116	120	9	3	1	minor-seventh
+120	122	2	3	0	dominant
+122	124	7	3	0	dominant
+124	128	0	3	0	major-sixth

@@ -1,0 +1,24 @@
+#	Title	Play A Simple Melody
+#	Source Filename	Irving Berlin - Play A Simple Melody.xml
+0	3	0	3	0	major
+3	4	7	3	0	major
+4	8	0	3	0	major
+8	24	7	3	0	dominant
+24	29	0	3	0	major
+29	32	7	3	0	dominant
+32	35	0	3	0	major
+35	36	7	3	0	dominant
+36	39	0	3	0	major
+39	40	3	3	0	major
+40	56	7	3	0	dominant
+56	60	0	3	0	major
+60	67	0	3	0	major
+67	68	3	3	0	major
+68	83	0	3	0	dominant
+83	84	7	3	0	dominant
+84	88	0	3	0	major
+88	92	7	3	0	dominant
+92	100	0	3	0	major
+100	116	7	3	0	dominant
+116	119	0	3	0	major
+119	124	7	3	0	dominant

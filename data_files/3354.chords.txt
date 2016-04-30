@@ -1,0 +1,27 @@
+#	Title	Beautiful Ohio
+#	Source Filename	Mary Earl, Ballard  Macdonald - Beautiful Ohio.xml
+0	6	9	3	1	minor
+6	12	2	3	1	minor
+12	18	4	3	0	dominant
+18	30	9	3	1	minor
+30	36	2	3	1	minor
+36	39	4	3	0	dominant
+39	41	4	3	0	dominant-ninth
+41	42	4	3	0	dominant
+42	45	9	3	1	minor
+45	48	7	3	0	dominant
+48	54	0	3	0	major
+54	66	7	3	0	dominant
+66	78	0	3	0	major
+78	84	2	3	1	minor
+84	90	7	3	0	dominant
+90	102	0	3	0	major
+102	114	7	3	0	dominant
+114	123	0	3	0	major
+123	126	9	3	0	dominant
+126	129	2	3	1	minor
+129	132	2	3	1	minor-seventh
+132	133	7	3	0	dominant
+133	134	2	3	1	minor-seventh
+134	138	7	3	0	dominant
+138	144	0	3	0	major

@@ -1,0 +1,14 @@
+#	Title	Things Ain't What They Used To Be
+#	Source Filename	Mercer Ellington - Things Ain't What They Used To Be.xml
+0	4	4
+4	4	4
+8	4	4
+12	4	4
+16	4	4
+20	4	4
+24	4	4
+28	4	4
+32	4	4
+36	4	4
+40	4	4
+44	4	4

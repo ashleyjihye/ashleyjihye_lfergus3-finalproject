@@ -1,0 +1,19 @@
+#	Title	Achy Breaky Heart
+#	Source Filename	Don von Tress - Achy Breaky Heart.xml
+0	12	0	3	0	major
+12	28	7	3	0	major
+28	44	0	3	0	major
+44	60	7	3	0	major
+60	76	0	3	0	major
+76	92	7	3	0	major
+92	100	0	3	0	major
+100	112	0	3	0	major
+112	128	7	3	0	major
+128	144	0	3	0	major
+144	160	7	3	0	major
+160	176	0	3	0	major
+176	192	7	3	0	major
+192	200	0	3	0	major
+200	216	0	3	0	major
+216	232	7	3	0	major
+232	252	0	3	0	major

@@ -1,0 +1,33 @@
+#	Title	O Holy night
+#	Source Filename	Adolphe Adam - O Holy night.xml
+4	6	0	3	0	major
+6	8	5	3	0	major
+8	14	0	3	0	major
+14	16	7	3	0	dominant
+16	24	0	3	0	major
+24	26	5	3	0	major
+26	30	0	3	0	major
+30	32	4	3	1	minor
+32	34	11	3	0	dominant
+34	38	4	3	1	minor
+38	42	7	3	0	dominant
+42	46	0	3	0	major
+46	50	7	3	0	dominant
+50	54	0	3	0	major
+54	58	9	3	1	minor
+58	62	4	3	1	minor
+62	66	2	3	1	minor
+66	70	9	3	1	minor
+70	72	0	3	0	major
+72	74	7	3	0	dominant
+74	77	0	3	0	major
+77	78	5	3	0	major
+78	80	0	3	0	major
+80	82	7	3	0	dominant
+82	86	0	3	0	major
+86	90	7	3	0	dominant
+90	93	0	3	0	major
+93	94	5	3	0	major
+94	96	0	3	0	major
+96	98	7	3	0	dominant
+98	102	0	3	0	major

@@ -1,0 +1,18 @@
+#	Title	Ship Ahoy!
+#	Source Filename	Unknown - Ship Ahoy!.xml
+3	30	7	3	0	dominant
+30	39	0	3	0	major
+39	42	0	3	2	diminished
+42	54	0	3	0	major
+54	66	9	3	0	dominant
+66	69	2	3	0	dominant-ninth
+69	90	2	3	0	dominant
+90	126	7	3	0	dominant
+126	132	0	3	0	major
+132	138	0	3	2	diminished
+138	150	0	3	0	major
+150	162	9	3	0	dominant
+162	168	2	3	0	dominant-ninth
+168	174	2	3	0	dominant
+174	186	7	3	0	dominant
+186	198	0	3	0	major

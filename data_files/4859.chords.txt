@@ -1,0 +1,32 @@
+#	Title	Linus And Lucy
+#	Source Filename	Vince Guaraldi - Linus And Lucy.xml
+15.5	39.5	0	3	0	major
+39.5	47.5	3	3	0	major
+47.5	79.5	0	3	0	major
+79.5	87.5	3	3	0	major
+87.5	96	0	3	0	major
+96	97.5	5	3	0	major
+97.5	104	7	3	4	suspended-fourth
+104	105.5	5	3	0	major
+105.5	112	7	3	4	suspended-fourth
+112	113.5	5	3	0	major
+113.5	120	7	3	4	suspended-fourth
+120	151.5	0	3	0	major
+151.5	159.5	3	3	0	major
+159.5	167.5	0	3	0	major
+167.5	175.5	3	3	0	major
+175.5	185	0	3	0	major
+185	188	8	3	0	dominant-ninth
+188	196	7	3	0	dominant-ninth
+196	204	5	3	0	dominant-ninth
+204	208	4	3	0	dominant-ninth
+208	212	5	3	0	dominant-ninth
+212	216	7	3	0	dominant-ninth
+216	220	8	3	0	dominant-ninth
+220	228	7	3	0	dominant-ninth
+228	236	5	3	0	dominant-ninth
+236	240	4	3	0	dominant-ninth
+240	244	5	3	0	dominant-ninth
+244	248	6	3	0	dominant-ninth
+248	252	7	3	0	dominant-ninth
+252	308	0	3	0	major

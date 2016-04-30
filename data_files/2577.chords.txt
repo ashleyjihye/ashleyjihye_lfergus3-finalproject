@@ -1,0 +1,33 @@
+#	Title	There's No Business Like Show Business
+#	Source Filename	Irving Berlin - There's No Business Like Show Business.xml
+4	36	0	3	0	major
+36	44	7	3	0	dominant
+44	52	0	3	0	major
+52	60	7	3	0	dominant
+60	68	0	3	0	major
+68	80	7	3	0	dominant
+80	84	9	3	1	minor-seventh
+84	92	2	3	0	dominant
+92	96	2	3	1	minor-seventh
+96	100	7	3	0	dominant
+100	132	0	3	0	major
+132	140	7	3	0	dominant
+140	148	0	3	0	major
+148	156	7	3	0	dominant
+156	160	5	3	0	major
+160	168	9	3	0	dominant
+168	172	2	3	1	minor
+172	176	7	3	0	dominant
+176	180	0	3	0	major
+180	184	9	3	0	dominant
+184	188	2	3	0	major
+188	192	7	3	0	dominant
+192	196	0	3	0	major
+196	200	9	3	0	dominant
+200	204	2	3	1	minor
+204	208	7	3	0	dominant
+208	212	0	3	0	major
+212	216	9	3	0	dominant
+216	220	2	3	0	major
+220	224	7	3	0	dominant
+224	232	0	3	0	major

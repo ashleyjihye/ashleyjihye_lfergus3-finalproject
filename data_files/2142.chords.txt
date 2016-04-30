@@ -1,0 +1,36 @@
+#	Title	Innamorata
+#	Source Filename	Harry Warren, Jack Brooks - Innamorata.xml
+0	3	0	3	0	major
+3	6	4	3	1	minor-seventh
+6	9	5	3	0	major
+9	12	2	3	1	minor-seventh
+12	15	7	3	0	dominant
+15	17	2	3	1	minor-seventh
+17	18	7	3	0	dominant
+18	27	0	3	0	major
+27	30	0	3	2	diminished
+30	33	2	3	1	minor-seventh
+33	39	7	3	0	dominant
+39	42	7	3	3	augmented
+42	45	0	3	0	major
+45	47	2	3	1	minor-seventh
+47	48	7	3	0	dominant
+48	51	0	3	0	major
+51	54	4	3	1	minor-seventh
+54	57	5	3	0	major
+57	60	2	3	1	minor-seventh
+60	63	7	3	0	dominant
+63	65	2	3	1	minor-seventh
+65	66	7	3	0	dominant
+66	72	0	3	0	major
+72	75	7	3	1	minor-sixth
+75	78	9	3	0	dominant
+78	80	2	3	1	minor
+80	81	2	3	1	minor-seventh
+81	83	5	3	0	major
+83	84	2	3	-1	dominant
+84	86	0	3	0	major
+86	87	9	3	1	minor
+87	89	2	3	1	minor-seventh
+89	90	7	3	0	dominant
+90	96	0	3	0	major

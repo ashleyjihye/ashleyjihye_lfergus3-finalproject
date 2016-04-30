@@ -1,0 +1,23 @@
+#	Title	Where Have All The Flowers Gone?
+#	Source Filename	Peter Seeger - Where Have All The Flowers Gone?.xml
+0	3	0	3	0	major
+3	4	9	3	1	minor
+4	5	0	3	0	major
+5	6	2	3	0	dominant
+6	8	7	3	0	dominant
+8	11	0	3	0	major
+11	12	9	3	1	minor
+12	13	5	3	0	major
+13	14	0	3	0	major
+14	16	7	3	0	major
+16	19	0	3	0	major
+19	20	9	3	1	minor
+20	21	0	3	0	major
+21	22	2	3	0	dominant
+22	24	7	3	0	dominant
+24	26	5	3	0	major
+26	28	7	3	0	major
+28	30	0	3	0	major
+30	32	5	3	0	major
+32	34	7	3	0	major
+34	38	0	3	0	major

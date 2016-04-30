@@ -1,0 +1,24 @@
+#	Title	Love Makes The World Go Round
+#	Source Filename	Bob Merrill - Love Makes The World Go Round.xml
+0	6	0	3	0	major
+6	8	5	3	0	major
+8	14	0	3	0	major
+14	15	5	3	0	major
+15	18	0	3	0	major
+18	30	7	3	0	dominant
+30	31	2	3	1	minor
+31	37	7	3	0	dominant
+37	39	5	3	0	major
+39	41	2	3	1	minor-seventh
+41	42	7	3	0	major
+42	54	0	3	0	major
+54	56	5	3	0	major
+56	63	0	3	0	major
+63	66	0	3	0	major
+66	78	7	3	0	dominant
+78	79	2	3	1	minor-seventh
+79	84	7	3	0	dominant
+84	86	7	3	0	dominant
+86	87	2	3	1	minor-seventh
+87	90	7	3	0	major
+90	96	0	3	0	major

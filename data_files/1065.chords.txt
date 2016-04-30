@@ -1,0 +1,26 @@
+#	Title	My Heart Belongs To Daddy
+#	Source Filename	Cole Porter - My Heart Belongs To Daddy.xml
+2	8	9	3	1	minor
+8	10	11	3	2	half-diminished
+10	14	4	3	0	dominant-seventh
+14	15	2	3	1	minor
+15	16	4	3	0	dominant-seventh
+16	17.5	9	3	1	minor
+17.5	18	4	3	3	augmented-seventh
+18	24	9	3	1	minor
+24	26	11	3	2	half-diminished
+26	30	4	3	0	dominant-seventh
+30	31	2	3	1	minor
+31	32	4	3	0	dominant-seventh
+32	40	9	3	1	minor
+40	48	4	3	0	dominant-seventh
+48	51	9	3	0	major
+51	52	2	3	0	dominant-seventh
+52	55	7	3	0	major
+55	56	7	3	0	dominant-seventh
+56	58	0	3	0	major
+58	60	0	3	1	minor
+60	62	9	3	0	major
+62	63	11	3	2	half-diminished
+63	64	4	3	0	dominant-seventh
+64	66	9	3	0	major

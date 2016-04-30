@@ -1,0 +1,25 @@
+#	Title	Say Something Sweet To Your Sweetheart
+#	Source Filename	Roy C Bennet & Sid Tepper - Say Something Sweet To Your Sweetheart.xml
+0	8	0	3	0	major
+8	16	2	3	0	dominant
+16	24	7	3	0	dominant
+24	28	0	3	0	major
+28	32	7	3	0	dominant
+32	36	0	3	0	major
+36	40	0	3	2	diminished
+40	44	2	3	1	minor-seventh
+44	48	7	3	0	dominant
+48	56	2	3	0	dominant
+56	64	7	3	0	dominant
+64	72	0	3	0	major
+72	80	2	3	0	dominant
+80	84	7	3	0	dominant
+84	88	2	3	1	minor-seventh
+88	96	4	3	0	dominant
+96	100	2	3	1	minor
+100	104	0	3	2	diminished
+104	108	0	3	0	major
+108	112	9	3	0	dominant
+112	116	2	3	0	dominant
+116	120	7	3	0	dominant
+120	128	0	3	0	major

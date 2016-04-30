@@ -1,0 +1,4 @@
+#	Title	Scott's Tune
+#	Source Filename	Scott Auble - Scott's Tune.xml
+0	4	4
+4	4	4

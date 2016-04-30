@@ -1,0 +1,32 @@
+#	Title	Yours
+#	Source Filename	Gonzalo Roig, Albert Gamse, Jack Sherr - Yours.xml
+0	7	0	3	0	major
+7	8	11	3	0	dominant
+8	10	5	3	0	major
+10	23	0	3	0	major
+23	24	9	3	0	dominant
+24	38	2	3	0	major
+38	39	7	3	0	dominant
+39	40	5	3	0	major
+40	42	2	3	0	major
+42	56	7	3	0	dominant
+56	71	0	3	0	major
+71	72	11	3	0	dominant
+72	74	5	3	0	major
+74	78	0	3	0	major
+78	80	0	3	0	dominant
+80	82	9	3	0	dominant
+82	83	2	3	0	major
+83	88	9	3	0	dominant
+88	100	2	3	0	major
+100	102	2	3	0	major
+102	104	7	3	0	dominant
+104	105.5	0	3	0	major
+105.5	108	0	3	0	dominant
+108	110	2	3	0	major
+110	112	9	3	0	dominant
+112	116	2	3	0	major
+116	120	5	3	0	major
+120	126	0	3	0	major
+126	128	7	3	0	dominant
+128	136	0	3	0	major

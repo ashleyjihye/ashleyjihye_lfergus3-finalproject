@@ -1,0 +1,36 @@
+#	Title	Let It Snow! Let It Snow! Let It Snow!
+#	Source Filename	Jule Styne, Sammy Cahn - Let It Snow! Let It Snow! Let It Snow!.xml
+4	6	0	3	0	major
+6	8	7	3	0	dominant
+8	16	0	3	0	major
+16	20	7	3	0	dominant
+20	22	2	3	1	minor
+22	24	9	3	0	dominant
+24	28	2	3	1	minor
+28	32	7	3	0	dominant
+32	36	0	3	0	major
+36	38	0	3	0	major
+38	40	7	3	0	dominant
+40	48	0	3	0	major
+48	52	7	3	0	dominant
+52	54	2	3	1	minor
+54	56	9	3	0	dominant
+56	60	2	3	1	minor
+60	64	7	3	0	dominant
+64	68	0	3	0	major
+68	76	7	3	0	major
+76	78	9	3	1	minor
+78	80	2	3	0	dominant
+80	92	7	3	0	major
+92	94	9	3	0	dominant
+94	96	2	3	0	dominant
+96	100	7	3	0	dominant
+100	102	0	3	0	major
+102	104	7	3	0	dominant
+104	112	0	3	0	major
+112	116	7	3	0	dominant
+116	118	2	3	1	minor
+118	120	9	3	0	dominant
+120	124	2	3	1	minor
+124	128	7	3	0	major
+128	132	0	3	0	major

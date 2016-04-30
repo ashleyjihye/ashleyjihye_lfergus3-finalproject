@@ -1,0 +1,24 @@
+#	Title	Walking The Floor Over You
+#	Source Filename	Ernest Tubb - Walking The Floor Over You.xml
+4	12	0	3	0	major
+12	20	5	3	0	major
+20	28	7	3	0	dominant
+28	32	0	3	0	major
+32	36	7	3	0	dominant
+36	46	0	3	0	major
+46	48	0	3	0	dominant
+48	52	5	3	0	major
+52	64	7	3	0	dominant
+64	72	0	3	0	major
+72	80	0	3	0	major
+80	88	5	3	0	major
+88	96	7	3	0	dominant
+96	100	0	3	0	major
+100	104	7	3	0	dominant
+104	114	0	3	0	major
+114	116	0	3	0	dominant
+116	120	5	3	0	major
+120	128	7	3	0	dominant
+128	132	0	3	0	major
+132	136	7	3	0	dominant
+136	144	0	3	0	major

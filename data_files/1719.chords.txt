@@ -1,0 +1,37 @@
+#	Title	My Hang Up Is You
+#	Source Filename	Freddie Hart - My Hang Up Is You.xml
+0	4	0	3	0	major
+4	8	7	3	0	major
+8	12	2	3	0	dominant
+12	28	7	3	0	major
+28	32	7	3	0	dominant
+32	40	0	3	0	major
+40	44	7	3	0	major
+44	48	9	3	0	major
+48	52	2	3	0	dominant
+52	54	7	3	0	major
+54	56	2	3	0	dominant
+56	64	7	3	0	major
+64	72	0	3	0	major
+72	76	7	3	0	major
+76	80	2	3	0	major
+80	88	7	3	0	major
+88	96	0	3	0	major
+96	104	7	3	0	major
+104	112	0	3	0	major
+112	116	7	3	0	major
+116	124	2	3	0	dominant
+124	126	7	3	0	major
+126	128	2	3	0	dominant
+128	132	7	3	0	major
+132	136	7	3	0	dominant
+136	148	0	3	0	major
+148	152	7	3	0	major
+152	156	2	3	0	dominant
+156	160	7	3	0	major
+160	164	7	3	0	dominant
+164	168	0	3	0	major
+168	172	7	3	0	major
+172	176	2	3	0	dominant
+176	184	0	3	0	major
+184	192	7	3	0	major

@@ -1,0 +1,26 @@
+#	Title	Walk on by
+#	Source Filename	Burt Bacharach, Hal David - Walk on by.xml
+0	2	9	3	1	minor-seventh
+2	4	2	3	0	dominant-ninth
+4	6	9	3	1	minor-seventh
+6	8	2	3	0	dominant-ninth
+8	10	9	3	1	minor-seventh
+10	12	2	3	0	dominant-ninth
+12	14	9	3	1	minor-seventh
+14	16	2	3	0	dominant-ninth
+16	20	7	3	1	minor-seventh
+20	24	9	3	1	minor-seventh
+24	28	7	3	1	minor-seventh
+28	32	9	3	1	minor-seventh
+32	36	2	3	1	minor-seventh
+36	40	9	3	1	minor-seventh
+40	44	10	3	0	major-seventh
+44	48	0	3	4	suspended-fourth
+48	52	5	3	0	major-seventh
+52	56	10	3	0	major-seventh
+56	60	5	3	0	major-seventh
+60	64	10	3	0	major-seventh
+64	68	5	3	0	major-seventh
+68	72	10	3	0	major-seventh
+72	76	5	3	0	major-seventh
+76	80	10	3	0	major-seventh

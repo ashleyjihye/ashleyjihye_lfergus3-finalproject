@@ -1,0 +1,13 @@
+#	Title	Száz forintnak ötven a fele
+#	Source Filename	Hungarian song - Szaz forintnak otven a fele.xml
+0	4	9	3	1	minor
+4	6	4	3	0	major
+6	8	9	3	1	minor
+8	12	9	3	1	minor
+12	14	4	3	0	major
+14	16	9	3	1	minor
+16	20	9	3	1	minor
+20	22	4	3	0	major
+22	24	9	3	1	minor
+24	28	4	3	0	major
+28	32	9	3	1	minor

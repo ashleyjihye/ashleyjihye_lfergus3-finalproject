@@ -1,0 +1,16 @@
+#	Title	Nem loptam én életembe
+#	Source Filename	Hungarian folk song - Nem loptam ?n ?letembe.xml
+0	4	0	3	0	major
+4	8	7	3	0	dominant
+8	12	7	3	0	dominant
+12	14	0	3	0	major
+14	15	7	3	0	dominant
+15	16	0	3	0	major
+16	18	0	3	0	major
+18	19	7	3	0	dominant
+19	20	0	3	0	major
+20	24	2	3	0	dominant
+24	28	7	3	0	dominant
+28	29.5	0	3	0	major
+29.5	30.5	7	3	0	dominant
+30.5	32	0	3	0	major

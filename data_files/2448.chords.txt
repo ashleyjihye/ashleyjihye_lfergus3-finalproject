@@ -1,0 +1,11 @@
+#	Title	Százados úr, sejehaj
+#	Source Filename	Hungarian soldier's song - Sz?zados ?r, sejehaj.xml
+0	4	0	3	0	major
+4	8	7	3	0	major
+8	12	0	3	0	major
+12	16	0	3	0	major
+16	20	7	3	0	major
+20	24	0	3	0	major
+24	32	0	3	0	major
+32	34	5	3	0	major
+34	36	7	3	0	major

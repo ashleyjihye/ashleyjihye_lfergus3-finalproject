@@ -1,0 +1,12 @@
+#	Title	Bye Bye
+#	Source Filename	Henry Mancini - Bye Bye.xml
+8	24	0	3	0	major
+24	48	0	3	0	dominant
+48	56	0	3	0	major
+56	80	0	3	0	dominant
+80	88	0	3	0	major
+88	120	0	3	0	major
+120	152	0	3	0	dominant
+152	192	0	3	0	dominant
+192	199.5	1	3	0	major-seventh
+199.5	204	0	3	0	major-seventh

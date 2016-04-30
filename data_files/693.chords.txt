@@ -1,0 +1,26 @@
+#	Title	Cryin' Time
+#	Source Filename	Buck Owens - Cryin' Time.xml
+4	8	0	3	0	major
+8	16	7	3	0	dominant
+16	22	0	3	0	major
+22	24	0	3	0	dominant
+24	28	5	3	0	major
+28	30	0	3	0	major
+30	32	7	3	0	dominant
+32	34	0	3	0	major
+34	36	7	3	0	dominant
+36	40	0	3	0	major
+40	48	7	3	0	dominant
+48	54	0	3	0	major
+54	56	0	3	0	dominant
+56	60	5	3	0	major
+60	62	0	3	0	major
+62	64	7	3	0	dominant
+64	76	0	3	0	major
+76	84	7	3	0	dominant
+84	90	0	3	0	major
+90	92	0	3	0	dominant
+92	96	5	3	0	major
+96	98	0	3	0	major
+98	100	7	3	0	dominant
+100	104	0	3	0	major

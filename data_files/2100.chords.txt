@@ -1,0 +1,17 @@
+#	Title	Hello Hello Who's Your Lady Friend?
+#	Source Filename	Harry Fragson, Bert Lee, Worton David - Hello Hello Who's Your Lady Friend?.xml
+2	6	0	3	0	major
+6	14	7	3	0	dominant
+14	18	0	3	0	major
+18	22	4	3	0	major
+22	26	9	3	1	minor
+26	30	2	3	0	dominant
+30	34	7	3	0	dominant
+34	38	0	3	0	major
+38	46	7	3	0	dominant
+46	52	0	3	0	major
+52	54	0	3	0	major
+54	58	2	3	1	minor
+58	60	7	3	0	major
+60	62	7	3	0	dominant
+62	66	0	3	0	major

@@ -1,0 +1,12 @@
+#	Title	The Blue Skirt Waltz
+#	Source Filename	Vaclav Blaha, Mitchell Parish - The Blue Skirt Waltz.xml
+0	6	0	3	0	major
+6	9	5	3	0	major
+9	18	0	3	0	major
+18	42	7	3	0	dominant
+42	45	0	3	0	major
+45	48	0	3	0	dominant
+48	60	5	3	0	major
+60	81	0	3	0	major
+81	90	7	3	0	dominant
+90	96	0	3	0	major

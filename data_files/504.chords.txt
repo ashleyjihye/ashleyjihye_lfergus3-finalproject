@@ -1,0 +1,17 @@
+#	Title	I'm A Lonely Little Petunia In An Onion Patch
+#	Source Filename	Billy Faber, Maurie Hartmann, Johnny Kamano - I'm A Lonely Little Petunia In An Onion Patch.xml
+4	12	0	3	0	major
+12	16	5	3	0	major
+16	20	7	3	0	dominant
+20	32	0	3	0	major
+32	36	5	3	0	major
+36	42	7	3	0	dominant
+42	48	0	3	0	major
+48	52	5	3	0	major
+52	56	0	3	0	major
+56	64	2	3	0	dominant
+64	68	7	3	0	dominant
+68	76	0	3	0	major
+76	80	5	3	0	major
+80	86	7	3	0	dominant
+86	96	0	3	0	major

@@ -1,0 +1,36 @@
+#	Title	Tears (For Souvenirs)
+#	Source Filename	Billy Uhr, Frank Capano - Tears (For Souvenirs).xml
+0	3	0	3	0	major
+3	5	4	3	1	minor-seventh
+5	6	9	3	0	dominant
+6	9	9	3	1	minor-seventh
+9	12	2	3	0	dominant
+12	15	7	3	0	dominant
+15	17	2	3	1	minor-seventh
+17	18	7	3	0	dominant
+18	24	0	3	0	major
+24	27	4	3	1	minor-seventh
+27	30	9	3	0	dominant
+30	36	2	3	0	dominant
+36	39	9	3	1	minor-seventh
+39	42	2	3	0	dominant
+42	45	7	3	0	dominant
+45	47	2	3	1	minor-seventh
+47	48	7	3	0	dominant
+48	51	0	3	0	major
+51	53	4	3	1	minor-seventh
+53	54	9	3	0	dominant
+54	57	9	3	1	minor-seventh
+57	60	2	3	0	dominant
+60	63	7	3	0	dominant
+63	65	2	3	1	minor-seventh
+65	66	11	3	1	minor-seventh
+66	69	4	3	4	suspended-fourth
+69	72	4	3	0	dominant
+72	75	5	3	0	major
+75	78	6	3	2	diminished
+78	81	0	3	0	major
+81	84	9	3	0	dominant
+84	87	2	3	0	dominant
+87	90	7	3	0	dominant
+90	96	0	3	0	major

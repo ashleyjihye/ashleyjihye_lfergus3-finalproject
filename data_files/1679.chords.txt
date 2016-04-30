@@ -1,0 +1,23 @@
+#	Title	The White Dove
+#	Source Filename	Franz Lehar, Clifford Grey - The White Dove.xml
+0	2	0	3	0	major
+2	3	9	3	2	diminished
+3	15	7	3	0	dominant
+15	26	0	3	0	major
+26	27	9	3	2	diminished
+27	39	7	3	0	dominant
+39	50	0	3	0	major
+50	51	9	3	2	diminished
+51	57	2	3	1	minor
+57	63	4	3	0	dominant
+63	69	9	3	1	minor
+69	75	9	3	2	diminished
+75	78	0	3	0	major
+78	81	9	3	1	minor
+81	84	0	3	0	major
+84	85	5	3	0	major
+85	86	7	3	2	diminished
+86	87	5	3	1	minor
+87	90	0	3	0	major
+90	93	7	3	0	dominant
+93	96	0	3	0	major

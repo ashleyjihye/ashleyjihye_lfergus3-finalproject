@@ -1,0 +1,8 @@
+#	Title	Esik az eső, ázik a heveder
+#	Source Filename	Hungarian folk song - Esik az es?, ?zik a heveder.xml
+0	4	4
+4	4	4
+8	4	4
+12	4	4
+16	4	4
+20	4	4

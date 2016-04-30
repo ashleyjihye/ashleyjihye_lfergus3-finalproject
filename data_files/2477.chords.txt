@@ -1,0 +1,17 @@
+#	Title	Honvéd banda
+#	Source Filename	Hungarian song - Honved banda.xml
+0	4	9	3	1	minor
+4	8	4	3	0	major
+8	10	9	3	1	minor
+10	12	4	3	0	major
+12	16	9	3	1	minor
+16	20	9	3	1	minor
+20	24	4	3	0	major
+24	26	9	3	1	minor
+26	28	4	3	0	major
+28	32	9	3	1	minor
+32	36	2	3	1	minor
+36	40	4	3	0	major
+40	44	2	3	1	minor
+44	46	9	3	1	minor
+46	48	4	3	0	major

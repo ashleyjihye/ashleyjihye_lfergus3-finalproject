@@ -1,0 +1,11 @@
+#	Title	Phase Dance
+#	Source Filename	Pat Metheny - Phase Dance.xml
+0	32	11	3	1	minor-seventh
+32	64	11	3	1	minor-seventh
+64	96	11	3	1	minor-seventh
+96	112	7	3	0	major
+112	128	7	3	0	major
+128	160	11	3	1	minor-seventh
+160	192	11	3	1	minor-seventh
+192	208	7	3	0	major
+208	224	7	3	0	major

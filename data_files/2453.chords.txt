@@ -1,0 +1,12 @@
+#	Title	A faluban nincs több kislány
+#	Source Filename	Hungarian song - A faluban nincs t?bb kisl?ny.xml
+0	8	0	3	0	major
+8	14	7	3	0	major
+14	16	0	3	0	major
+16	24	0	3	0	major
+24	30	7	3	0	major
+30	32	0	3	0	major
+32	36	5	3	0	major
+36	40	0	3	0	major
+40	44	5	3	0	major
+44	48	7	3	0	major

@@ -1,0 +1,13 @@
+#	Title	A füredi Annabálon
+#	Source Filename	Hungarian song - A furedi Annabalon.xml
+0	4	9	3	1	minor
+4	8	4	3	0	dominant
+8	14	7	3	0	major
+14	16	0	3	0	major
+16	18	9	3	1	minor
+18	20	2	3	1	minor
+20	22	9	3	1	minor
+22	24	4	3	0	major
+24	28	9	3	1	minor
+28	30	4	3	0	dominant
+30	32	9	3	1	minor

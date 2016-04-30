@@ -1,0 +1,21 @@
+#	Title	Fernando
+#	Source Filename	Benny Anderson, Stig Anderson, Bjorn Ulvaeus - Fernando.xml
+1	16	5	3	0	major
+16	20	2	3	1	minor
+20	36	7	3	1	minor
+36	46	0	3	0	major
+46	66	5	3	0	major
+66	70	2	3	1	minor
+70	86	7	3	1	minor
+86	96	0	3	0	major
+96	104	5	3	0	major
+104	112	0	3	0	dominant
+112	120	5	3	0	major
+120	128	0	3	0	dominant
+128	132	5	3	0	major
+132	140	2	3	0	major
+140	148	7	3	0	dominant
+148	156	0	3	0	dominant
+156	164	5	3	0	major
+164	172	0	3	0	dominant
+172	176	5	3	0	major

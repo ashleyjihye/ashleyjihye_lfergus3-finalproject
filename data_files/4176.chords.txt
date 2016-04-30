@@ -1,0 +1,7 @@
+#	Title	Manu rere
+#	Source Filename	Sam Freedman - Manu rere.xml
+1	16	0	3	0	major
+16	24	7	3	0	dominant
+24	48	0	3	0	major
+48	56	7	3	0	dominant
+56	64	0	3	0	major

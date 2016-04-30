@@ -1,0 +1,28 @@
+#	Title	Manana
+#	Source Filename	Peggy Lee & Dave Barbour - Manana.xml
+2	6	0	3	0	major
+6	14	7	3	0	dominant
+14	20	0	3	0	major
+20	22	9	3	0	dominant
+22	26	2	3	1	minor
+26	32	7	3	0	dominant
+32	33.5	0	3	0	major
+33.5	34	7	3	0	dominant
+34	38	0	3	0	major
+38	40	5	3	0	major
+40	42	2	3	1	minor
+42	46	7	3	0	dominant
+46	50	0	3	0	major
+50	54	0	3	0	major
+54	62	7	3	0	dominant
+62	68	0	3	0	major
+68	70	9	3	0	dominant
+70	74	2	3	1	minor
+74	80	7	3	0	dominant
+80	81.5	0	3	0	major
+81.5	82	7	3	0	dominant
+82	86	0	3	0	major
+86	88	5	3	0	major
+88	90	2	3	1	minor
+90	94	7	3	0	dominant
+94	98	0	3	0	major

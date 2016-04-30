@@ -1,0 +1,36 @@
+#	Title	Day By Day
+#	Source Filename	Axel Stordahl, Paul Weston, Sammy Cahn - Day By Day.xml
+0	2	9	3	1	minor-seventh
+2	8	2	3	1	minor-seventh
+8	12	9	3	1	minor-seventh
+12	15	2	3	1	minor-seventh
+15	16	7	3	0	dominant
+16	24	0	3	0	major
+24	28	4	3	1	minor-seventh
+28	32	4	3	0	dominant
+32	36	7	3	1	minor
+36	40	4	3	0	dominant
+40	47	9	3	0	major
+47	48	9	3	1	minor-seventh
+48	52	2	3	0	dominant
+52	56	6	3	2	diminished-seventh
+56	58	2	3	1	minor-seventh
+58	62	7	3	0	dominant
+62	64	5	3	2	diminished
+64	66	9	3	0	dominant
+66	72	2	3	1	minor-ninth
+72	76	9	3	1	minor
+76	79	2	3	0	dominant-ninth
+79	80	5	3	2	diminished
+80	82	0	3	0	dominant-ninth
+82	88	0	3	0	major
+88	95	9	3	0	major
+95	102	5	3	1	minor
+102	104	7	3	0	dominant
+104	108	0	3	0	major
+108	112	9	3	0	dominant
+112	116	6	3	2	diminished-seventh
+116	118	5	3	0	major
+118	119	7	3	0	dominant-ninth
+119	120	7	3	0	dominant
+120	124	0	3	0	major

@@ -1,0 +1,34 @@
+#	Title	If I Should Fall In Love Again
+#	Source Filename	Jack Popplewell - If I Should Fall In Love Again.xml
+3	6	0	3	0	major
+6	9	9	3	1	minor-seventh
+9	12	2	3	1	minor-seventh
+12	15	7	3	0	dominant
+15	18	0	3	0	major
+18	21	3	3	2	diminished
+21	24	2	3	1	minor-seventh
+24	27	7	3	0	dominant
+27	30	0	3	0	major
+30	33	3	3	2	diminished
+33	36	2	3	1	minor-seventh
+36	39	7	3	0	dominant
+39	42	0	3	0	major
+42	45	9	3	0	dominant
+45	48	2	3	1	minor-seventh
+48	49	7	3	0	dominant
+49	51	7	3	3	augmented
+51	54	0	3	0	major
+54	57	9	3	1	minor-seventh
+57	60	2	3	1	minor-seventh
+60	63	7	3	0	dominant
+63	66	0	3	0	major
+66	69	3	3	2	diminished
+69	72	2	3	1	minor-seventh
+72	75	7	3	0	dominant
+75	78	0	3	0	major
+78	81	11	3	0	dominant
+81	84	4	3	3	augmented-seventh
+84	87	9	3	0	dominant
+87	90	2	3	0	dominant
+90	93	7	3	0	dominant
+93	99	0	3	0	major

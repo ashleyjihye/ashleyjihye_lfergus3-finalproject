@@ -1,0 +1,32 @@
+#	Title	Lazy River
+#	Source Filename	Hoagy Carmichael, Sidney Arodin - Lazy River.xml
+0	4	9	3	0	dominant
+4	6	4	3	2	half-diminished
+6	8	9	3	3	augmented-seventh
+8	12	2	3	0	dominant
+12	14	9	3	1	minor-seventh
+14	16	2	3	0	dominant
+16	20	7	3	0	dominant
+20	22	2	3	1	minor-seventh
+22	24	7	3	0	dominant
+24	26	0	3	0	major-seventh
+26	27	2	3	1	minor-seventh
+27	28	7	3	0	dominant
+28	32	0	3	0	major-seventh
+32	36	9	3	0	dominant
+36	38	4	3	2	half-diminished
+38	40	9	3	3	augmented-seventh
+40	44	2	3	0	dominant
+44	46	9	3	1	minor-seventh
+46	48	2	3	0	dominant
+48	50	5	3	0	major-seventh
+50	52	6	3	2	diminished-seventh
+52	54	0	3	0	major-seventh
+54	56	9	3	0	dominant
+56	58	2	3	0	dominant-ninth
+58	60	7	3	0	dominant
+60	62	0	3	0	major-seventh
+62	64	9	3	0	dominant
+64	66	2	3	0	dominant-ninth
+66	68	7	3	0	dominant
+68	72	0	3	0	major-seventh

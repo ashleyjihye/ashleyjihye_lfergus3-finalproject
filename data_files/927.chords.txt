@@ -1,0 +1,11 @@
+#	Title	Now's The Time
+#	Source Filename	Charlie Parker - Now's The Time.xml
+4	8	0	3	0	dominant
+8	12	5	3	0	dominant
+12	20	0	3	0	dominant
+20	28	5	3	0	dominant
+28	36	0	3	0	dominant
+36	40	2	3	1	minor-seventh
+40	44	7	3	0	dominant
+44	48	0	3	0	dominant
+48	52	7	3	0	dominant

@@ -1,0 +1,26 @@
+#	Title	La Cumparsita
+#	Source Filename	Gerardo Matos Rodriguez - La Cumparsita.xml
+0	8	4	3	0	dominant
+8	16	9	3	1	minor
+16	24	4	3	0	dominant
+24	32	9	3	1	minor
+32	40	2	3	1	minor
+40	48	9	3	1	minor
+48	64	4	3	0	dominant
+64	65.5	9	3	1	minor
+65.5	68	4	3	0	dominant
+68	80	9	3	1	minor
+80	84	9	3	0	dominant
+84	88	2	3	1	minor
+88	92	2	3	0	major
+92	96	4	3	0	dominant
+96	98	2	3	1	minor
+98	100	4	3	0	dominant
+100	112	9	3	1	minor
+112	116	9	3	0	dominant
+116	124	2	3	1	minor
+124	128	9	3	1	minor
+128	132	4	3	0	dominant
+132	133	9	3	1	minor
+133	135	4	3	0	dominant
+135	136	9	3	1	minor

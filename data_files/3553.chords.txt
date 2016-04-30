@@ -1,0 +1,29 @@
+#	Title	You Stepped Out Of A Dream
+#	Source Filename	Nacio Herb Brown, Gus Kahn - You Stepped Out Of A Dream.xml
+0	8	0	3	0	major-seventh
+8	16	1	3	0	dominant
+16	20	3	3	0	dominant
+20	24	3	3	0	dominant
+24	32	8	3	0	major-seventh
+32	36	7	3	1	minor-seventh
+36	40	0	3	0	dominant
+40	48	5	3	0	major-seventh
+48	52	9	3	1	minor-seventh
+52	56	2	3	0	dominant
+56	56	3	3	1	minor-seventh
+56	60	8	3	0	dominant
+60	63	2	3	1	minor-ninth
+63	64	7	3	0	dominant-13th
+64	72	0	3	0	major-seventh
+72	80	1	3	0	dominant
+80	88	3	3	0	dominant
+88	92	6	3	0	dominant-ninth
+92	96	5	3	0	dominant
+96	100	2	3	2	half-diminished
+100	104	7	3	0	dominant
+104	108	0	3	0	major-seventh
+108	110	4	3	1	minor-seventh
+110	112	9	3	1	minor-seventh
+112	116	2	3	1	minor-seventh
+116	120	7	3	0	dominant
+120	124	7	3	0	major

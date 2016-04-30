@@ -1,0 +1,36 @@
+#	Title	I've Heard That Song Before
+#	Source Filename	Jule Styne, Sammy Cahn - I've Heard That Song Before.xml
+4	12	0	3	0	major
+12	14	11	3	1	minor-seventh
+14	20	4	3	0	dominant
+20	28	9	3	0	dominant
+28	36	2	3	0	dominant
+36	44	7	3	0	dominant
+44	46	0	3	0	major
+46	48	7	3	3	augmented-seventh
+48	52	0	3	0	major
+52	56	9	3	1	minor
+56	58	9	3	1	minor-seventh
+58	60	2	3	0	dominant
+60	60	2	3	1	minor-seventh
+60	64	2	3	2	half-diminished
+64	68	7	3	0	dominant
+68	76	0	3	0	major
+76	78	11	3	1	minor-seventh
+78	84	4	3	0	dominant
+84	92	9	3	0	dominant
+92	92	2	3	1	minor
+92	96	9	3	0	dominant
+96	102	2	3	1	minor
+102	104	0	3	3	augmented-seventh
+104	106	5	3	0	major
+106	108	10	3	0	dominant-ninth
+108	110	0	3	0	major-sixth
+110	112	11	3	0	dominant
+112	113	0	3	0	major-sixth
+113	114	4	3	2	half-diminished
+114	116	9	3	0	dominant
+116	120	2	3	1	minor-seventh
+120	122	2	3	2	half-diminished
+122	124	7	3	0	dominant
+124	132	0	3	0	major

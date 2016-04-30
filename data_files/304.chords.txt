@@ -1,0 +1,22 @@
+#	Title	The Barrow Boy Song
+#	Source Filename	Art Noel, Frank Walsh, Joe Burley & Harry Bull - The Barrow Boy Song.xml
+6	15	0	3	0	major
+15	18	9	3	0	dominant
+18	30	2	3	0	dominant
+30	42	7	3	0	dominant
+42	54	0	3	0	major
+54	66	9	3	0	dominant
+66	78	2	3	1	minor
+78	90	2	3	0	dominant
+90	96	9	3	2	diminished
+96	102	7	3	0	dominant
+102	111	0	3	0	major
+111	114	9	3	0	dominant
+114	126	2	3	0	dominant
+126	138	7	3	0	dominant
+138	150	4	3	0	major
+150	162	9	3	0	dominant
+162	174	2	3	1	minor
+174	180	2	3	0	dominant
+180	186	7	3	0	dominant
+186	198	0	3	0	major

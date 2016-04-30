@@ -1,0 +1,36 @@
+#	Title	Tarbolton Reel
+#	Source Filename	Traditional - Tarbolton Reel.xml
+4	12	9	3	1	minor
+12	20	7	3	0	major
+20	24	9	3	1	minor
+24	28	7	3	0	major
+28	30	0	3	0	major
+30	32	7	3	0	major
+32	33	0	3	0	major
+33	34	4	3	0	dominant
+34	40	9	3	1	minor
+40	48	9	3	1	minor
+48	56	7	3	0	major
+56	60	9	3	1	minor
+60	64	7	3	0	major
+64	66	0	3	0	major
+66	68	7	3	0	major
+68	69	0	3	0	major
+69	70	4	3	0	dominant
+70	72	9	3	1	minor
+72	80	9	3	1	minor
+80	88	7	3	0	major
+88	90	0	3	0	major
+90	92	7	3	0	major
+92	96	9	3	1	minor
+96	100	0	3	0	major
+100	102	4	3	0	dominant
+102	104	9	3	1	minor
+104	112	9	3	1	minor
+112	120	7	3	0	major
+120	122	0	3	0	major
+122	124	7	3	0	major
+124	128	9	3	1	minor
+128	132	0	3	0	major
+132	134	4	3	0	dominant
+134	136	9	3	1	minor

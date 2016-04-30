@@ -1,0 +1,27 @@
+#	Title	Ma premiere Guitare
+#	Source Filename	Sacha Distel - Ma premiere Guitare.xml
+0	12	9	3	1	minor-sixth
+12	16	11	3	-1	major-seventh
+16	24	4	3	0	dominant
+24	26	5	3	2	diminished
+26	28	4	3	0	dominant
+28	30	9	3	1	minor-sixth
+30	31	2	3	2	diminished
+31	32	5	3	2	diminished
+32	44	9	3	1	minor-sixth
+44	48	11	3	-1	major-seventh
+48	56	4	3	0	dominant
+56	58	4	3	0	dominant
+58	60	5	3	2	diminished
+60	64	9	3	1	minor-sixth
+64	76	9	3	0	dominant
+76	80	11	3	2	half-diminished
+80	88	11	3	0	dominant
+88	96	4	3	0	dominant
+96	108	9	3	1	minor-sixth
+108	112	11	3	-1	major-seventh
+112	120	4	3	0	dominant
+120	122	2	3	2	diminished
+122	124	5	3	2	diminished
+124	126	9	3	1	minor-sixth
+126	128	4	3	0	dominant

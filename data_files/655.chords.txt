@@ -1,0 +1,15 @@
+#	Title	Ha én rózsa volnék
+#	Source Filename	Br?dy J?nos - Ha ?n r?zsa voln?k.xml
+24	32	9	3	1	minor
+32	36	4	3	0	major
+36	40	9	3	1	minor
+40	48	0	3	0	major
+48	51.5	7	3	0	major
+51.5	56	0	3	0	major
+56	59.5	9	3	1	minor
+59.5	64	2	3	1	minor
+64	68	7	3	0	major
+68	73	0	3	0	major
+73	76	9	3	1	minor
+76	84	4	3	0	major
+84	88	9	3	1	minor

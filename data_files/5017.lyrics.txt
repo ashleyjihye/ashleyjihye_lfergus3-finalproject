@@ -1,0 +1,47 @@
+#	Title	On Top of Old Smoky
+#	Source Filename	tradtional American folk song - On Top of Old Smoky.xml
+1	0	1	1. On
+3	0	1	top
+4	0	1	of
+5	0	1	old
+6	1	1	Smo
+7	3	1	ky,
+9	0	1	All
+10	1	1	cov
+11	3	1	ered
+12	0	1	with
+13	0	1	snow,
+16	0	1	I
+18	0	1	lost
+19	0	1	my
+20	0	1	true
+21	1	1	lo
+22	3	1	ver
+24	0	1	For
+25	1	1	cour
+26	3	1	tin'
+27	0	1	too
+28	0	1	slow.
+31	1	2	2. A
+33	2	2	cour
+34	3	2	tin's
+35	0	2	a
+36	1	2	plea
+37	3	2	sure,
+39	1	2	A
+40	2	2	flirt
+41	3	2	in's
+42	0	2	a
+43	0	2	grief,
+46	0	2	And
+47	0	2	a
+48	0	2	false
+49	1	2	hear
+50	3	2	ted
+51	1	2	lo
+52	3	2	ver
+54	0	2	Is
+55	0	2	worse
+56	0	2	than
+57	0	2	a
+58	0	2	thief.

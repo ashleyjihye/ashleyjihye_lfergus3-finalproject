@@ -1,0 +1,18 @@
+#	Title	The Whiffenpoof Song
+#	Source Filename	Meade Minniegerode, Tod Galloway  - The Whiffenpoof Song.xml
+3	9	0	3	0	major
+9	15	7	3	0	dominant
+15	18	2	3	1	minor-seventh
+18	21	7	3	0	dominant
+21	33	0	3	0	major
+33	45	7	3	0	dominant
+45	51	0	3	0	major
+51	54	9	3	1	minor
+54	63	2	3	1	minor-seventh
+63	66	7	3	0	dominant
+66	69	7	3	0	major
+69	75	0	3	0	major
+75	81	9	3	0	dominant
+81	87	2	3	1	minor
+87	93	7	3	0	major
+93	99	0	3	0	major

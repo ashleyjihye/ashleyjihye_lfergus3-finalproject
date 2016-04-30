@@ -1,0 +1,21 @@
+#	Title	Ó, Nagyasszony, nemzetünk reménye
+#	Source Filename	Hungarian song - O, Nagyasszony, nemzetunk remenye.xml
+4	8	4	3	0	major
+8	12	9	3	1	minor
+12	14	4	3	0	major
+14	16	2	3	1	minor
+16	24	4	3	0	major
+24	26	9	3	1	minor
+26	28	2	3	1	minor
+28	32	4	3	0	major
+32	34	9	3	1	minor
+34	36	4	3	0	major
+36	46	9	3	1	minor
+46	52	2	3	1	minor
+52	54	9	3	1	minor
+54	56	4	3	0	major
+56	66	9	3	1	minor
+66	72	2	3	1	minor
+72	74	9	3	1	minor
+74	76	4	3	0	major
+76	80	9	3	1	minor

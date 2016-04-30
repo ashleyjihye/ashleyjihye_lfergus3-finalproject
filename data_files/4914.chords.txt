@@ -1,0 +1,22 @@
+#	Title	JuJu
+#	Source Filename	Wayne Shorter - JuJu.xml
+0	12	11	3	3	augmented-seventh
+12	24	11	3	3	augmented-seventh
+24	48	11	3	3	augmented-seventh
+48	54	11	3	3	augmented-seventh
+54	60	9	3	0	dominant
+60	66	8	3	0	major-seventh
+66	72	4	3	1	minor-seventh
+72	78	5	3	0	major-seventh
+78	84	11	3	1	minor-seventh
+84	90	5	3	0	major-seventh
+90	96	11	3	1	minor-seventh
+96	120	11	3	3	augmented-seventh
+120	126	11	3	3	augmented-seventh
+126	132	9	3	0	dominant
+132	138	8	3	0	major-seventh
+138	144	4	3	1	minor-seventh
+144	150	5	3	0	major-seventh
+150	156	11	3	1	minor-seventh
+156	162	5	3	0	major-seventh
+162	168	11	3	1	minor-seventh

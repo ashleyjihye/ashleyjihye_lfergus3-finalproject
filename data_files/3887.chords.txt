@@ -1,0 +1,10 @@
+#	Title	Bolero
+#	Source Filename	Ravel - Bolero.xml
+0	54	0	3	0	major
+54	228	0	3	0	major
+228	251	4	3	0	major
+251	252	7	3	0	dominant
+252	258	0	3	0	major
+258	264	0	3	0	major
+264	267	5	3	1	minor
+267	270	0	3	0	major

@@ -1,0 +1,16 @@
+#	Title	A Pub With No Beer
+#	Source Filename	Gordon Parsons, Dan Sheahan - A Pub With No Beer.xml
+3	9	0	3	0	major
+9	15	2	3	0	dominant
+15	24	7	3	0	dominant
+24	33	0	3	0	major
+33	39	2	3	0	dominant
+39	48	7	3	0	dominant
+48	60	0	3	0	major
+60	66	0	3	0	major
+66	72	2	3	0	dominant
+72	81	7	3	0	dominant
+81	90	0	3	0	major
+90	96	2	3	0	dominant
+96	105	7	3	0	dominant
+105	117	0	3	0	major

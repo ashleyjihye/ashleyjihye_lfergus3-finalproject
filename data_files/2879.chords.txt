@@ -1,0 +1,32 @@
+#	Title	Autumn Leaves
+#	Source Filename	Joseph Kosma, Jacques Prevert, Johnny Mercer - Autumn Leaves.xml
+4	8	2	3	1	minor-seventh
+8	12	7	3	0	dominant
+12	16	0	3	0	major-seventh
+16	20	5	3	0	major-seventh
+20	24	11	3	2	half-diminished
+24	28	4	3	0	dominant
+28	36	9	3	1	minor-sixth
+36	40	2	3	1	minor-seventh
+40	44	7	3	0	dominant
+44	48	0	3	0	major-seventh
+48	52	5	3	0	major-seventh
+52	56	11	3	2	half-diminished
+56	60	4	3	0	dominant
+60	68	9	3	1	minor-sixth
+68	72	11	3	2	half-diminished
+72	76	4	3	0	dominant
+76	84	9	3	1	minor-seventh
+84	88	2	3	1	minor-seventh
+88	92	7	3	0	dominant
+92	96	0	3	0	major-seventh
+96	100	5	3	0	major-seventh
+100	104	11	3	2	half-diminished
+104	108	4	3	0	dominant
+108	110	9	3	1	minor-seventh
+110	112	2	3	0	dominant
+112	114	7	3	1	minor-seventh
+114	116	0	3	0	dominant
+116	120	5	3	0	major-seventh
+120	124	4	3	0	dominant
+124	132	9	3	1	minor-sixth

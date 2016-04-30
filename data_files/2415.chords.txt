@@ -1,0 +1,22 @@
+#	Title	Pingvin
+#	Source Filename	Hungarian folk song - Pingvin.xml
+0	8	9	3	1	minor
+8	10	7	3	0	major
+10	12	4	3	0	major
+12	16	9	3	1	minor
+16	24	9	3	1	minor
+24	26	7	3	0	major
+26	28	4	3	0	major
+28	32	9	3	1	minor
+32	44	0	3	0	major
+44	48	7	3	0	major
+48	56	9	3	1	minor
+56	58	7	3	0	major
+58	60	4	3	0	major
+60	64	9	3	1	minor
+64	76	0	3	0	major
+76	80	7	3	0	major
+80	88	9	3	1	minor
+88	90	7	3	0	major
+90	92	4	3	0	major
+92	96	9	3	1	minor

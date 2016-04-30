@@ -1,0 +1,15 @@
+#	Title	Please Be Kind
+#	Source Filename	Saul Chaplin, Sammy Cahn - Please Be Kind.xml
+0	3.5	0	3	0	major
+3.5	4	8	3	2	diminished
+4	5	2	3	1	minor-seventh
+5	6	7	3	0	dominant-11th
+6	7	5	3	1	minor-sixth
+7	8	7	3	0	dominant
+8	11.5	0	3	0	major
+11.5	12	8	3	2	diminished
+12	13	2	3	1	minor-seventh
+13	14	7	3	0	dominant-11th
+14	15	5	3	1	minor-sixth
+15	16	7	3	0	dominant
+16	64	0	3	0	dominant

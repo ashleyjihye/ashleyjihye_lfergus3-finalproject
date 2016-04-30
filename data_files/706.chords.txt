@@ -1,0 +1,25 @@
+#	Title	Buster Rides Again
+#	Source Filename	Bud Powell - Buster Rides Again.xml
+4	12	0	3	0	dominant
+12	20	0	3	0	dominant
+20	28	0	3	0	dominant
+28	36	0	3	0	dominant
+36	40	5	3	0	dominant
+40	44	0	3	0	dominant
+44	48	5	3	0	dominant
+48	52	0	3	0	dominant
+52	56	5	3	0	dominant
+56	60	0	3	0	dominant
+60	64	8	3	0	dominant
+64	68	7	3	0	dominant
+68	76	0	3	0	dominant
+76	84	0	3	0	dominant
+84	92	0	3	0	dominant
+92	100	0	3	0	dominant
+100	104	5	3	0	dominant
+104	108	0	3	0	dominant
+108	112	5	3	0	dominant
+112	116	0	3	0	dominant
+116	120	5	3	0	dominant
+120	124	0	3	0	dominant
+124	132	8	3	0	dominant

@@ -1,0 +1,32 @@
+#	Title	God Bless America
+#	Source Filename	Irving Berlin - God Bless America.xml
+0	8	0	3	0	major
+8	20	7	3	0	dominant
+20	22	2	3	1	minor-seventh
+22	24	7	3	0	dominant
+24	28	0	3	0	major
+28	32	0	3	0	dominant
+32	40	5	3	0	major
+40	46	0	3	0	major
+46	47	9	3	1	minor
+47	48	0	3	0	major
+48	52	2	3	0	dominant
+52	54	7	3	0	dominant
+54	56	2	3	1	minor-seventh
+56	64	0	3	0	major
+64	72	7	3	0	dominant
+72	80	0	3	0	major
+80	88	7	3	0	dominant
+88	92	0	3	0	dominant
+92	96	7	3	1	minor
+96	100	5	3	0	major
+100	102	0	3	0	major
+102	104	7	3	0	dominant
+104	105	0	3	0	major
+105	106	4	3	0	dominant
+106	108	9	3	1	minor
+108	110	2	3	1	minor-seventh
+110	112	0	3	0	major
+112	116	7	3	0	dominant
+116	120	0	3	0	major
+120	124	0	3	0	major

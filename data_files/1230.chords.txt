@@ -1,0 +1,24 @@
+#	Title	After All These Years
+#	Source Filename	Des Coleman, Ollie Kennedy - After All These Years.xml
+2	12	0	3	0	major
+12	20	5	3	0	major
+20	25	7	3	0	major
+25	28	7	3	0	dominant
+28	30	0	3	0	major
+30	32	5	3	0	major
+32	36	7	3	0	major
+36	44	0	3	0	major
+44	52	5	3	0	major
+52	57	7	3	0	major
+57	60	7	3	0	dominant
+60	68	0	3	0	major
+68	76	5	3	0	major
+76	84	0	3	0	major
+84	88	7	3	0	major
+88	96	2	3	0	major
+96	100	7	3	0	major
+100	108	0	3	0	major
+108	116	2	3	1	minor
+116	121	7	3	0	major
+121	124	7	3	0	dominant
+124	128	0	3	0	major

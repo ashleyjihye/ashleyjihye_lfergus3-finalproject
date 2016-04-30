@@ -1,0 +1,27 @@
+#	Title	The Ash Grove
+#	Source Filename	Traditional Welsh - The Ash Grove.xml
+2	9	0	3	0	major
+9	12	2	3	1	minor
+12	15	7	3	0	dominant
+15	18	0	3	0	major
+18	21	5	3	0	major
+21	24	7	3	0	dominant
+24	33	0	3	0	major
+33	36	2	3	1	minor
+36	39	7	3	0	dominant
+39	42	0	3	0	major
+42	45	5	3	0	major
+45	48	7	3	0	dominant
+48	57	0	3	0	major
+57	63	7	3	0	dominant
+63	69	0	3	0	major
+69	71	7	3	0	dominant
+71	72	2	3	1	minor
+72	75	7	3	0	dominant
+75	81	0	3	0	major
+81	84	2	3	1	minor
+84	87	7	3	0	dominant
+87	90	0	3	0	major
+90	93	5	3	0	major
+93	96	7	3	0	dominant
+96	99	0	3	0	major

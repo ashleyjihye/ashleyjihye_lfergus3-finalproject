@@ -1,0 +1,30 @@
+#	Title	Sometimes I Feel Like a Motherless Child
+#	Source Filename	traditional American spiritual - Sometimes I Feel Like a Motherless Child.xml
+0	8	9	3	1	minor
+8	12	4	3	0	dominant
+12	16	9	3	1	minor
+16	28	4	3	0	dominant
+28	44	9	3	1	minor
+44	56	9	3	1	minor
+56	60	4	3	0	major
+60	80	9	3	1	minor
+80	88	9	3	1	minor
+88	92	4	3	0	dominant
+92	96	9	3	1	minor
+96	108	4	3	0	dominant
+108	124	9	3	1	minor
+124	136	9	3	1	minor
+136	140	4	3	0	major
+140	168	9	3	1	minor
+168	172	2	3	0	dominant
+172	176	9	3	1	minor
+176	188	4	3	0	dominant
+188	216	9	3	1	minor
+216	220	4	3	0	major
+220	248	9	3	1	minor
+248	252	2	3	0	dominant
+252	256	9	3	1	minor
+256	268	4	3	0	dominant
+268	296	9	3	1	minor
+296	300	4	3	0	major
+300	320	9	3	1	minor

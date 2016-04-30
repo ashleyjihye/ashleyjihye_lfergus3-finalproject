@@ -1,0 +1,28 @@
+#	Title	LA PETITE VALSE
+#	Source Filename	Unknown - LA PETITE VALSE.xml
+3	21	0	3	0	major
+21	45	7	3	0	dominant
+45	63	0	3	0	major
+63	69	9	3	0	dominant
+69	75	2	3	1	minor
+75	78	5	3	0	major
+78	81	5	3	1	minor
+81	87	0	3	0	major
+87	93	7	3	0	dominant
+93	99	0	3	0	major
+99	105	4	3	0	dominant
+105	111	9	3	1	minor
+111	117	4	3	0	dominant
+117	123	9	3	1	minor
+123	129	2	3	1	minor
+129	135	0	3	0	major
+135	141	7	3	0	dominant
+141	147	0	3	0	major
+147	153	4	3	0	dominant
+153	159	9	3	1	minor
+159	165	4	3	0	dominant
+165	171	9	3	1	minor
+171	177	2	3	1	minor
+177	183	0	3	0	major
+183	189	7	3	0	dominant
+189	195	0	3	0	major

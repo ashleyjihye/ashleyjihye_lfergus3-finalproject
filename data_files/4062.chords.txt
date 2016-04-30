@@ -1,0 +1,30 @@
+#	Title	Christ Arose
+#	Source Filename	Robert Lowry - Christ Arose.xml
+0	4	0	3	0	major
+4	6	5	3	0	major
+6	8	0	3	0	major
+8	12	7	3	0	major
+12	16	0	3	0	major
+16	20	5	3	0	major
+20	24	0	3	0	major
+24	26	9	3	1	minor
+26	27	7	3	0	major
+27	28	2	3	0	dominant
+28	32	7	3	0	major
+32	42	0	3	0	major
+42	44	5	3	0	major
+44	48	0	3	0	major
+48	52	7	3	0	major
+52	53	9	3	1	minor
+53	54	5	3	0	major
+54	56	0	3	0	major
+56	58	5	3	0	major
+58	60	2	3	0	dominant
+60	61	7	3	0	dominant
+61	63	9	3	1	minor
+63	64	7	3	0	dominant
+64	68	0	3	0	major
+68	72	5	3	0	major
+72	74	0	3	0	major
+74	76	7	3	0	major
+76	80	0	3	0	major

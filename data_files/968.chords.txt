@@ -1,0 +1,21 @@
+#	Title	Wo Menschen sich vergessen
+#	Source Filename	Christoph Lehmann - Wo Menschen sich vergessen.xml
+4	8	0	3	0	major
+8	12	2	3	0	dominant
+12	16	7	3	0	major
+16	21	4	3	0	dominant
+21	24	9	3	0	dominant
+24	28	2	3	0	dominant
+28	30	7	3	0	major
+30	36	7	3	0	major
+36	40	0	3	0	major
+40	45	7	3	0	major
+45	47.5	4	3	0	dominant
+47.5	52	9	3	0	dominant
+52	56	2	3	0	dominant
+56	60	7	3	0	major
+60	62	0	3	0	major
+62	64	2	3	1	minor
+64	67	7	3	0	major
+67	69	7	3	0	dominant
+69	72	0	3	0	major

@@ -1,0 +1,32 @@
+#	Title	This love
+#	Source Filename	Adam Levine, Jesse Charmichael - This love.xml
+4	8	4	3	0	dominant
+8	12	9	3	1	minor
+12	16	2	3	1	minor-seventh
+16	20	11	3	2	diminished-seventh
+20	24	4	3	0	dominant
+24	28	9	3	1	minor
+28	32	2	3	1	minor-seventh
+32	36	11	3	2	diminished-seventh
+36	44	9	3	1	minor
+44	45.75	9	3	1	minor
+45.75	52	2	3	1	minor-seventh
+52	53	9	3	1	minor
+53	60	2	3	1	minor-seventh
+60	61.75	9	3	1	minor
+61.75	72	2	3	1	minor
+72	76	9	3	1	minor
+76	80	2	3	1	minor
+80	84	4	3	0	dominant
+84	88	9	3	1	minor
+88	96	9	3	1	minor
+96	97.75	9	3	1	minor
+97.75	104	2	3	1	minor-seventh
+104	105	9	3	1	minor
+105	112	2	3	1	minor-seventh
+112	113.75	9	3	1	minor
+113.75	124	2	3	1	minor
+124	128	9	3	1	minor
+128	132	2	3	1	minor
+132	136	4	3	0	dominant
+136	156	9	3	1	minor

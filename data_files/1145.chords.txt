@@ -1,0 +1,22 @@
+#	Title	El Condor Pasa
+#	Source Filename	Daniel Alomia Robles  1913 based on traditional Andean folk tunes, Spanish lyrics: Daniel Alomia Robles - English: Paul Simon - .xml
+4	12	4	3	1	minor
+12	36	7	3	0	major
+36	60	4	3	1	minor
+60	84	7	3	0	major
+84	100	4	3	1	minor
+100	116	0	3	0	major
+116	132	7	3	0	major
+132	148	0	3	0	major
+148	164	7	3	0	major
+164	188	4	3	1	minor
+188	196	4	3	1	minor
+196	220	7	3	0	major
+220	244	4	3	1	minor
+244	268	7	3	0	major
+268	284	4	3	1	minor
+284	300	0	3	0	major
+300	316	7	3	0	major
+316	332	0	3	0	major
+332	348	7	3	0	major
+348	372	4	3	1	minor

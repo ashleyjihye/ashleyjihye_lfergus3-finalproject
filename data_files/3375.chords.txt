@@ -1,0 +1,16 @@
+#	Title	Rock Around The Clock
+#	Source Filename	Max Freedman - Rock Around The Clock.xml
+0	8	0	3	0	major
+8	16	0	3	0	major
+16	24	0	3	0	major
+24	34	7	3	0	dominant
+34	52	0	3	0	major
+52	60	5	3	0	major
+60	68	0	3	0	major
+68	76	7	3	0	dominant
+76	86	0	3	0	major
+86	104	0	3	0	major
+104	112	5	3	0	major
+112	120	0	3	0	major
+120	128	7	3	0	dominant
+128	136	0	3	0	major

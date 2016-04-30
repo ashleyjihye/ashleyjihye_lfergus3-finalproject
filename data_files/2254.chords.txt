@@ -1,0 +1,10 @@
+#	Title	Maiden Voyage
+#	Source Filename	Herbie Hancock - Maiden Voyage.xml
+4	20	9	3	1	minor-seventh
+20	36	0	3	1	minor-seventh
+36	52	9	3	1	minor-seventh
+52	68	0	3	1	minor-seventh
+68	84	10	3	1	minor-seventh
+84	100	1	3	1	minor-seventh
+100	116	9	3	1	minor-seventh
+116	132	0	3	1	minor-seventh

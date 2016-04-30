@@ -1,0 +1,30 @@
+#	Title	A child this day is born
+#	Source Filename	traditional - A child this day is born.xml
+3	8	0	3	0	major
+8	14	7	3	0	major
+14	16	2	3	0	major
+16	21	7	3	0	major
+21	26	0	3	0	major
+26	28	7	3	0	major
+28	32	2	3	0	major
+32	35	0	3	0	major
+35	40	7	3	0	major
+40	48	2	3	0	major
+48	54	7	3	0	major
+54	60	0	3	0	major
+60	64	2	3	0	major
+64	71	0	3	0	major
+71	76	0	3	0	major
+76	82	7	3	0	major
+82	84	2	3	0	major
+84	89	7	3	0	major
+89	94	0	3	0	major
+94	96	7	3	0	major
+96	100	2	3	0	major
+100	103	0	3	0	major
+103	108	7	3	0	major
+108	116	2	3	0	major
+116	122	7	3	0	major
+122	128	0	3	0	major
+128	132	2	3	0	major
+132	136	0	3	0	major

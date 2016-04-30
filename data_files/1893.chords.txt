@@ -1,0 +1,23 @@
+#	Title	All of me
+#	Source Filename	Gerald Marks, Seymour Simons - All of me.xml
+0	8	0	3	0	major-seventh
+8	16	4	3	0	dominant
+16	24	9	3	0	dominant
+24	32	2	3	1	minor-seventh
+32	40	4	3	0	dominant
+40	48	9	3	1	minor-seventh
+48	56	2	3	0	dominant
+56	60	2	3	1	minor-seventh
+60	64	7	3	0	dominant
+64	72	0	3	0	major-seventh
+72	80	4	3	0	dominant
+80	88	9	3	0	dominant
+88	96	2	3	1	minor-seventh
+96	100	5	3	0	major-seventh
+100	104	5	3	1	minor-seventh
+104	106	0	3	0	major-seventh
+106	108	4	3	1	minor-seventh
+108	112	9	3	0	dominant
+112	116	2	3	1	minor-seventh
+116	120	7	3	0	dominant
+120	128	0	3	0	major-seventh

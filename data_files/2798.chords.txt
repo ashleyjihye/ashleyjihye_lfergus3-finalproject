@@ -1,0 +1,20 @@
+#	Title	Make Believe
+#	Source Filename	Jerome Kern, Oscar Hammerstein II - Make Believe.xml
+4	20	7	3	0	dominant
+20	36	0	3	0	major
+36	38	7	3	0	dominant
+38	40	2	3	1	minor
+40	42	7	3	0	dominant
+42	44	2	3	1	minor
+44	52	7	3	0	dominant
+52	56	0	3	0	major
+56	60	2	3	0	dominant
+60	68	7	3	0	dominant
+68	84	7	3	0	dominant
+84	92	0	3	0	major
+92	100	2	3	0	dominant
+100	104	5	3	0	major
+104	108	2	3	0	dominant
+108	116	0	3	0	major
+116	124	7	3	0	dominant
+124	132	0	3	0	major

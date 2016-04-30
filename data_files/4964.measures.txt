@@ -1,0 +1,19 @@
+#	Title	Back Door Man
+#	Source Filename	Willie Dixon - Back Door Man.xml
+0	12	8
+12	12	8
+24	12	8
+36	12	8
+48	6	8
+54	12	8
+66	12	8
+78	12	8
+90	12	8
+102	12	8
+114	12	8
+126	12	8
+138	12	8
+150	12	8
+162	12	8
+174	12	8
+186	12	8

@@ -1,0 +1,8 @@
+#	Title	Minden, mi él
+#	Source Filename	Unknown - Minden, mi ?l.xml
+0	4	0	3	0	major
+4	8	9	3	1	minor
+8	12	5	3	0	major
+12	14	7	3	0	major
+14	16	7	3	0	dominant
+16	20	0	3	0	major

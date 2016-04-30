@@ -1,0 +1,18 @@
+#	Title	Daar is de lente, daar is de zon
+#	Source Filename	Jan De Wilde - Daar is de lente, daar is de zon.xml
+0	1.5	0	3	0	major
+1.5	4	7	3	0	major
+4	5.5	0	3	0	major
+5.5	8	7	3	0	major
+8	9.5	0	3	0	major
+9.5	12	5	3	0	major
+12	13.5	10	3	0	major
+13.5	16	0	3	0	major
+16	17.5	0	3	0	major
+17.5	20	7	3	0	major
+20	21.5	0	3	0	major
+21.5	24	7	3	0	major
+24	25.5	0	3	0	major
+25.5	28	5	3	0	major
+28	30	7	3	0	major
+30	32	0	3	0	major

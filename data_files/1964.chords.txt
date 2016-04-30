@@ -1,0 +1,27 @@
+#	Title	It's Not Unusual
+#	Source Filename	Gordon Mills, Les Reed - It's Not Unusual.xml
+1	8	5	3	0	major
+8	12	7	3	1	minor-seventh
+12	16	0	3	0	dominant
+16	24	5	3	0	major
+24	28	7	3	1	minor-seventh
+28	32	0	3	0	dominant
+32	40	9	3	1	minor-seventh
+40	44	7	3	1	minor-seventh
+44	48	0	3	0	major
+48	52	7	3	1	minor-seventh
+52	56	0	3	0	dominant
+56	64	5	3	0	major
+64	68	7	3	1	minor-seventh
+68	72	0	3	0	dominant
+72	80	7	3	1	minor-seventh
+80	88	0	3	0	dominant
+88	96	5	3	0	major
+96	104	2	3	1	minor
+104	112	7	3	1	minor-seventh
+112	120	0	3	0	dominant
+120	124	9	3	1	minor-seventh
+124	128	2	3	0	dominant
+128	132	7	3	1	minor-seventh
+132	136	0	3	0	dominant
+136	148	5	3	0	major

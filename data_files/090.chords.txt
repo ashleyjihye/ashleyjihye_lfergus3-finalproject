@@ -1,0 +1,23 @@
+#	Title	Me And My Shadow
+#	Source Filename	Al Jolson, Dave Dreyer, Billy Rose - Me And My Shadow.xml
+0	8	5	3	0	major
+8	12	10	3	1	minor
+12	22	7	3	1	minor
+22	24	0	3	0	major
+24	40	5	3	0	major
+40	48	4	3	0	dominant
+48	52	2	3	1	minor
+52	54	5	3	1	minor
+54	56	7	3	0	dominant
+56	64	0	3	0	major
+64	72	5	3	0	major
+72	78	10	3	0	major
+78	80	3	3	0	dominant
+80	88	2	3	0	dominant
+88	92	7	3	0	dominant
+92	96	0	3	0	dominant
+96	104	5	3	0	major
+104	108	10	3	1	minor
+108	118	7	3	1	minor
+118	120	0	3	0	dominant
+120	128	5	3	0	major

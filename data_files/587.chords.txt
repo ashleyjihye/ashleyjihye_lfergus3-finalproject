@@ -1,0 +1,32 @@
+#	Title	Because Him Is A Baby
+#	Source Filename	Bob Merrill - Because Him Is A Baby.xml
+3	15	0	3	0	major
+15	21	5	3	0	major
+21	27	0	3	0	major
+27	33	5	3	0	major
+33	35	0	3	0	major
+35	36	4	3	1	minor
+36	39	9	3	0	dominant
+39	42	2	3	0	dominant
+42	45	7	3	0	dominant
+45	57	0	3	0	major
+57	70	7	3	0	dominant
+70	81	0	3	0	major
+81	87	5	3	0	major
+87	93	7	3	0	dominant
+93	99	0	3	0	major
+99	111	0	3	0	major
+111	117	5	3	0	major
+117	123	0	3	0	major
+123	129	5	3	0	major
+129	131	0	3	0	major
+131	132	4	3	1	minor
+132	135	9	3	0	dominant
+135	138	2	3	0	dominant
+138	141	7	3	0	dominant
+141	153	0	3	0	major
+153	166	7	3	0	dominant
+166	177	0	3	0	major
+177	183	5	3	0	major
+183	189	7	3	0	dominant
+189	195	0	3	0	major

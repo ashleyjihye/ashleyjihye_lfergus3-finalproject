@@ -1,0 +1,35 @@
+#	Title	Lazy Afternoon
+#	Source Filename	Jerome Moross, John LaTouche - Lazy Afternoon.xml
+4	8	9	3	1	minor-seventh
+8	12	9	3	0	dominant-ninth
+12	16	9	3	1	minor-seventh
+16	20	2	3	0	dominant
+20	24	9	3	1	minor-seventh
+24	28	2	3	0	dominant
+28	32	9	3	1	minor-seventh
+32	36	2	3	0	dominant
+36	40	2	3	1	minor-seventh
+40	44	2	3	0	dominant-ninth
+44	48	2	3	1	minor-ninth
+48	52	7	3	0	dominant
+52	56	2	3	1	minor-seventh
+56	60	7	3	0	dominant
+60	64	2	3	1	minor-seventh
+64	68	7	3	0	dominant-ninth
+68	72	2	3	1	minor-seventh
+72	76	7	3	0	dominant
+76	84	0	3	0	major-seventh
+84	88	2	3	1	minor-seventh
+88	92	7	3	0	dominant
+92	96	0	3	0	major-seventh
+96	100	2	3	1	minor-seventh
+100	104	4	3	1	minor-seventh
+104	108	9	3	1	minor-seventh
+108	112	9	3	0	dominant-ninth
+112	116	9	3	1	minor-seventh
+116	120	2	3	0	dominant
+120	124	9	3	1	minor-seventh
+124	128	2	3	0	dominant
+128	132	9	3	1	minor-seventh
+132	136	2	3	0	dominant
+136	144	9	3	0	major-sixth

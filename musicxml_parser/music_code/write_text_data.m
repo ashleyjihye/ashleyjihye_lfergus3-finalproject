@@ -91,7 +91,8 @@ datestamp = sprintf('%02d.%02d.%02d.%02d.%02d.%02d',...
     t(1),t(2),t(3),t(4),t(5),round(t(6)));
 
 % Create the output directory
-dirname = sprintf('songdata.%s',datestamp);
+%dirname = sprintf('songdata.%s',datestamp);
+dirname = '';
 
 fprintf(1,'Writing data to %s\n',dirname);
 
@@ -104,10 +105,20 @@ for(cursongindex=1:nsongs)
 
     cursong = all_songs(cursongindex);
     
-    filename = sprintf('%s\\%03d.notes.txt',dirname,cursongindex);
+    filename = sprintf('%s%03d.notes.txt',dirname,cursongindex);
+    filename
     f = fopen(filename,'w');
-    fprintf(f,'#\tTitle\t%s\n',cursong.title);
-    fprintf(f,'#\tSource Filename\t%s\n',cursong.filename);
+    if (isfield(cursong, 'title'))
+        fprintf(f,'#\tTitle\t%s\n',cursong.title);
+    else
+        fprintf(f,'#\Title\t%s\n',filename);
+    end
+    
+    if (isfield(cursong, 'filename'))
+        fprintf(f,'#\tTitle\t%s\n',cursong.filename);
+    else
+        fprintf(f,'#\Title\t%s\n',filename);
+    end
         
     % Write out the notes file
     notes = cursong.transposed_notes;
@@ -121,7 +132,7 @@ for(cursongindex=1:nsongs)
     fclose(f);
     
     % Write out the chords file
-    filename = sprintf('%s\\%03d.chords.txt',dirname,cursongindex);
+    filename = sprintf('%s%03d.chords.txt',dirname,cursongindex);
     f = fopen(filename,'w');
     fprintf(f,'#\tTitle\t%s\n',cursong.title);
     fprintf(f,'#\tSource Filename\t%s\n',cursong.filename);
@@ -143,7 +154,7 @@ for(cursongindex=1:nsongs)
     fclose(f);
     
     % Write out the lyrics file
-    filename = sprintf('%s\\%03d.lyrics.txt',dirname,cursongindex);
+    filename = sprintf('%s%03d.lyrics.txt',dirname,cursongindex);
     f = fopen(filename,'w');
     fprintf(f,'#\tTitle\t%s\n',cursong.title);
     fprintf(f,'#\tSource Filename\t%s\n',cursong.filename);
@@ -168,7 +179,7 @@ for(cursongindex=1:nsongs)
     fclose(f);
     
     % Write out the measures file
-    filename = sprintf('%s\\%03d.measures.txt',dirname,cursongindex);
+    filename = sprintf('%s%03d.measures.txt',dirname,cursongindex);
     f = fopen(filename,'w');
     fprintf(f,'#\tTitle\t%s\n',cursong.title);
     fprintf(f,'#\tSource Filename\t%s\n',cursong.filename);

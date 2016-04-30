@@ -1,0 +1,32 @@
+#	Title	(The Gang That Sang) Heart Of My Heart
+#	Source Filename	Ben Ryan 1926 - (The Gang That Sang) Heart Of My Heart.xml
+0	8	0	3	0	major
+8	24	7	3	0	dominant
+24	32	0	3	0	major
+32	40	9	3	0	dominant
+40	48	2	3	1	minor
+48	56	2	3	0	dominant
+56	64	7	3	0	dominant
+64	72	0	3	0	major
+72	88	7	3	0	dominant
+88	96	4	3	0	dominant
+96	104	9	3	0	dominant
+104	112	2	3	0	dominant
+112	116	2	3	1	minor
+116	120	7	3	0	dominant
+120	128	0	3	0	major
+128	136	0	3	0	major
+136	152	7	3	0	dominant
+152	160	0	3	0	major
+160	168	9	3	0	dominant
+168	176	2	3	1	minor
+176	184	2	3	0	dominant
+184	192	7	3	0	dominant
+192	200	0	3	0	major
+200	216	7	3	0	dominant
+216	224	4	3	0	dominant
+224	232	9	3	0	dominant
+232	240	2	3	0	dominant
+240	244	2	3	1	minor
+244	248	7	3	0	dominant
+248	256	0	3	0	major

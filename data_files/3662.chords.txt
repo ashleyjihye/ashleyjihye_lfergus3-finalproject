@@ -1,0 +1,24 @@
+#	Title	Brush Those Tears From Your Eyes
+#	Source Filename	Oakley Haldeman, Al Trace, Jimmy Lee - Brush Those Tears From Your Eyes.xml
+4	12	0	3	0	major
+12	16	5	3	0	major
+16	24	7	3	0	dominant
+24	28	0	3	0	major
+28	40	5	3	0	major
+40	44	0	3	0	major
+44	48	2	3	0	dominant
+48	56	7	3	0	dominant
+56	64	0	3	0	major
+64	72	5	3	0	major
+72	76	0	3	0	major
+76	80	7	3	0	dominant
+80	96	0	3	0	major
+96	100	5	3	0	major
+100	108	0	3	0	major
+108	112	2	3	0	dominant
+112	120	7	3	0	dominant
+120	128	0	3	0	major
+128	136	5	3	0	major
+136	140	0	3	0	major
+140	144	7	3	0	dominant
+144	152	0	3	0	major

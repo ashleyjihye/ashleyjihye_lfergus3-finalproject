@@ -1,0 +1,22 @@
+#	Title	L-O-V-E
+#	Source Filename	Bert Kaempfert, Milt Gabler - L-O-V-E.xml
+0	8	0	3	0	major
+8	12	2	3	1	minor-seventh
+12	24	7	3	0	dominant
+24	32	0	3	0	major
+32	40	0	3	0	dominant
+40	48	5	3	0	major
+48	56	2	3	0	dominant
+56	64	7	3	0	dominant
+64	72	0	3	0	major
+72	76	2	3	1	minor-seventh
+76	88	7	3	0	dominant
+88	96	0	3	0	major
+96	104	0	3	0	dominant
+104	108	5	3	0	major
+108	112	6	3	2	diminished
+112	115	0	3	0	major
+115	116	9	3	1	minor-seventh
+116	118	2	3	1	minor-seventh
+118	120	7	3	0	dominant
+120	128	0	3	0	major

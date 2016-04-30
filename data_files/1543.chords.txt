@@ -1,0 +1,23 @@
+#	Title	My Dianne
+#	Source Filename	Erno Rapee and Lew Pollack - My Dianne.xml
+3	9	7	3	0	dominant
+9	15	0	3	0	major
+15	19	2	3	1	minor
+19	21	7	3	0	dominant
+21	27	0	3	0	major
+27	33	7	3	0	dominant
+33	39	9	3	1	minor
+39	43	4	3	0	major
+43	45	9	3	0	dominant
+45	48	4	3	0	major
+48	57	7	3	0	dominant
+57	63	0	3	0	major
+63	67	2	3	1	minor
+67	69	7	3	0	dominant
+69	75	0	3	0	major
+75	81	7	3	0	dominant
+81	85	9	3	1	minor
+85	87	2	3	0	dominant
+87	90	2	3	1	minor
+90	93	7	3	0	dominant
+93	99	0	3	0	major

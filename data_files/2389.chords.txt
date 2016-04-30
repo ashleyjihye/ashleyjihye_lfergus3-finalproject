@@ -1,0 +1,12 @@
+#	Title	Hidegen fújnak a szelek
+#	Source Filename	Hungarian folk song - Hidegen f?jnak a szelek.xml
+0	8	9	3	1	minor
+8	12	0	3	0	major
+12	16	9	3	1	minor
+16	24	9	3	1	minor
+24	28	0	3	0	major
+28	32	9	3	1	minor
+32	44	0	3	0	major
+44	48	9	3	1	minor
+48	60	0	3	0	major
+60	64	9	3	1	minor

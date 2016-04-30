@@ -1,0 +1,24 @@
+#	Title	I'm so Lonesome I Could Cry
+#	Source Filename	Hank Williams - I'm so Lonesome I Could Cry.xml
+6	27	0	3	0	major
+27	30	0	3	0	dominant
+30	36	5	3	0	major
+36	45	0	3	0	major
+45	48	7	3	0	dominant
+48	72	0	3	0	major
+72	78	0	3	0	dominant
+78	84	5	3	0	major
+84	90	0	3	0	major
+90	96	7	3	0	dominant
+96	102	0	3	0	major
+102	123	0	3	0	major
+123	126	0	3	0	dominant
+126	132	5	3	0	major
+132	141	0	3	0	major
+141	144	7	3	0	dominant
+144	168	0	3	0	major
+168	174	0	3	0	dominant
+174	180	5	3	0	major
+180	186	0	3	0	major
+186	192	7	3	0	dominant
+192	210	0	3	0	major

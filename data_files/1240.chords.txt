@@ -1,0 +1,35 @@
+#	Title	Little Ol' Wine Drinker Me
+#	Source Filename	Dick Jennings, Hank Miles - Little Ol' Wine Drinker Me.xml
+4	8	0	3	0	major
+8	12	5	3	0	major
+12	28	0	3	0	major
+28	36	7	3	0	dominant
+36	40	0	3	0	major
+40	44	5	3	0	major
+44	56	0	3	0	major
+56	60	7	3	0	dominant
+60	68	0	3	0	major
+68	72	7	3	0	dominant
+72	92	0	3	0	major
+92	100	7	3	0	dominant
+100	104	0	3	0	major
+104	108	5	3	0	major
+108	120	0	3	0	major
+120	136	7	3	0	dominant
+136	140	0	3	0	major
+140	144	5	3	0	major
+144	160	0	3	0	major
+160	168	7	3	0	dominant
+168	172	0	3	0	major
+172	176	5	3	0	major
+176	188	0	3	0	major
+188	192	7	3	0	dominant
+192	200	0	3	0	major
+200	204	7	3	0	dominant
+204	224	0	3	0	major
+224	232	7	3	0	dominant
+232	236	0	3	0	major
+236	240	5	3	0	major
+240	252	0	3	0	major
+252	256	7	3	0	dominant
+256	264	0	3	0	major

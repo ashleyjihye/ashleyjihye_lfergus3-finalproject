@@ -1,0 +1,9 @@
+#	Title	Pikapolonica
+#	Source Filename	Lencka Kupper - Pikapolonica.xml
+0	6	0	3	0	major
+6	14	7	3	0	major
+14	22	0	3	0	major
+22	26	5	3	0	major
+26	28	0	3	0	major
+28	30	7	3	0	major
+30	32	0	3	0	major

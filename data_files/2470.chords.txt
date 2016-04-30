@@ -1,0 +1,11 @@
+#	Title	Esztike
+#	Source Filename	Hungarian song - Esztike.xml
+0	4	0	3	0	major
+4	12	7	3	0	major
+12	16	0	3	0	major
+16	20	0	3	0	major
+20	28	7	3	0	major
+28	32	0	3	0	major
+32	36	7	3	0	major
+36	44	2	3	1	minor
+44	48	7	3	0	major

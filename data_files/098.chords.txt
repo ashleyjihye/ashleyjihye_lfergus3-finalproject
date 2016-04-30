@@ -1,0 +1,31 @@
+#	Title	You Gotta Be A Football Hero
+#	Source Filename	Al Sherman, Al Lewis, Buddy Fields - You Gotta Be A Football Hero.xml
+2	12	0	3	0	major
+12	13.5	11	3	0	dominant
+13.5	14	2	3	1	minor
+14	16	9	3	0	dominant
+16	16.5	2	3	1	minor
+16.5	17	9	3	0	dominant
+17	17.5	2	3	1	minor
+17.5	18	4	3	1	minor
+18	19	2	3	1	minor-seventh
+19	22	7	3	0	dominant
+22	26	0	3	0	major
+26	30	11	3	0	dominant
+30	31	4	3	1	minor
+31	31.5	3	3	1	minor-sixth
+31.5	34	7	3	0	dominant
+34	44	0	3	0	major
+44	45	7	3	0	dominant
+45	46	0	3	0	dominant
+46	46	5	3	0	major
+46	48	9	3	0	dominant
+48	50	2	3	1	minor
+50	52	5	3	0	major-sixth
+52	54	11	3	0	dominant
+54	55	0	3	0	major
+55	56	7	3	0	dominant
+56	58	9	3	0	dominant
+58	60	2	3	0	dominant
+60	61.5	7	3	0	dominant
+61.5	66	0	3	0	major

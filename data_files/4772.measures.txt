@@ -1,0 +1,7 @@
+#	Title	Minden, mi él
+#	Source Filename	Unknown - Minden, mi ?l.xml
+0	4	4
+4	4	4
+8	4	4
+12	4	4
+16	4	4

@@ -1,0 +1,36 @@
+#	Title	Sugar Moon
+#	Source Filename	Danny Wolfe - Sugar Moon.xml
+4	12	0	3	0	major
+12	20	5	3	0	major
+20	28	7	3	0	dominant
+28	34	0	3	0	major
+34	35	2	3	1	minor-seventh
+35	36	3	3	2	diminished
+36	42	0	3	0	major
+42	43	5	3	0	major
+43	44	0	3	0	major
+44	52	5	3	0	major
+52	57	7	3	0	dominant
+57	58	11	3	0	major
+58	58.5	7	3	3	augmented
+58.5	60	7	3	0	dominant
+60	68	0	3	0	major
+68	76	5	3	0	major
+76	84	0	3	0	major
+84	92	2	3	0	dominant
+92	97	7	3	0	dominant
+97	98	0	3	0	major
+98	99	2	3	0	dominant
+99	100	3	3	2	diminished
+100	106	0	3	0	major
+106	107	5	3	0	major-sixth
+107	108	0	3	0	major
+108	116	5	3	0	major
+116	121	7	3	0	dominant
+121	122.5	7	3	3	augmented
+122.5	124	7	3	0	dominant
+124	128	0	3	0	major
+128	129	0	3	0	major
+129	130	2	3	1	minor-seventh
+130	132	3	3	2	diminished
+132	136	0	3	0	major

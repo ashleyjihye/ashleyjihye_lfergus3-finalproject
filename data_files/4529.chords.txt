@@ -1,0 +1,16 @@
+#	Title	De Vogeltjesdans
+#	Source Filename	Traditional - De Vogeltjesdans.xml
+0	24	7	3	0	dominant
+24	32	0	3	0	major
+32	48	7	3	0	dominant
+48	64	0	3	0	major
+64	80	7	3	0	dominant
+80	88	0	3	0	major
+88	108	0	3	0	major
+108	112	2	3	0	dominant
+112	144	7	3	0	dominant
+144	152	0	3	0	major
+152	172	0	3	0	major
+172	176	2	3	0	dominant
+176	208	7	3	0	dominant
+208	216	0	3	0	major

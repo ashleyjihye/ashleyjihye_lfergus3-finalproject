@@ -1,0 +1,14 @@
+#	Title	The Alphabet Song
+#	Source Filename	Wolfgang Amadeus Mozart - The Alphabet Song.xml
+0	2	2
+2	2	2
+4	2	2
+6	2	2
+8	2	2
+10	2	2
+12	2	2
+14	2	2
+16	2	2
+18	2	2
+20	2	2
+22	2	2

@@ -1,0 +1,44 @@
+#	Title	Sunny
+#	Source Filename	Bobby Hebb - Sunny.xml
+0	4	9	3	1	minor-seventh
+4	6	7	3	1	minor-seventh
+6	8	0	3	-1	
+8	12	5	3	0	major-seventh
+12	12	11	3	1	minor-seventh
+12	16	4	3	-1	
+16	20	9	3	1	minor-seventh
+20	22	7	3	1	minor-seventh
+22	24	0	3	-1	
+24	28	5	3	0	major-seventh
+28	28	11	3	1	minor-seventh
+28	32	4	3	-1	
+32	36	9	3	1	minor-seventh
+36	38	7	3	1	minor-seventh
+38	40	0	3	-1	
+40	44	5	3	0	major-seventh
+44	48	10	3	-1	
+48	52	11	3	2	half-diminished
+52	56	4	3	0	dominant
+56	60	9	3	1	minor-seventh
+60	64	4	3	0	dominant
+64	68	9	3	1	minor-seventh
+68	70	7	3	1	minor-seventh
+70	72	0	3	-1	
+72	76	5	3	0	major-seventh
+76	76	11	3	1	minor-seventh
+76	80	4	3	-1	
+80	84	9	3	1	minor-seventh
+84	86	7	3	1	minor-seventh
+86	88	0	3	-1	
+88	92	5	3	0	major-seventh
+92	92	11	3	1	minor-seventh
+92	96	4	3	-1	
+96	100	9	3	1	minor-seventh
+100	102	7	3	1	minor-seventh
+102	104	0	3	-1	
+104	108	5	3	0	major-seventh
+108	112	10	3	-1	
+112	116	11	3	2	half-diminished
+116	120	4	3	0	dominant
+120	124	9	3	1	minor-seventh
+124	128	4	3	0	dominant

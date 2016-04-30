@@ -1,0 +1,11 @@
+#	Title	Cantaloupe Island
+#	Source Filename	Herbie Hancock - Cantaloupe Island.xml
+0	16	9	3	1	minor-seventh
+16	32	9	3	1	minor-seventh
+32	48	5	3	0	dominant
+48	64	6	3	1	minor-11th
+64	80	9	3	1	minor-seventh
+80	96	9	3	1	minor-seventh
+96	112	5	3	0	dominant
+112	128	6	3	1	minor-11th
+128	144	9	3	1	minor-seventh

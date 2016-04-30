@@ -1,0 +1,19 @@
+#	Title	Pickin' a Chicken
+#	Source Filename	Derek Bernfield, Garfield de Mortimer, Paddy Roberts - Pickin' a Chicken.xml
+0	4	0	3	0	major
+4	12	7	3	0	dominant
+12	20	0	3	0	major
+20	22	7	3	0	dominant
+22	32	0	3	0	major
+32	36	0	3	0	dominant
+36	40	5	3	0	major
+40	44	7	3	0	dominant
+44	48	0	3	0	major
+48	52	0	3	0	dominant
+52	56	5	3	0	major
+56	60	7	3	0	dominant
+60	61	0	3	0	major
+61	62	5	3	0	major
+62	63	0	3	0	major
+63	63.5	5	3	0	major
+63.5	64	7	3	0	dominant

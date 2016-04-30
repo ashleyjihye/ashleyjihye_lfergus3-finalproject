@@ -1,0 +1,19 @@
+#	Title	Allegheny Moon
+#	Source Filename	Al Hoffman, DickManning - Allegheny Moon.xml
+3	18	5	3	0	major
+18	21	2	3	0	dominant
+21	27	7	3	1	minor
+27	42	0	3	0	dominant
+42	45	4	3	0	dominant
+45	48	5	3	0	major
+48	51	0	3	0	dominant
+51	66	5	3	0	major
+66	69	9	3	0	dominant
+69	72	10	3	0	major
+72	75	2	3	0	dominant
+75	81	7	3	1	minor
+81	84	5	3	0	major
+84	87	2	3	0	dominant
+87	90	7	3	1	minor
+90	93	0	3	0	dominant
+93	99	5	3	0	major

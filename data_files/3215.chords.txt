@@ -1,0 +1,31 @@
+#	Title	When Johnny Comes Marching Home Again
+#	Source Filename	Louis Lambert - When Johnny Comes Marching Home Again.xml
+6	18	2	3	1	minor
+18	30	5	3	0	major
+30	42	2	3	1	minor
+42	54	5	3	0	major
+54	60	2	3	1	minor
+60	66	9	3	0	dominant
+66	72	2	3	1	minor
+72	78	9	3	0	dominant
+78	81	2	3	1	minor
+81	84	7	3	1	minor
+84	87	2	3	1	minor
+87	90	9	3	0	dominant
+90	93	2	3	1	minor
+93	96	7	3	1	minor
+96	114	2	3	1	minor
+114	126	5	3	0	major
+126	138	2	3	1	minor
+138	150	5	3	0	major
+150	156	2	3	1	minor
+156	162	9	3	0	dominant
+162	168	2	3	1	minor
+168	174	9	3	0	dominant
+174	177	2	3	1	minor
+177	180	7	3	1	minor
+180	183	2	3	1	minor
+183	186	9	3	0	dominant
+186	189	2	3	1	minor
+189	192	7	3	1	minor
+192	198	2	3	1	minor

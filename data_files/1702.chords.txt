@@ -1,0 +1,23 @@
+#	Title	Wabash Blues
+#	Source Filename	Fred Meinken, Dave Ringle - Wabash Blues.xml
+0	4	7	3	0	dominant
+4	7.5	0	3	0	major
+7.5	8	4	3	2	diminished
+8	12	7	3	0	dominant
+12	15.5	0	3	0	major
+15.5	16	0	3	0	dominant
+16	20	5	3	0	major
+20	24	0	3	0	major
+24	28	8	3	0	major
+28	32	7	3	0	major
+32	36	7	3	0	dominant
+36	39.5	0	3	0	major
+39.5	40	4	3	2	diminished
+40	44	7	3	0	dominant
+44	47.5	0	3	0	major
+47.5	48	0	3	0	dominant
+48	52	5	3	0	major
+52	55.5	0	3	0	major
+55.5	56	4	3	2	diminished
+56	60	7	3	0	dominant
+60	64	0	3	0	major

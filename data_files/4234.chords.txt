@@ -1,0 +1,11 @@
+#	Title	Caseron De Tejas
+#	Source Filename	Sebastian Piana - Caseron De Tejas.xml
+3	21	9	3	1	minor
+21	27	2	3	1	minor
+27	33	4	3	0	dominant
+33	39	9	3	1	minor
+39	45	11	3	0	dominant
+45	72	4	3	0	major
+72	78	2	3	1	minor
+78	81	4	3	0	dominant
+81	195	9	3	0	major

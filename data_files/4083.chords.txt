@@ -1,0 +1,34 @@
+#	Title	Shall we Dance
+#	Source Filename	Rodgers and Hammerstein - Shall we Dance.xml
+1	1.5	7	3	0	dominant
+1.5	2	7	3	3	augmented
+2	5	0	3	0	major
+5	5.5	7	3	0	dominant
+5.5	6	7	3	3	augmented
+6	8	0	3	0	major
+8	10	0	3	0	major-sixth
+10	12.5	0	3	0	dominant
+12.5	21	7	3	0	dominant
+21	21.5	2	3	1	minor-seventh
+21.5	22	7	3	0	dominant
+22	28	0	3	0	major
+28	30	0	3	0	major-seventh
+30	32	0	3	0	major-sixth
+32	34	0	3	0	major
+34	38	5	3	0	major
+38	40	7	3	0	dominant
+40	42	7	3	0	dominant
+42	46	0	3	0	major
+46	47	7	3	0	dominant-ninth
+47	47.5	2	3	1	minor-seventh
+47.5	50	7	3	0	dominant-ninth
+50	53	0	3	0	dominant
+53	53.5	7	3	1	minor-seventh
+53.5	54	0	3	0	dominant
+54	58	5	3	0	major
+58	61	0	3	0	major
+61	61.5	9	3	3	augmented
+61.5	62	9	3	0	dominant
+62	64	2	3	1	minor-seventh
+64	66	7	3	0	dominant
+66	70	0	3	0	major

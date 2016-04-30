@@ -1,0 +1,23 @@
+#	Title	Hurt
+#	Source Filename	Al Jacobs, Jimmie Crane - Hurt.xml
+0	8	0	3	0	major
+8	16	4	3	1	minor
+16	24	5	3	0	major
+24	32	9	3	0	dominant
+32	36	2	3	1	minor
+36	40	7	3	0	dominant
+40	48	0	3	0	major
+48	52	2	3	0	dominant
+52	56	2	3	1	minor
+56	64	7	3	0	dominant
+64	72	0	3	0	major
+72	80	4	3	1	minor
+80	88	5	3	0	major
+88	96	9	3	0	dominant
+96	100	2	3	1	minor-seventh
+100	104	5	3	1	minor
+104	108	0	3	0	major
+108	112	9	3	0	dominant
+112	116	2	3	1	minor
+116	120	7	3	0	dominant
+120	124	0	3	0	major

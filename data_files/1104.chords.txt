@@ -1,0 +1,33 @@
+#	Title	The Old Piano Roll Blues
+#	Source Filename	Cy Coben - The Old Piano Roll Blues.xml
+4	12	0	3	0	dominant
+12	20	5	3	0	major
+20	24	0	3	0	dominant
+24	28	5	3	0	major
+28	32	7	3	0	dominant
+32	44	0	3	0	dominant
+44	46	5	3	0	major
+46	48	5	3	0	dominant
+48	52	2	3	0	dominant
+52	56	7	3	1	minor
+56	60	10	3	0	major
+60	64	5	3	0	major
+64	68	2	3	0	dominant
+68	79.5	0	3	0	dominant
+79.5	84	5	3	0	major
+84	92	0	3	0	dominant
+92	100	5	3	0	major
+100	104	0	3	0	dominant
+104	108	5	3	0	major
+108	112	7	3	0	dominant
+112	124	0	3	0	dominant
+124	126	5	3	0	major
+126	128	5	3	0	dominant
+128	132	2	3	0	dominant
+132	136	7	3	1	minor
+136	140	10	3	0	major
+140	144	5	3	0	major
+144	148	2	3	0	dominant
+148	159.5	0	3	0	dominant
+159.5	160	5	3	0	major
+160	164	5	3	0	major

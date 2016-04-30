@@ -1,0 +1,34 @@
+#	Title	Fur Elise
+#	Source Filename	Beethoven - Fur Elise.xml
+6	9	9	3	1	minor
+9	12	4	3	0	dominant
+12	18	9	3	1	minor
+18	21	9	3	1	minor
+21	24	4	3	0	major
+24	30	9	3	1	minor
+30	33	9	3	1	minor
+33	36	4	3	0	dominant
+36	42	9	3	1	minor
+42	45	9	3	1	minor
+45	48	4	3	0	major
+48	51	9	3	1	minor
+51	54	7	3	0	major
+54	57	7	3	0	major
+57	60	9	3	1	minor
+60	72	4	3	0	dominant
+72	75	9	3	1	minor
+75	78	4	3	0	dominant
+78	84	9	3	1	minor
+84	87	9	3	1	minor
+87	90	4	3	0	dominant
+90	93	9	3	1	minor
+93	96	7	3	0	major
+96	99	7	3	0	major
+99	102	9	3	1	minor
+102	114	4	3	0	dominant
+114	117	9	3	1	minor
+117	120	4	3	0	dominant
+120	126	9	3	1	minor
+126	129	9	3	1	minor
+129	132	4	3	0	dominant
+132	135	9	3	1	minor

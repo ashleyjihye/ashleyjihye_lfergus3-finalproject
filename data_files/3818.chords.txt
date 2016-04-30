@@ -1,0 +1,31 @@
+#	Title	The Story
+#	Source Filename	Phil Hanseroth - The Story.xml
+0	4	0	3	0	major
+4	8	5	3	0	major
+8	12	0	3	0	major
+12	16	5	3	0	major
+16	24	0	3	0	major
+24	32	7	3	0	dominant
+32	40	9	3	1	minor
+40	48	5	3	0	major
+48	52	0	3	0	major
+52	56	7	3	0	dominant
+56	60	9	3	1	minor
+60	64	5	3	0	major
+64	68	0	3	0	major
+68	72	7	3	0	dominant
+72	80	0	3	0	major
+80	88	0	3	0	major
+88	96	7	3	0	dominant
+96	104	9	3	1	minor
+104	112	5	3	0	major
+112	116	0	3	0	major
+116	120	7	3	0	dominant
+120	124	9	3	1	minor
+124	128	5	3	0	major
+128	132	0	3	0	major
+132	148	7	3	0	dominant
+148	152	7	3	0	dominant
+152	154	0	3	0	major
+154	157	5	3	0	major
+157	160	0	3	0	major

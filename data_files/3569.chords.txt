@@ -1,0 +1,19 @@
+#	Title	Santa Lucia
+#	Source Filename	Neapolitan street song transcribed by Teodoro Cottrau - Santa Lucia.xml
+0	3	0	3	0	major
+3	9	7	3	0	dominant
+9	15	0	3	0	major
+15	21	7	3	0	dominant
+21	27	0	3	0	major
+27	33	7	3	0	dominant
+33	39	0	3	0	major
+39	45	7	3	0	dominant
+45	51	0	3	0	major
+51	57	5	3	0	major
+57	63	0	3	0	major
+63	66	7	3	0	dominant
+66	75	0	3	0	major
+75	81	5	3	0	major
+81	87	0	3	0	major
+87	93	7	3	0	dominant
+93	96	0	3	0	major

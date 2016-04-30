@@ -1,0 +1,10 @@
+#	Title	Megöltek egy legényt
+#	Source Filename	Hungarian folk song - Meg?ltek egy leg?nyt.xml
+0	4	4
+4	4	4
+8	4	4
+12	4	4
+16	4	4
+20	4	4
+24	4	4
+28	4	4

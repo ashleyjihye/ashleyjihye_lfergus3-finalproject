@@ -1,0 +1,20 @@
+#	Title	One alone
+#	Source Filename	Sigmund Romberg, Otto Harbach and Oscar Hammerstein II - One alone.xml
+0	4	0	3	0	major
+4	8	4	3	0	dominant
+8	12	9	3	0	dominant
+12	16	2	3	0	dominant
+16	24	7	3	0	dominant
+24	26	2	3	1	minor-seventh
+26	28	7	3	0	dominant
+28	30	0	3	2	diminished
+30	32	0	3	0	major
+32	36	0	3	0	major
+36	40	4	3	0	dominant
+40	44	9	3	0	dominant
+44	48	2	3	1	minor
+48	52	5	3	1	minor
+52	56	0	3	0	major
+56	58	2	3	0	dominant
+58	60	7	3	0	dominant
+60	64	0	3	0	major

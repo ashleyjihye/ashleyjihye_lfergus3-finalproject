@@ -1,0 +1,29 @@
+#	Title	Edelweiss
+#	Source Filename	Richard Rodgers, Oscar Hammerstein II - Edelweiss.xml
+0	3	0	3	0	major
+3	6	7	3	0	dominant
+6	9	0	3	0	major
+9	12	5	3	0	major
+12	15	0	3	0	major
+15	18	9	3	1	minor-seventh
+18	21	2	3	1	minor-seventh
+21	24	7	3	0	dominant
+24	27	0	3	0	major
+27	30	7	3	0	dominant
+30	33	0	3	0	major
+33	36	5	3	0	major
+36	39	0	3	0	major
+39	42	7	3	0	dominant
+42	48	0	3	0	major
+48	54	7	3	0	dominant
+54	60	0	3	0	major
+60	63	5	3	0	major
+63	66	2	3	0	dominant
+66	72	7	3	0	dominant
+72	75	0	3	0	major
+75	78	7	3	1	minor
+78	81	5	3	0	major
+81	84	5	3	1	minor
+84	87	0	3	0	major
+87	90	7	3	0	dominant
+90	96	0	3	0	major

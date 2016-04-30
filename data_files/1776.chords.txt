@@ -1,0 +1,25 @@
+#	Title	How Come You Do Me Like You Do?
+#	Source Filename	Gene Austin, Roy Bergere - How Come You Do Me Like You Do?.xml
+0.5	2	0	3	0	major
+2	4	5	3	0	major
+4	6	0	3	0	major
+6	8	9	3	0	dominant
+8	10	2	3	0	dominant
+10	12	7	3	0	dominant
+12	18	0	3	0	major
+18	20	5	3	0	major
+20	21.5	0	3	0	major
+21.5	24	9	3	0	dominant
+24	28	2	3	0	dominant
+28	32	7	3	0	dominant
+32	36	0	3	0	major
+36	40	0	3	0	dominant
+40	42	5	3	0	major
+42	48	5	3	1	minor
+48	50	0	3	0	major
+50	52	5	3	0	major
+52	54	0	3	0	major
+54	56	9	3	0	dominant
+56	58	2	3	0	dominant
+58	60	7	3	0	dominant
+60	68	0	3	0	major

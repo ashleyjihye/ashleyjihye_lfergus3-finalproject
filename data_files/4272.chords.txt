@@ -1,0 +1,21 @@
+#	Title	One Kiss
+#	Source Filename	Sigmund Romberg, Oscar Hammerstein II - One Kiss.xml
+3	18	0	3	0	major
+18	21	3	3	2	diminished
+21	27	7	3	0	dominant
+27	30	2	3	1	minor
+30	33	9	3	3	augmented
+33	39	2	3	1	minor-seventh
+39	44	7	3	0	dominant
+44	45	7	3	3	augmented-seventh
+45	66	0	3	0	major
+66	69	4	3	0	dominant
+69	72	9	3	1	minor
+72	75	9	3	2	half-diminished
+75	78	9	3	3	augmented
+78	81	3	3	2	diminished
+81	84	0	3	0	major
+84	87	9	3	0	dominant
+87	90	2	3	1	minor
+90	93	7	3	0	dominant
+93	99	0	3	0	major

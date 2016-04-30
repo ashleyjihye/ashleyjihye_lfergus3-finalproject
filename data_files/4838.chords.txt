@@ -1,0 +1,33 @@
+#	Title	Ah! Sweet Mystery Of Life
+#	Source Filename	Victor Herbert, Rida Johnson Young - Ah! Sweet Mystery Of Life.xml
+4	8	0	3	0	major
+8	12	2	3	1	minor-seventh
+12	16	7	3	0	dominant
+16	22	0	3	0	major
+22	24	0	3	1	minor
+24	28	7	3	0	major
+28	30	2	3	0	major
+30	32	2	3	0	dominant
+32	36	7	3	0	dominant
+36	40	0	3	0	major
+40	44	2	3	1	minor-seventh
+44	48	7	3	0	dominant
+48	52	0	3	0	major
+52	56	9	3	0	dominant
+56	58	2	3	1	minor
+58	60	5	3	1	minor
+60	62	0	3	0	major
+62	63	2	3	1	minor
+63	64	4	3	1	minor
+64	68	0	3	0	major
+68	72	0	3	0	major
+72	76	2	3	1	minor-seventh
+76	80	7	3	0	dominant
+80	84	0	3	0	major
+84	88	9	3	0	dominant
+88	90	2	3	1	minor
+90	92	5	3	1	minor
+92	94	0	3	0	major
+94	95	2	3	1	minor
+95	96	4	3	1	minor
+96	100	0	3	0	major

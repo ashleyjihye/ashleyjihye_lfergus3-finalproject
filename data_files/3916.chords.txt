@@ -1,0 +1,28 @@
+#	Title	Über den Wolken
+#	Source Filename	Reinhard Mey - ?ber den Wolken.xml
+1	4	0	3	0	major
+4	9	2	3	1	minor
+9	12.5	7	3	0	major
+12.5	17	0	3	0	major
+17	20	0	3	0	major
+20	25	2	3	1	minor
+25	29	7	3	0	major
+29	36	0	3	0	major
+36	41	2	3	1	minor
+41	45.5	7	3	0	major
+45.5	52	0	3	0	major
+52	57	2	3	1	minor
+57	60	7	3	0	major
+60	65	0	3	0	major
+65	68	0	3	0	major
+68	73	5	3	0	major
+73	76.6667	7	3	0	major
+76.6667	81	0	3	0	major
+81	84.6667	9	3	1	minor
+84.6667	89	2	3	1	minor
+89	92.6667	7	3	0	major
+92.6667	97	0	3	0	major
+97	100	5	3	0	major
+100	105	0	3	0	major
+105	108	7	3	0	major
+108	112	0	3	0	major

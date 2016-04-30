@@ -1,0 +1,24 @@
+#	Title	Watermellon Man
+#	Source Filename	Herbie Hancock, Jon Hendricks - Watermellon Man.xml
+0	8	0	3	0	dominant
+8	12	5	3	0	dominant
+12	16	0	3	0	dominant
+16	18	7	3	0	dominant
+18	20	5	3	0	dominant
+20	22	7	3	0	dominant
+22	24	5	3	0	dominant
+24	26	7	3	0	dominant
+26	27	5	3	0	dominant
+27	28	7	3	0	dominant
+28	30	0	3	0	dominant
+30	38	0	3	0	dominant
+38	42	5	3	0	dominant
+42	46	0	3	0	dominant
+46	48	7	3	0	dominant
+48	50	5	3	0	dominant
+50	52	7	3	0	dominant
+52	54	5	3	0	dominant
+54	56	7	3	0	dominant
+56	57	5	3	0	dominant
+57	58	7	3	0	dominant
+58	60	0	3	0	dominant

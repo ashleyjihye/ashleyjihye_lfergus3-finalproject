@@ -1,0 +1,28 @@
+#	Title	Shine through my dreams (from &quot;Glamorous Night&quot;)
+#	Source Filename	Ivor Novello, Christopher Hassall - Shine Through My Dreams.xml
+0	4	0	3	0	major
+4	7	4	3	1	minor
+7	8	3	3	2	diminished
+8	11	2	3	1	minor-seventh
+11	12	7	3	0	dominant
+12	13	0	3	0	major
+13	16	7	3	0	dominant
+16	20	0	3	0	major
+20	24	9	3	0	dominant
+24	27	7	3	0	major
+27	28	2	3	0	dominant
+28	32	7	3	0	major
+32	34	2	3	2	half-diminished
+34	36	7	3	0	dominant
+36	38	4	3	1	minor
+38	40	9	3	1	minor
+40	42	2	3	1	minor-seventh
+42	44	4	3	0	dominant
+44	44	7	3	1	minor-sixth
+44	48	9	3	0	dominant
+48	52	5	3	1	minor
+52	54.5	4	3	1	minor-seventh
+54.5	56	9	3	1	minor-seventh
+56	58	2	3	2	half-diminished
+58	60	7	3	0	dominant
+60	64	0	3	0	major

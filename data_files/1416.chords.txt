@@ -1,0 +1,24 @@
+#	Title	Cold Duck Time
+#	Source Filename	Eddie Harris - Cold Duck Time.xml
+3	7	2	3	0	dominant
+7	11	7	3	0	dominant
+11	15	2	3	0	dominant
+15	19	7	3	0	dominant
+19	23	2	3	0	dominant
+23	27	7	3	0	dominant
+27	31	2	3	0	dominant
+31	35	7	3	0	dominant
+35	39	10	3	0	dominant
+39	42.5	0	3	0	major
+42.5	48	2	3	0	dominant
+48	52	2	3	0	dominant
+52	56	7	3	0	dominant
+56	60	2	3	0	dominant
+60	64	7	3	0	dominant
+64	68	2	3	0	dominant
+68	72	7	3	0	dominant
+72	76	2	3	0	dominant
+76	80	7	3	0	dominant
+80	84	10	3	0	dominant
+84	87.5	0	3	0	major
+87.5	93	2	3	0	dominant

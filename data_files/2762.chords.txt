@@ -1,0 +1,18 @@
+#	Title	Chinatown, My Chinatown
+#	Source Filename	Jean Schwartz, William Jerome - Chinatown, My Chinatown.xml
+0	24	0	3	0	major
+24	40	7	3	0	dominant
+40	48	9	3	1	minor
+48	56	2	3	0	dominant
+56	64	7	3	0	dominant
+64	84	0	3	0	major
+84	88	0	3	0	dominant
+88	100	5	3	0	major
+100	104	5	3	1	minor
+104	106	0	3	0	major
+106	108	7	3	1	minor
+108	112	9	3	0	dominant
+112	116	2	3	0	dominant
+116	118	2	3	1	minor-seventh
+118	120	7	3	0	dominant
+120	128	0	3	0	major

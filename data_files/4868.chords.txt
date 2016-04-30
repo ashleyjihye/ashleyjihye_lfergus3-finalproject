@@ -1,0 +1,21 @@
+#	Title	Carioca
+#	Source Filename	Vincent Youmans, Edward Eliscu and Gus Kahn - Carioca.xml
+0	6	0	3	1	minor
+6	8	7	3	0	dominant
+8	10	2	3	2	half-diminished
+10	11	7	3	0	dominant
+11	12	0	3	1	minor
+12	13	7	3	0	dominant
+13	14	2	3	2	half-diminished
+14	22	0	3	1	minor
+22	24	7	3	0	dominant
+24	26	2	3	2	half-diminished
+26	27	7	3	0	dominant
+27	28	0	3	1	minor
+28	29	7	3	0	dominant
+29	30	2	3	1	minor-seventh
+30	38	0	3	0	major
+38	46	7	3	0	dominant
+46	54	0	3	0	major
+54	62	7	3	0	dominant
+62	66	0	3	0	major

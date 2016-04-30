@@ -1,0 +1,4 @@
+#	Title	Ennie's Waltz
+#	Source Filename	Paul Wiltse - Ennie's Waltz.xml
+69	141	0	3	0	major
+141	144	0	3	0	major

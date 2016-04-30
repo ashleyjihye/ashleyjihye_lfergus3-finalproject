@@ -1,0 +1,11 @@
+#	Title	Pistol packin Mama
+#	Source Filename	Al Dexter - Pistol packin Mama.xml
+0	12	7	3	0	dominant
+12	20	0	3	0	major
+20	32	0	3	0	major
+32	48	7	3	0	dominant
+48	56	0	3	0	major
+56	68	0	3	0	major
+68	84	7	3	0	dominant
+84	88	0	3	0	major
+88	96	0	3	0	major

@@ -1,0 +1,20 @@
+#	Title	Song Sung Blue
+#	Source Filename	Neil Diamond - Song Sung Blue.xml
+0	8	5	3	0	major
+8	16	0	3	0	major
+16	24	0	3	0	dominant
+24	32	5	3	0	major
+32	44	5	3	0	dominant
+44	52	10	3	0	major
+52	60	0	3	0	major
+60	68	5	3	0	major
+68	76	7	3	1	minor
+76	84	0	3	0	major
+84	92	10	3	0	major
+92	100	0	3	0	major
+100	104	5	3	0	major
+104	108	0	3	0	dominant
+108	116	5	3	0	major
+116	124	0	3	0	dominant
+124	132	5	3	0	major
+132	140	0	3	0	dominant

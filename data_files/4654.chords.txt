@@ -1,0 +1,19 @@
+#	Title	He's Got The Whole World In His Hands
+#	Source Filename	Traditional; - He's Got The Whole World In His Hands.xml
+4	12	0	3	0	major
+12	16	7	3	0	dominant
+16	28	0	3	0	major
+28	32	7	3	0	dominant
+32	44	0	3	0	major
+44	48	7	3	0	dominant
+48	60	0	3	0	major
+60	64	7	3	0	dominant
+64	76	0	3	0	major
+76	80	7	3	0	dominant
+80	92	0	3	0	major
+92	96	7	3	0	dominant
+96	108	0	3	0	major
+108	112	7	3	0	dominant
+112	124	0	3	0	major
+124	128	7	3	0	dominant
+128	132	0	3	0	major

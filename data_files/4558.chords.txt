@@ -1,0 +1,18 @@
+#	Title	Jolly Old Saint Nicholas
+#	Source Filename	Traditional - Jolly Old Saint Nicholas.xml
+0	2	0	3	0	major
+2	4	7	3	0	major
+4	6	9	3	1	minor
+6	8	4	3	1	minor
+8	10	5	3	0	major
+10	12	0	3	0	major
+12	14	2	3	1	minor
+14	16	7	3	0	dominant
+16	18	0	3	0	major
+18	20	7	3	0	major
+20	22	9	3	1	minor
+22	24	4	3	1	minor
+24	26	5	3	0	major
+26	28	0	3	0	major
+28	30	7	3	0	dominant
+30	32	0	3	0	major

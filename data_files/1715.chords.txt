@@ -1,0 +1,34 @@
+#	Title	'Deed I Do
+#	Source Filename	Fred Rose, Walter Hirsch - 'Deed I Do.xml
+4	6	7	3	1	minor-seventh
+6	8	0	3	0	dominant-ninth
+8	12	5	3	0	major-sixth
+12	16	10	3	0	dominant-ninth
+16	18	4	3	1	minor-seventh
+18	20	9	3	0	dominant
+20	22	2	3	0	dominant-ninth
+22	28	7	3	0	dominant-ninth
+28	31	2	3	1	minor-seventh
+31	36	7	3	0	dominant-13th
+36	38	7	3	1	minor-seventh
+38	40	0	3	0	dominant-ninth
+40	44	5	3	0	major-sixth
+44	48	10	3	0	dominant-ninth
+48	50	4	3	1	minor-seventh
+50	52	9	3	0	dominant
+52	54	2	3	0	dominant-ninth
+54	56	7	3	0	dominant-ninth
+56	64	0	3	0	major-sixth
+64	72	5	3	0	major-sixth
+72	80	4	3	0	dominant
+80	88	9	3	0	dominant
+88	92	2	3	0	dominant-ninth
+92	100	7	3	0	dominant-ninth
+100	102	7	3	1	minor-seventh
+102	104	0	3	0	dominant-ninth
+104	108	5	3	0	major-sixth
+108	112	10	3	0	dominant-ninth
+112	114	4	3	1	minor-seventh
+114	116	9	3	0	dominant-ninth
+116	118	2	3	0	dominant-ninth
+118	128	7	3	0	dominant-ninth

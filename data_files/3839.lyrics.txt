@@ -1,0 +1,2 @@
+#	Title	Cavalleria Rusticana
+#	Source Filename	Pietro Mascagni - Cavalleria Rusticana.xml

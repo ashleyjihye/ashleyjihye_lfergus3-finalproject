@@ -1,0 +1,22 @@
+#	Title	O Sole Mio
+#	Source Filename	Eduardo di Capua - O Sole Mio.xml
+4	12	0	3	0	major
+12	16	2	3	1	minor
+16	20	7	3	0	dominant
+20	24	2	3	1	minor
+24	28	7	3	0	dominant
+28	36	0	3	0	major
+36	44	5	3	1	minor
+44	52	0	3	0	major
+52	60	7	3	0	dominant
+60	68	0	3	0	major
+68	76	0	3	0	major
+76	80	2	3	1	minor
+80	84	7	3	0	dominant
+84	88	2	3	1	minor
+88	92	7	3	0	dominant
+92	100	0	3	0	major
+100	108	5	3	1	minor
+108	116	0	3	0	major
+116	124	7	3	0	dominant
+124	132	0	3	0	major

@@ -1,0 +1,21 @@
+#	Title	Allô maman bobo
+#	Source Filename	Alain Souchon, Laurent Voulzy - All? maman bobo.xml
+0	8	0	3	0	major
+8	16	5	3	0	major
+16	24	0	3	0	major
+24	30	5	3	0	major
+30	32	5	3	0	major
+32	36	2	3	1	minor
+36	40	4	3	0	dominant-seventh
+40	42	9	3	1	minor
+42	44	7	3	0	major
+44	46	0	3	0	major
+46	48	9	3	0	major
+48	52	2	3	1	minor
+52	56	4	3	0	dominant-seventh
+56	60	9	3	1	minor
+60	64	9	3	0	dominant-seventh
+64	68	2	3	1	minor
+68	72	4	3	0	major
+72	76	9	3	1	minor
+76	80	7	3	0	major

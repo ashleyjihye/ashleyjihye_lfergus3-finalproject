@@ -1,0 +1,26 @@
+#	Title	Swing 39
+#	Source Filename	Django Reinhardt - Swing 39.xml
+12	28	2	3	0	dominant
+28	44	2	3	0	dominant
+44	52	4	3	0	dominant-ninth
+52	60	5	3	0	dominant-ninth
+60	76	4	3	0	dominant
+76	92	2	3	0	dominant
+92	108.5	2	3	0	dominant
+108.5	116	4	3	0	dominant-ninth
+116	120.5	5	3	0	dominant-ninth
+120.5	124	4	3	0	dominant
+124	132	9	3	0	major
+132	140	4	3	0	dominant-ninth
+140	148	5	3	0	dominant-ninth
+148	156	5	3	0	dominant-ninth
+156	158	5	3	0	dominant-ninth
+158	160	4	3	0	dominant-ninth
+160	162	5	3	0	dominant-ninth
+162	172	4	3	0	dominant-ninth
+172	188	2	3	0	dominant
+188	204	2	3	0	dominant
+204	212	4	3	0	dominant-ninth
+212	216	5	3	0	dominant-ninth
+216	220	4	3	0	dominant
+220	260	9	3	0	major

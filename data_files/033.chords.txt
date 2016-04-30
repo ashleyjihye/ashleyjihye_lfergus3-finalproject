@@ -1,0 +1,24 @@
+#	Title	It's Now Or Never
+#	Source Filename	Aaron Schroeder, Wally Gold - It's Now Or Never.xml
+4	12	0	3	0	major
+12	16	2	3	1	minor
+16	20	7	3	0	dominant
+20	24	2	3	1	minor
+24	28	7	3	0	dominant
+28	36	0	3	0	major
+36	44	5	3	1	minor
+44	52	0	3	0	major
+52	60	7	3	0	dominant
+60	72	0	3	0	major
+72	80	5	3	0	major
+80	88	0	3	0	major
+88	96	5	3	0	major
+96	104	7	3	0	dominant
+104	112	0	3	0	major
+112	120	0	3	0	major
+120	126	5	3	0	major
+126	128	5	3	1	minor
+128	132	0	3	0	major
+132	135	2	3	1	minor
+135	136	7	3	0	major
+136	144	0	3	0	major

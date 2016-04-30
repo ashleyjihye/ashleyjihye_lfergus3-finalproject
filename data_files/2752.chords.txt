@@ -1,0 +1,13 @@
+#	Title	Que Sera, Sera
+#	Source Filename	Jay Livingston, Ray Evans - Que Sera, Sera.xml
+3	21	0	3	0	major
+21	45	7	3	0	dominant
+45	51	0	3	0	major
+51	63	5	3	0	major
+63	75	0	3	0	major
+75	87	7	3	0	dominant
+87	94	0	3	0	major
+94	99	7	3	0	dominant
+99	102	0	3	0	major
+102	105	5	3	0	major
+105	108	0	3	0	major

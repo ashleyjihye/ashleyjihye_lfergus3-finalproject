@@ -1,0 +1,13 @@
+#	Title	Hadnagyuram
+#	Source Filename	Hungarian song - Hadnagyuram.xml
+0	4	9	3	1	minor
+4	8	4	3	0	major
+8	12	9	3	1	minor
+12	16	0	3	0	major
+16	20	8	3	0	major
+20	24	0	3	0	major
+24	28	0	3	0	major
+28	32	9	3	1	minor
+32	36	4	3	0	major
+36	38	9	3	1	minor
+38	40	4	3	0	major

@@ -1,0 +1,31 @@
+#	Title	Hindustan
+#	Source Filename	Harold Weeks, Oliver Wallace - Hindustan.xml
+0	3	0	3	0	major
+3	4	7	3	3	augmented
+4	11	0	3	0	major
+11	12	7	3	2	diminished
+12	16	7	3	0	dominant-ninth
+16	18	2	3	1	minor-seventh
+18	19	7	3	0	dominant
+19	20	0	3	2	diminished
+20	25	7	3	0	dominant-ninth
+25	26	0	3	2	diminished
+26	28	7	3	0	dominant
+28	29	0	3	0	major
+29	30	2	3	1	minor-seventh
+30	31	3	3	2	diminished
+31	32	0	3	0	major
+32	35	0	3	0	major
+35	36	7	3	3	augmented
+36	40	0	3	0	major
+40	42	7	3	1	minor-seventh
+42	44	0	3	0	dominant
+44	48	5	3	0	major
+48	52	2	3	0	dominant
+52	55	5	3	1	minor-sixth
+55	55.5	0	3	0	major
+55.5	56	8	3	0	dominant
+56	58	2	3	1	minor-seventh
+58	59	7	3	0	dominant-ninth
+59	60	7	3	0	dominant
+60	64	0	3	0	major

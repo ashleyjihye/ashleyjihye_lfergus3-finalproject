@@ -1,0 +1,27 @@
+#	Title	The Godfather Waltz (Come Live Your Life With Me)
+#	Source Filename	Nino Rota, Billy Meshel, Larry Kusik - The Godfather Waltz (Come Live Your Life With Me).xml
+0	6	9	3	1	minor
+6	18	2	3	1	minor
+18	30	9	3	1	minor
+30	33	4	3	0	dominant
+33	36	9	3	1	minor
+36	42	2	3	1	minor
+42	48	9	3	1	minor
+48	54	4	3	0	dominant
+54	57	9	3	1	minor
+57	60	5	3	0	major
+60	63	2	3	1	minor
+63	65	4	3	0	dominant
+65	66	4	3	4	suspended-fourth
+66	72	9	3	1	minor
+72	75	2	3	1	minor
+75	78	10	3	0	major
+78	84	9	3	1	minor
+84	90	2	3	1	minor
+90	96	9	3	0	major
+96	102	2	3	1	minor
+102	108	9	3	1	minor
+108	111	4	3	1	minor
+111	113	11	3	0	dominant
+113	114	11	3	4	suspended-fourth
+114	120	4	3	1	minor

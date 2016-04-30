@@ -1,0 +1,30 @@
+#	Title	That's The Way I've Always Heard It Could Be
+#	Source Filename	Carly Simon and Jacob Brackman - That's The Way I've Always Heard It Could Be.xml
+0.5	4	9	3	1	minor-ninth
+4	8	5	3	0	major-seventh
+8	12	9	3	1	minor-ninth
+12	16	5	3	0	major-seventh
+16	20	0	3	1	minor-ninth
+20	24	10	3	0	major-seventh
+24	27	7	3	1	minor
+27	28	6	3	0	major
+28	32	5	3	0	major
+32	36	9	3	1	minor-ninth
+36	40	5	3	0	major-seventh
+40	44	9	3	1	minor-ninth
+44	48	5	3	0	major
+48	52	0	3	1	minor-ninth
+52	55.5	10	3	0	major-seventh
+55.5	56	7	3	1	minor
+56	60	6	3	0	major
+60	64	5	3	0	major
+64	68	3	3	0	major
+68	72	2	3	1	minor-seventh
+72	76	0	3	1	minor-seventh
+76	80	10	3	0	major-seventh
+80	84	3	3	0	major
+84	88.5	2	3	1	minor-seventh
+88.5	92	7	3	0	major
+92	96	0	3	0	major
+96	100	7	3	0	major
+100	108	0	3	0	major

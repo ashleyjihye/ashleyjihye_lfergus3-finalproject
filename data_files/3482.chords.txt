@@ -1,0 +1,14 @@
+#	Title	Freddie Freeloader
+#	Source Filename	Miles Davis - Freddie Freeloader.xml
+0	16	0	3	0	dominant
+16	24	5	3	0	dominant
+24	32	0	3	0	dominant
+32	36	7	3	0	dominant
+36	40	5	3	0	dominant
+40	48	10	3	0	dominant
+48	64	0	3	0	dominant
+64	72	5	3	0	dominant
+72	80	0	3	0	dominant
+80	84	7	3	0	dominant
+84	88	5	3	0	dominant
+88	96	0	3	0	dominant

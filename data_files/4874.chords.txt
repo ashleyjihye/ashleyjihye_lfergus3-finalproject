@@ -1,0 +1,26 @@
+#	Title	Mi Piso Eb
+#	Source Filename	Vinnie Dewan - Mi Piso Eb.xml
+0	4	0	3	0	major
+4	8	0	3	0	major
+8	12	0	3	1	minor
+12	16	0	3	0	dominant
+16	20	5	3	1	minor
+20	24	5	3	1	minor
+24	28	0	3	1	minor
+28	32	0	3	1	minor
+32	36	2	3	2	half-diminished
+36	40	7	3	0	dominant
+40	44	0	3	1	minor
+44	48	7	3	0	dominant
+48	52	0	3	0	major
+52	56	0	3	0	major
+56	60	0	3	1	minor
+60	64	0	3	0	dominant
+64	68	5	3	1	minor
+68	72	5	3	1	minor
+72	76	0	3	1	minor
+76	80	0	3	1	minor
+80	84	2	3	2	half-diminished
+84	88	7	3	0	dominant
+88	92	0	3	1	minor
+92	96	7	3	0	dominant

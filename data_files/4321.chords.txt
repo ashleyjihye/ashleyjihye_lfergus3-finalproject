@@ -1,0 +1,28 @@
+#	Title	Camptown Races
+#	Source Filename	Stephen Foster - Camptown Races.xml
+0	8	0	3	0	major
+8	16	7	3	0	dominant
+16	24	0	3	0	major
+24	28	7	3	0	dominant
+28	40	0	3	0	major
+40	48	7	3	0	dominant
+48	56	0	3	0	major
+56	60	7	3	0	dominant
+60	72	0	3	0	major
+72	76	5	3	0	major
+76	88	0	3	0	major
+88	92	7	3	0	dominant
+92	96	0	3	0	major
+96	104	0	3	0	major
+104	112	7	3	0	dominant
+112	120	0	3	0	major
+120	124	7	3	0	dominant
+124	136	0	3	0	major
+136	144	7	3	0	dominant
+144	152	0	3	0	major
+152	156	7	3	0	dominant
+156	168	0	3	0	major
+168	172	5	3	0	major
+172	184	0	3	0	major
+184	188	7	3	0	dominant
+188	192	0	3	0	major

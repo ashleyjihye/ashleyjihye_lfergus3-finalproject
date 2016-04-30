@@ -1,0 +1,14 @@
+#	Title	In a little Spanish town
+#	Source Filename	Mabel Wayne, Sam M Lewis, Joe Young - In a little Spanish town.xml
+0	6	0	3	0	major
+6	18	7	3	0	dominant
+18	30	0	3	0	major
+30	42	7	3	0	dominant
+42	54	0	3	0	major
+54	60	7	3	0	dominant
+60	66	4	3	0	dominant
+66	78	9	3	0	dominant
+78	84	2	3	0	dominant
+84	87	0	3	0	major
+87	90	7	3	0	dominant
+90	99	0	3	0	major

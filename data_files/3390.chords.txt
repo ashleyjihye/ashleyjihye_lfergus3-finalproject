@@ -1,0 +1,18 @@
+#	Title	What Have They Done To My Song, Ma?
+#	Source Filename	Melanie Safka - What Have They Done To My Song, Ma?.xml
+1	16	5	3	0	major
+16	32	10	3	0	major
+32	36	5	3	0	major
+36	40	7	3	0	major
+40	48	10	3	0	major
+48	52	5	3	0	major
+52	56	0	3	0	dominant
+56	61	5	3	0	major
+61	76	5	3	0	major
+76	92	10	3	0	major
+92	96	5	3	0	major
+96	100	7	3	0	major
+100	108	10	3	0	major
+108	112	5	3	0	major
+112	116	0	3	0	dominant
+116	120	5	3	0	major

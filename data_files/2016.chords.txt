@@ -1,0 +1,29 @@
+#	Title	Cold, Cold Heart
+#	Source Filename	Hank Williams - Cold, Cold Heart.xml
+4	16	0	3	0	major
+16	32	7	3	0	dominant
+32	44	0	3	0	major
+44	48	0	3	0	dominant
+48	52	5	3	0	major
+52	64	7	3	0	dominant
+64	80	0	3	0	major
+80	96	7	3	0	dominant
+96	108	0	3	0	major
+108	112	0	3	0	dominant
+112	116	5	3	0	major
+116	128	7	3	0	dominant
+128	132	0	3	0	major
+132	144	0	3	0	major
+144	160	7	3	0	dominant
+160	172	0	3	0	major
+172	176	0	3	0	dominant
+176	180	5	3	0	major
+180	192	7	3	0	dominant
+192	208	0	3	0	major
+208	224	7	3	0	dominant
+224	236	0	3	0	major
+236	240	0	3	0	dominant
+240	244	5	3	0	major
+244	256	7	3	0	dominant
+256	264	7	3	0	dominant
+264	272	0	3	0	major

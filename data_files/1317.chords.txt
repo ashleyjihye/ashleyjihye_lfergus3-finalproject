@@ -1,0 +1,28 @@
+#	Title	Cow-Cow Boogie
+#	Source Filename	Don Raye, Gene De Paul, Benny Carter - Cow-Cow Boogie.xml
+2	10	0	3	0	major
+10	14	5	3	0	major
+14	18	0	3	0	major
+18	20	7	3	0	major
+20	22	5	3	0	major
+22	32	0	3	0	major
+32	34	0	3	0	dominant
+34	38	5	3	0	major
+38	42	0	3	0	major
+42	44	7	3	0	major
+44	46	5	3	0	major
+46	50	0	3	0	major
+50	50.25	0	3	0	major
+50.25	50.75	7	3	1	minor
+50.75	52.25	0	3	0	major
+52.25	53	7	3	1	minor
+53	54	0	3	0	major
+54	55	0	3	0	dominant
+55	57	8	3	0	dominant
+57	57.25	7	3	0	dominant
+57.25	57.75	5	3	0	dominant
+57.75	58	7	3	0	dominant
+58	66	0	3	0	major
+66	68	7	3	0	major
+68	70	5	3	0	major
+70	82	0	3	0	major

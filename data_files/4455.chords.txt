@@ -1,0 +1,19 @@
+#	Title	Ev'rywhere
+#	Source Filename	Tolchard Evans, Larry Kahn - Ev'rywhere.xml
+0	12	0	3	0	major
+12	18	9	3	0	dominant
+18	24	2	3	1	minor
+24	36	2	3	1	minor
+36	42	7	3	0	dominant
+42	47	0	3	0	major
+47	48	7	3	0	dominant
+48	60	0	3	0	major
+60	66	9	3	0	dominant
+66	75	2	3	1	minor
+75	78	5	3	1	minor
+78	81	0	3	0	major
+81	83	9	3	1	minor
+83	84	9	3	0	dominant
+84	87	2	3	1	minor-seventh
+87	90	7	3	0	dominant
+90	96	0	3	0	major

@@ -1,0 +1,31 @@
+#	Title	The Loveliest Night Of The Year
+#	Source Filename	Juventino Rosas, Paul Francis Webster - The Loveliest Night Of The Year.xml
+0	18	0	3	0	major
+18	42	7	3	0	dominant
+42	63	0	3	0	major
+63	66	0	3	0	dominant
+66	75	5	3	0	major
+75	78	6	3	2	diminished
+78	81	0	3	0	major
+81	84	9	3	0	dominant
+84	87	2	3	0	dominant
+87	90	7	3	0	dominant
+90	95	0	3	0	major
+95	96	7	3	1	minor
+96	112	5	3	0	major
+112	114	8	3	2	diminished
+114	126	0	3	0	dominant
+126	129	7	3	1	minor-seventh
+129	138	0	3	0	major
+138	141	5	3	0	major
+141	144	2	3	1	minor-seventh
+144	159	0	3	0	major
+159	162	0	3	0	dominant
+162	171	5	3	0	major
+171	174	6	3	2	diminished
+174	177	0	3	0	major
+177	180	9	3	0	dominant
+180	183	2	3	0	dominant
+183	184	2	3	1	minor-seventh
+184	186	7	3	0	dominant
+186	189	0	3	0	major
