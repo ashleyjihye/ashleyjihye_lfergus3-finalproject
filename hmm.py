@@ -82,7 +82,7 @@ def sample_from_dist(d):
             return k
 
 class HMM:
-    def __init__(self, transfile, emitfile, translock=False, emitlock=False, parse_input=True):
+    def __init__(self, transfile, emitfile, translock=False, emitlock=False):
         """reads HMM structure from transition and emission files, and probabilities if given.
         no error checking: assumes the files are in the correct format."""
         # Do not modify this function
@@ -92,7 +92,6 @@ class HMM:
 
         self.translock = translock
         self.emitlock = emitlock
-        self.parse_input =parse_input 
 
         # initialize with random parameters if probs were not specified
         if not tprovided:   # at least one transition probability not given in file
@@ -447,7 +446,7 @@ def main():
     args = parser.parse_args()
 
     # initialize model and read data
-    model = HMM(args.paramfile+'.trans', args.paramfile+'.emit', args.translock, args.emitlock, args.parse_input)
+    model = HMM(args.paramfile+'.trans', args.paramfile+'.emit', args.translock, args.emitlock)
 
     if args.function == 'v':
         corpus = []
@@ -459,7 +458,8 @@ def main():
 
                 for i in range(0, len(f)):
                     if f[i] != "":
-                        corpus.append(syllables_from_sentence(syllable_dict, f[i]))
+                        out = "".join(c for c in f[i] if c not in ('!','.',':','\'','\"','?',';',',','(',')','-','_','[',']','/')).lower()
+                        corpus.append(syllables_from_sentence(syllable_dict, out))
 
         else:
             corpus = read_corpus(args.corpusfile)
