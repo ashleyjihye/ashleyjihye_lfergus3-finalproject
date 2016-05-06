@@ -15,6 +15,9 @@ import argparse
 import codecs
 import os
 from collections import defaultdict
+from music21 import *
+import datetime
+import time
 
 def normalize(countdict):
     """given a dictionary mapping items to counts,
@@ -176,9 +179,6 @@ class HMM:
     def generate(self, n):
         """return a list of n symbols by randomly sampling from this HMM.
         """
-        # TODO: fill in
-        # due at checkpoint date (ungraded)
-        # Use the sample_from_dist helper function in this file
         generated = []
         for i in range(n):
             if i==0:
@@ -256,9 +256,6 @@ class HMM:
         compute and return the backward algorithm dynamic programming matrix
         of size m x T where m is the number of states.
         """
-        # TODO: fill in
-        # due at checkpoint date (ungraded)
-        # Follow the example in the slides from Mar 07 as a guideline.
         backward_matrix = numpy.zeros((len(self.states), len(observation)))
         for si, state in enumerate(self.states):
             backward_matrix[si, len(observation)-1] = 1  # 1s in last column
@@ -288,8 +285,6 @@ class HMM:
         Do not update if self.emissions if the self.emitlock flag is True,
         or self.transitions if self.translock is True.
         """
-        # TODO: fill in
-        # note that this is a short and simple function
         if not self.translock:
             for from_state in self.transitions:
                 self.transitions[from_state] = normalize(transcounts[from_state])
@@ -304,8 +299,6 @@ class HMM:
         as well as the log likelihood of the observations under the current parameters.
         return a list with the log likelihood, expected emission counts, and expected transition counts.
         """
-        # TODO: fill in
-        # follow the Excel sheet example and slides from Mar 10 to fully understand the E step
 
         log_likelihood = 0.0  # holds running total of the log likelihood of all observations
         emitcounts = defaultdict(lambda : defaultdict(float))  # expected emission counts
@@ -395,16 +388,42 @@ def make_dict(filename):
     return syllables
 
 #output the results of viterbi (ie. the intervals) into a score and a midi format
-def show_output(corpusfile, corpus, score_app, midi_app):
-    with open(corpusfile.split()[0] + '.tagged') as theFile:
-        f = theFile.read().split('\n')
+def handle_output(corpusfile, corpus, save_output):
+    if not save_output:
+        return
+    else:
+        with open(corpusfile.split(".")[0] + '.tagged') as theFile:
+            f = theFile.read()
 
+            lines = f.split("\n")
 
-        """
-        interval = (int(nested_list[i][3]) - prev_note) + (12*(int(nested_list[i][4])-prev_octave))
-        """
+            notes_list = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B', 'C']
 
+            ts = time.time()
+            st = datetime.datetime.fromtimestamp(ts).strftime('%Y-%m-%d %H;%M;%S')
 
+            for j in range(0, len(lines)):
+                line = lines[j]
+                if line != "":
+                    line = line.split(" ")
+                    s = stream.Stream()
+
+                    prev_note = 0
+                    prev_octave = 4
+                    for i in range(0, len(line)):
+                        new_note = (prev_note + int(line[i]))%12
+                        new_octave = ((prev_note + int(line[i]))/12) + prev_octave
+
+                        s.append(note.Note(notes_list[new_note] + str(new_octave), type='quarter'))
+
+                        prev_note = new_note
+                        prev_octave = new_octave
+
+                    for n, lyric in zip(s.notes, corpus[j]):
+                        n.lyric = lyric
+
+                    s.write(fmt="xml",fp="output/" + st + "|" + str(j) + ".xml")
+                    s.write(fmt="midi",fp="output/" + st + "|" + str(j) + ".midi")
 
 
 def main():
@@ -423,9 +442,7 @@ def main():
     parser.add_argument('--translock', type=bool, default=False, help='should the transition parameters be frozen during EM training?')
     parser.add_argument('--emitlock', type=bool, default=False, help='should the emission parameters be frozen during EM training?')
     parser.add_argument('--parse_input', type=bool, default=False, help='parse the data into syllables (if it is currently in word format)')
-    parser.add_argument('--show_output', type=bool, default=False, help='show calculated intervals as piece and as midi file')
-    parser.add_argument('--score_app', type=str, default=None, help='which app to use to open up note score')
-    parser.add_argument('--midi_app', type=str, default=None, help='which app to use to open up midi sound file')
+    parser.add_argument('--save_output', type=bool, default=False, help='save calculated intervals as piece and as midi file')
 
     args = parser.parse_args()
 
@@ -453,9 +470,7 @@ def main():
                 viterbi_path = model.viterbi(observation)
                 o.write(' '.join(viterbi_path)+'\n')
 
-        if args.show_output:
-            show_output(corpusfile, corpus, args.score_app, args.midi_app)
-
+        handle_output(args.corpusfile, corpus, args.save_output)
 
     elif args.function == 'p':
         corpus = read_corpus(args.corpusfile)
