@@ -37,8 +37,8 @@ if __name__=='__main__':
             if "notes.txt" in filename:
                 #write new file
                 f = open(os.path.join(inputdir,filename.split('.')[0] + ".notes_edited.txt"), "w")
-                #change first note of song to start symbol "S"
-                f.write("\t".join(nested_list[0][:3]) + "\t" + "#" + "\n")
+                f.write("0\t0\t0\t" + "#" + "\n")
+                f.write("\t".join(nested_list[0][:4]) + "\n")
                 prev_octave = int(nested_list[0][4])
                 prev_note = int(nested_list[0][3])
                 for i in range(1, len(nested_list)):
@@ -93,6 +93,19 @@ if __name__=='__main__':
                     lyrics_list.append(line.split())
 
             #build the emissions dict
+            note_counter = 0
+            for i in range(0, len(lyrics_list)-1):
+                corresponding_note = lyrics_list[i][0]
+
+                while (notes_list[note_counter][0] != corresponding_note):
+                    if notes_list[note_counter][3] != "#":
+                        emitcounts[notes_list[note_counter][3]]["<UNK>"] += 1
+                    note_counter += 1
+
+                emitcounts[notes_list[note_counter][3]][lyrics_list[i][3]] += 1
+
+
+            """
             lyric_counter = 0
             for i in range(0,len(notes_list)-1):
                 current_interval = notes_list[i][3]
@@ -106,8 +119,10 @@ if __name__=='__main__':
                         emitcounts[current_interval]["<UNK>"] += 1
                 else:
                     emitcounts[current_interval]["<UNK>"] += 1
+            """
 
 
+    """
     emissions = {}
     for k, v in emitcounts.iteritems():
         emissions[k] = normalize(v)
@@ -118,7 +133,7 @@ if __name__=='__main__':
 
 
     #write emissions to file
-    f = open("emissions.txt", "w")
+    f = open("models/music.emit", "w")
     for k, v in emissions.iteritems():
         for k1, v1 in v.iteritems():
             f.write(k + " " + k1 + " " + str(v1) + "\n")
@@ -127,14 +142,31 @@ if __name__=='__main__':
 
 
     #write transitions to file
-    f = open("transitions.txt", "w")
+    f = open("models/music.trans", "w")
     for k, v in transitions.iteritems():
+        for k1, v1 in v.iteritems():
+            f.write(k + " " + k1 + " " + str(v1) + "\n")
+
+    f.close()
+    """
+
+
+    #write emissions to file
+    f = open("models/music.emit", "w")
+    for k, v in emitcounts.iteritems():
         for k1, v1 in v.iteritems():
             f.write(k + " " + k1 + " " + str(v1) + "\n")
 
     f.close()
 
 
+    #write transitions to file
+    f = open("models/music.trans", "w")
+    for k, v in transcounts.iteritems():
+        for k1, v1 in v.iteritems():
+            f.write(k + " " + k1 + " " + str(v1) + "\n")
+
+    f.close()
 
 
 
