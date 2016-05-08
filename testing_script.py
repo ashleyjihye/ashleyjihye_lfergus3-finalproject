@@ -16,7 +16,7 @@ if __name__=='__main__':
     testdir = sys.argv[1]
 
     #create a file where each line is the entire lyrics of one testing file
-    with open(os.path.join(testdir, "_compositeLyrics"), "w") as lyricsFile:
+    with open(os.path.join(testdir, "compositeLyrics"), "w") as lyricsFile:
         for filename in os.listdir(testdir):
             print filename
             if "lyrics_edited" in filename:
@@ -38,7 +38,7 @@ if __name__=='__main__':
                 lyricsFile.write(" ".join(syllables_list) + "\n")
 
     #create a file where each line is all the notes of one testing file
-    with open(os.path.join(testdir, "_compositeNotes"), "w") as notesFile:
+    with open(os.path.join(testdir, "compositeNotes"), "w") as notesFile:
         for filename in os.listdir(testdir):
             if "notes_edited" in filename:
                 with open(os.path.join(testdir, filename)) as testFile:
@@ -52,7 +52,7 @@ if __name__=='__main__':
 
 
 """
-fix all the <UNK> values!!
+fix all the <UNK> values!!--> add a while loop? not incrementing prev_note correctly
 fix placement of new files? (not in same directory as data)
 why is musicxml.mat in the data directory?
 test whether a song has lyrics
