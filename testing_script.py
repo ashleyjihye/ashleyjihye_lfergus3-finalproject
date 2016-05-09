@@ -1,13 +1,15 @@
 import os
 import sys
 from subprocess import call
-
+from subprocess import check_output
 
 """
-need to do:
-    create a lyric file from each test song
-    run program on each test lyric file
-    compare -->
+song 24 lyrics edited "2so" key error in hmm.py --> problem with data??
+
+how to deal with <UNK> at the end of the lyrics
+(currently not every note in compositeNotes has a corresponding lyric in compositeLyrics)
+
+a file doesn't have a lyrics_edited if it has no lyrics, right?
 """
 
 # run with "testing_script testdir"
@@ -15,11 +17,15 @@ need to do:
 if __name__=='__main__':
     testdir = sys.argv[1]
 
+    #use this dict to keep track of whether a song has a lyrics_edited file, ie, whether the song has lyrics
+    lyric_dict = {}
+
     #create a file where each line is the entire lyrics of one testing file
     with open(os.path.join(testdir, "compositeLyrics"), "w") as lyricsFile:
         for filename in os.listdir(testdir):
-            print filename
             if "lyrics_edited" in filename:
+                lyric_dict[filename.split(".")[0]] = filename
+                print filename
                 with open(os.path.join(testdir, filename)) as testFile:
                     f = testFile.read().split("\n")
                     syllables_list = []
@@ -30,8 +36,11 @@ if __name__=='__main__':
                                 syllables_list.append(line.split()[3])
                                 prev_note += 1
                             else:
-                                #print "here 2"
-                                syllables_list.append("<UNK>")
+                                #deal with notes that have no lyric
+                                while (int(line.split()[0]) > (prev_note + 1)):
+                                    syllables_list.append("<UNK>")
+                                    prev_note += 1
+                                syllables_list.append(line.split()[3])
                                 prev_note += 1
 
 
@@ -41,23 +50,40 @@ if __name__=='__main__':
     with open(os.path.join(testdir, "compositeNotes"), "w") as notesFile:
         for filename in os.listdir(testdir):
             if "notes_edited" in filename:
-                with open(os.path.join(testdir, filename)) as testFile:
-                    f = testFile.read().split("\n")
-                    notes_list = []
-                    for line in f:
-                        notes_list.append(line.split()[3])
-                notesFile.write(" ".join(syllables_list) + "\n")
+                if filename.split(".")[0] in lyric_dict:
+                    print filename
+                    with open(os.path.join(testdir, filename)) as testFile:
+                        f = testFile.read().split("\n")
+                        notes_list = []
+                        for line in f:
+                            if len(line.split()) == 4:
+                                notes_list.append(line.split()[3])
+                    notesFile.write(" ".join(notes_list) + "\n")
 
-    #subprocess.call("python hmm.py " + os.path.join(testdir, "_compositeLyrics") + " models/music " + "v")
+    #print check_output("python hmm.py " + os.path.join(testdir, "compositeLyrics") + " models/music " + "v", shell=True)
+    call("python hmm.py " + os.path.join(testdir, "compositeLyrics") + " models/music " + "v", shell=True)
 
+    #compare compsiteLyrics.tagged with compositeNotes
+    #keep track of how many notes (accumulate over all files)
+    #keep track of accuracy: for each note, if correct +1, if incorrect stays same
+    #divide accuracy by total notes
+    #print accuracy
 
-"""
-fix all the <UNK> values!!--> add a while loop? not incrementing prev_note correctly
-fix placement of new files? (not in same directory as data)
-why is musicxml.mat in the data directory?
-test whether a song has lyrics
-how does it know when to stop?
-
-call HMM
-compare created notes file to generated file
-"""
+    total_notes = 0
+    correct_notes = 0
+    with open(os.path.join(testdir, "compositeNotes")) as gold:
+        with open(os.path.join(testdir, "compositeLyrics.tagged")) as tagged:
+            gold_lines = gold.read().split("\n")
+            tagged_lines = tagged.read().split("\n")
+            for i, line in enumerate(gold_lines):
+                g_l = line.split(" ")
+                t_l = tagged_lines[1].split(" ")
+                for j, n in enumerate(g_l):
+                    total_notes += 1
+                    if (len(t_l) > j):
+                        if (n == t_l[j]):
+                            correct_notes += 1
+                    else:
+                        continue
+    accuracy = correct_notes/(float(total_notes))
+    print "The accuracy is: " + str(accuracy)
