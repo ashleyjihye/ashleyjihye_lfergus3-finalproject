@@ -1,2 +1,0 @@
-#	Title	Samba for Carmen
-#	Source Filename	Paquito d'Rivera - Samba for Carmen.xml

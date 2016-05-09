@@ -1,9 +1,0 @@
-#	Title	Takin' Care of Business
-#	Source Filename	Randy Bachman - Takin' Care of Business.xml
-1	0	1	1. Intro rhythm guitar
-2	0	2	2. add piano, bass, drums
-3	0	2	1. They
-3	0	3	2. (There's)
-3	0	4	3. Break
-3	0	5	4. They
-3	0	6	5.

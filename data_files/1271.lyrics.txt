@@ -1,2 +1,0 @@
-#	Title	Douce Ambiance
-#	Source Filename	Django Reinhardt - Douce Ambiance.xml

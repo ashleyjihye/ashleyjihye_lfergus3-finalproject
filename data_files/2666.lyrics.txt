@@ -1,2 +1,0 @@
-#	Title	Eye Level
-#	Source Filename	Jack Trombey - Eye Level.xml

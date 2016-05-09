@@ -1,2 +1,0 @@
-#	Title	El Amanecer
-#	Source Filename	Roberto Firpo - El Amanecer.xml

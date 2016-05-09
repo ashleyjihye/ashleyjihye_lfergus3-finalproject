@@ -1,2 +1,0 @@
-#	Title	One Note Samba
-#	Source Filename	Antonio Carlos Jobim - One Note Samba.xml

@@ -1,2 +1,0 @@
-#	Title	Twisted
-#	Source Filename	Wardel Gray, Jon Hendricks - Twisted.xml

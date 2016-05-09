@@ -1,2 +1,0 @@
-#	Title	The Chicken
-#	Source Filename	Alfred James Ellis - The Chicken.xml

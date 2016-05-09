@@ -1,2 +1,0 @@
-#	Title	Precession of the Equinoxes
-#	Source Filename	Dot145 - Precession of the Equinoxes.xml

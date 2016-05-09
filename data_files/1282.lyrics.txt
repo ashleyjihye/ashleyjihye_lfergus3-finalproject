@@ -1,2 +1,0 @@
-#	Title	Tears
-#	Source Filename	Django Reinhardt, Stephane Grappelli - Tears.xml

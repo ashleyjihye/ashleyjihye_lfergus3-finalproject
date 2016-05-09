@@ -1,2 +1,0 @@
-#	Title	Samba triste
-#	Source Filename	Baden Powell - Samba triste.xml

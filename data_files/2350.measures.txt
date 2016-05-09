@@ -1,6 +1,0 @@
-#	Title	Azt mondják, ideje féjhezmenni
-#	Source Filename	Hungarian folk song - Azt mondj?k, ideje f?jhezmenni.xml
-0	4	4
-4	4	4
-8	4	4
-12	4	4

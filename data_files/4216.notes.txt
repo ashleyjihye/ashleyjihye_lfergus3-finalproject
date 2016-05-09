@@ -1,7 +1,0 @@
-#	Title	Scott's Tune
-#	Title	Scott Auble - Scott's Tune.xml
-1	0	1	7	4
-2	1	2	11	4
-3	2	3	2	4
-4	3	4	7	4
-5	4	8	2	5

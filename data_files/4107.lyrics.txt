@@ -1,2 +1,0 @@
-#	Title	Jibnotable
-#	Source Filename	Ron Linnebach - Jibnotable.xml

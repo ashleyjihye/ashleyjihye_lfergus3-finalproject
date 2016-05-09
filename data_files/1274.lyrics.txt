@@ -1,2 +1,0 @@
-#	Title	Manoir De Mes Rêves
-#	Source Filename	Django Reinhardt - Manoir De Mes R?ves.xml

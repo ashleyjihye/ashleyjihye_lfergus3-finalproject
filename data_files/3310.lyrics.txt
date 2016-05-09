@@ -1,2 +1,0 @@
-#	Title	Bone Vamp
-#	Source Filename	Mark Zanter - Bone Vamp.xml

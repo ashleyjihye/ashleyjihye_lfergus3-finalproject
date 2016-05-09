@@ -1,8 +1,0 @@
-#	Title	Lenn a délibábos Hortobágyon
-#	Source Filename	Hungarian song - Lenn a delibabos Hortobagyon.xml
-0	4	4
-4	4	4
-8	4	4
-12	4	4
-16	4	4
-20	4	4

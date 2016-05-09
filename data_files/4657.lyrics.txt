@@ -1,2 +1,0 @@
-#	Title	Brise Pied
-#	Source Filename	Traditionnel - Brise Pied.xml

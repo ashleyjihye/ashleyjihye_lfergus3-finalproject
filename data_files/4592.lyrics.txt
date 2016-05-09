@@ -1,2 +1,0 @@
-#	Title	Two Guitars
-#	Source Filename	Traditional - Two Guitars.xml

@@ -1,6 +1,0 @@
-#	Title	So What
-#	Source Filename	Miles Davis - So What.xml
-4	36	2	3	1	minor-seventh
-36	68	2	3	1	minor-seventh
-68	100	3	3	1	minor-seventh
-100	104	2	3	1	minor-seventh

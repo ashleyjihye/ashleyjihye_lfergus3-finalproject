@@ -1,2 +1,0 @@
-#	Title	Blood Count
-#	Source Filename	Billy Strayhorn - Blood Count.xml

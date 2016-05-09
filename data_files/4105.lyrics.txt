@@ -1,2 +1,0 @@
-#	Title	Nocturne
-#	Source Filename	Rolf Lvland, Petter Skavlan - Nocturne.xml

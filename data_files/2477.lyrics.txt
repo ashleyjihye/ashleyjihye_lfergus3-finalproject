@@ -1,2 +1,0 @@
-#	Title	Honvéd banda
-#	Source Filename	Hungarian song - Honved banda.xml

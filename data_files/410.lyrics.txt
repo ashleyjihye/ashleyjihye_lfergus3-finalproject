@@ -1,2 +1,0 @@
-#	Title	Syncope
-#	Source Filename	Benjamin Benedikt Fluckiger - Syncope.xml

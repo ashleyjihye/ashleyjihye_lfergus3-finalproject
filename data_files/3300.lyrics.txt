@@ -1,2 +1,0 @@
-#	Title	Mambo Inn
-#	Source Filename	Mario Bauza, Grace Sampson, Bobby Woodlen - Mambo Inn.xml

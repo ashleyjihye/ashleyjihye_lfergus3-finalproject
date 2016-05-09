@@ -1,7 +1,0 @@
-#	Title	Az bajom van véled
-#	Source Filename	Hungarian folk song - Az bajom van v?led.xml
-2	10	9	3	1	minor
-10	18	4	3	0	major
-18	26	9	3	1	minor
-26	30	4	3	0	major
-30	32	9	3	1	minor

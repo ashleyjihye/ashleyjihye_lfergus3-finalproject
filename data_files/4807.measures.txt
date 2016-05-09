@@ -1,4 +1,0 @@
-#	Title	test
-#	Source Filename	Unknown - test.xml
-0	4	4
-4	4	4

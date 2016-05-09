@@ -1,8 +1,0 @@
-#	Title	test
-#	Source Filename	Unknown - test.xml
-1	1	1	Bo
-2	3	1	ci,
-3	1	1	bo
-4	3	1	ci
-5	1	1	tar
-6	3	1	ka

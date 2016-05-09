@@ -1,4 +1,0 @@
-#	Title	MUSIC
-#	Source Filename	Madonna, Ahmadzai - MUSIC.xml
-0	116	7	3	1	minor
-116	232	7	3	1	minor

@@ -1,2 +1,0 @@
-#	Title	Laplace
-#	Source Filename	Adam Fine - Laplace.xml
