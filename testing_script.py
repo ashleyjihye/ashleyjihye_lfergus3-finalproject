@@ -4,12 +4,9 @@ from subprocess import call
 from subprocess import check_output
 
 """
-song 24 lyrics edited "2so" key error in hmm.py --> problem with data??
+fix:
+    line after blank (tried making it > instead of >=, broke stuff (the lyrics after a break were missing))
 
-how to deal with <UNK> at the end of the lyrics
-(currently not every note in compositeNotes has a corresponding lyric in compositeLyrics)
-
-a file doesn't have a lyrics_edited if it has no lyrics, right?
 """
 
 # run with "testing_script testdir"
@@ -17,8 +14,9 @@ a file doesn't have a lyrics_edited if it has no lyrics, right?
 if __name__=='__main__':
     testdir = sys.argv[1]
 
+    """
     #use this dict to keep track of whether a song has a lyrics_edited file, ie, whether the song has lyrics
-    lyric_dict = {}
+    lyric_dict = {}JC
 
     #create a file where each line is the entire lyrics of one testing file
     with open(os.path.join(testdir, "compositeLyrics"), "w") as lyricsFile:
@@ -49,7 +47,7 @@ if __name__=='__main__':
     #create a file where each line is all the notes of one testing file
     with open(os.path.join(testdir, "compositeNotes"), "w") as notesFile:
         for filename in os.listdir(testdir):
-            if "notes_edited" in filename:
+            if "notes[Ma7L_edited" in filename:
                 if filename.split(".")[0] in lyric_dict:
                     print filename
                     with open(os.path.join(testdir, filename)) as testFile:
@@ -59,7 +57,37 @@ if __name__=='__main__':
                             if len(line.split()) == 4:
                                 notes_list.append(line.split()[3])
                     notesFile.write(" ".join(notes_list) + "\n")
+    """
 
+    #use this dict to keep track of whether a song has a lyrics_edited file, ie, whether the song has lyrics
+
+    #create a file where each line is the entire lyrics of one testing file
+    with open(os.path.join(testdir, "compositeLyrics"), "w") as lyricsFile:
+        with open(os.path.join(testdir, "compositeNotes"), "w") as notesFile:
+            for filename in os.listdir(testdir):
+                if "lyrics_edited" in filename:
+                    print filename
+                    with open(os.path.join(testdir, filename)) as lyricTestFile:
+                        f = lyricTestFile.read().split("\n")
+                        syllables_list = []
+                        notes_list = []
+                        prev_note = 0
+                        for i, lyric_line in enumerate(f):
+                            with open(os.path.join(testdir, (filename.split(".")[0]+".notes_edited.txt"))) as notesTestFile:
+                                notes = notesTestFile.read().split("\n")
+                                if (len(lyric_line.split()) == 4) and (len(notes[int(lyric_line.split("\t")[0])].split("\t")) == 4):
+                                    if int(lyric_line.split()[0]) == (prev_note + 1):
+                                        syllables_list.append(lyric_line.split()[3])
+                                        notes_list.append(notes[int(lyric_line.split("\t")[0])].split()[3])
+                                        prev_note += 1
+                                    else:
+                                        #deal with notes that have no lyric
+                                        while (int(lyric_line.split()[0]) >= (prev_note + 1)):
+                                            prev_note += 1
+                        notesFile.write(" ".join(notes_list) + "\n")
+                    lyricsFile.write(" ".join(syllables_list) + "\n")
+
+    """
     #print check_output("python hmm.py " + os.path.join(testdir, "compositeLyrics") + " models/music " + "v", shell=True)
     call("python hmm.py " + os.path.join(testdir, "compositeLyrics") + " models/music " + "v", shell=True)
 
@@ -79,11 +107,12 @@ if __name__=='__main__':
                 g_l = line.split(" ")
                 t_l = tagged_lines[1].split(" ")
                 for j, n in enumerate(g_l):
-                    total_notes += 1
-                    if (len(t_l) > j):
-                        if (n == t_l[j]):
-                            correct_notes += 1
+                        total_notes += 1
+                        if (len(t_l) > j):
+                            if (n == t_l[j]):
+                                correct_notes += 1
                     else:
                         continue
     accuracy = correct_notes/(float(total_notes))
     print "The accuracy is: " + str(accuracy)
+    """
