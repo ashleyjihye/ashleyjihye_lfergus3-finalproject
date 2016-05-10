@@ -5,6 +5,7 @@ from subprocess import check_output
 
 """
 fix:
+    just in case, test whether a lyrics file is empty before doing stuff
     line after blank (tried making it > instead of >=, broke stuff (the lyrics after a break were missing))
 
 """
