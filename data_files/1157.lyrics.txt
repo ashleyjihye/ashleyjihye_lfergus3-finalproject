@@ -1,2 +1,0 @@
-#	Title	Carnaval de Paris
-#	Source Filename	Dario G - Carnaval de Paris.xml

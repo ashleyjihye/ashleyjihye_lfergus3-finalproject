@@ -1,2 +1,0 @@
-#	Title	Peel me a Grape
-#	Source Filename	David Frischberg - Peel me a Grape.xml

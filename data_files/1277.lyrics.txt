@@ -1,2 +1,0 @@
-#	Title	Swing 39
-#	Source Filename	Django Reinhardt - Swing 39.xml

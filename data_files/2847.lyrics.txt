@@ -1,2 +1,0 @@
-#	Title	Apache
-#	Source Filename	Jerry Lordon - Apache.xml

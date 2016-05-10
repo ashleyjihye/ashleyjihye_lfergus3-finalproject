@@ -1,2 +1,0 @@
-#	Title	Folie a Amphion
-#	Source Filename	Django Reinhardt - Folie a Amphion.xml

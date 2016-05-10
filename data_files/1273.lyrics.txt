@@ -1,2 +1,0 @@
-#	Title	Mabel
-#	Source Filename	Django Reinhardt - Mabel.xml

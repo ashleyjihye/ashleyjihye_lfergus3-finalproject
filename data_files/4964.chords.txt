@@ -1,3 +1,0 @@
-#	Title	Back Door Man
-#	Source Filename	Willie Dixon - Back Door Man.xml
-0	198	0	3	0	dominant

@@ -1,2 +1,0 @@
-#	Title	Santeria
-#	Source Filename	Sublime - Santeria.xml

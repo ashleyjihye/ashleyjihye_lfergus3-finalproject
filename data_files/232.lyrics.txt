@@ -1,2 +1,0 @@
-#	Title	El Choclo
-#	Source Filename	Angel Villoldo - El Choclo.xml

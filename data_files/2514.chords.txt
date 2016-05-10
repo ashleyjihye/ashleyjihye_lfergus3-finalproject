@@ -1,2 +1,0 @@
-#	Title	La Fiesta de la Tirana
-#	Source Filename	Inti Illimani - La Fiesta de la Tirana.xml

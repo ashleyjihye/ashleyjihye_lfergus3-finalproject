@@ -1,6 +1,0 @@
-#	Title	One Way Glass
-#	Source Filename	Mannfred Mann - One Way Glass.xml
-0	4	4
-4	4	4
-8	4	4
-12	4	4

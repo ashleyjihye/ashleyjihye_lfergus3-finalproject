@@ -1,2 +1,0 @@
-#	Title	Do-Re-Mi
-#	Source Filename	Richard Rodgers , Oscar Hammerstein II - Do-Re-Mi.xml

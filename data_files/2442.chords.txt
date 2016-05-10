@@ -1,2 +1,0 @@
-#	Title	Huszárnak soroznak
-#	Source Filename	Hungarian soldier's song - Husz?rnak soroznak.xml

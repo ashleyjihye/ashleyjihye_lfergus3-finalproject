@@ -1,2 +1,0 @@
-#	Title	Deutschlandlied
-#	Source Filename	Joseph Haydn - Deutschlandlied.xml

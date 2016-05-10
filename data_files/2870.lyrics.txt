@@ -1,2 +1,0 @@
-#	Title	Midnight Mood
-#	Source Filename	Josef Zawinul - Midnight Mood.xml

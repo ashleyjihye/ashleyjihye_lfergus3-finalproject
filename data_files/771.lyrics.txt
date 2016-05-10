@@ -1,2 +1,0 @@
-#	Title	Sticks
-#	Source Filename	Cannonbal Adderly - Sticks.xml

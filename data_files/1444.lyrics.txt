@@ -1,2 +1,0 @@
-#	Title	Danse Norvegienne
-#	Source Filename	Edward Grieg - Danse Norvegienne.xml

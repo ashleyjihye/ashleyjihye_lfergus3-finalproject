@@ -1,2 +1,0 @@
-#	Title	San Francisco
-#	Source Filename	Maxime Le Forestier - San Francisco.xml

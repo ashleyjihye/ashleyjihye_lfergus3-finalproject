@@ -1,2 +1,0 @@
-#	Title	La Marseillaise
-#	Source Filename	Claude Joseph Rouget de Lisle - La Marseillaise.xml

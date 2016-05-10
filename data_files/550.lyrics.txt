@@ -1,2 +1,0 @@
-#	Title	MAMMA
-#	Source Filename	Bixio - MAMMA.xml

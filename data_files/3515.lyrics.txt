@@ -1,2 +1,0 @@
-#	Title	Always look on the bright side of life
-#	Source Filename	Monty Python - Always look on the bright side of life.xml

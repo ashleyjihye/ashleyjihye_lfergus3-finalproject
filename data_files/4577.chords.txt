@@ -1,9 +1,0 @@
-#	Title	Sinterklaas kapoentje
-#	Source Filename	Traditional - Sinterklaas kapoentje.xml
-0	4	0	3	0	major
-4	8	0	3	0	major
-8	12	7	3	0	dominant
-12	13	5	3	0	major
-13	14	2	3	1	minor
-14	15	7	3	0	dominant
-15	16	0	3	0	major

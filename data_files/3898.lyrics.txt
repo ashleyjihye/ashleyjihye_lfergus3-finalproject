@@ -1,2 +1,0 @@
-#	Title	Cherokee
-#	Source Filename	Ray Noble - Cherokee.xml

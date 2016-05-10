@@ -1,7 +1,0 @@
-#	Title	Polly Wolly Doodle
-#	Source Filename	unknown - Polly Wolly Doodle.xml
-4	16	0	3	0	major
-16	32	7	3	0	dominant
-32	48	0	3	0	major
-48	64	7	3	0	dominant
-64	68	0	3	0	major

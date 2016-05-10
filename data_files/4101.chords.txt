@@ -1,2 +1,0 @@
-#	Title	Adagio
-#	Source Filename	Rolf Lvland - Adagio.xml

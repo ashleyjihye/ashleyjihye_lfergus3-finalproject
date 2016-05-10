@@ -1,2 +1,0 @@
-#	Title	Een Bloemetjesgordijn
-#	Source Filename	Traditional - Een Bloemetjesgordijn.xml

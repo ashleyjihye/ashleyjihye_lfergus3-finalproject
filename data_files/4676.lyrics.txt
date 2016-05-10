@@ -1,2 +1,0 @@
-#	Title	Highland Cathedral
-#	Source Filename	Ulrich Roever, Michael Korb - Highland Cathedral.xml

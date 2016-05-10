@@ -1,2 +1,0 @@
-#	Title	Centerpiece
-#	Source Filename	Sweets Edison - Centerpiece.xml

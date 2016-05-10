@@ -1,2 +1,0 @@
-#	Title	Funky Dog
-#	Source Filename	Sean Barrett Jr - Funky Dog.xml

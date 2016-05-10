@@ -1,2 +1,0 @@
-#	Title	Bananenlied
-#	Source Filename	Traditional - Bananenlied.xml

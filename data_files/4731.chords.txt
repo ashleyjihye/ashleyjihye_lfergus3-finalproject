@@ -1,6 +1,0 @@
-#	Title	Hokey Pokey
-#	Source Filename	Unknown - Hokey Pokey.xml
-4	16	0	3	0	major
-16	32	7	3	0	dominant
-32	52	0	3	0	major
-52	56	0	3	0	major

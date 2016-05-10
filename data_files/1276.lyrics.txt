@@ -1,2 +1,0 @@
-#	Title	Nuages
-#	Source Filename	Django Reinhardt - Nuages.xml

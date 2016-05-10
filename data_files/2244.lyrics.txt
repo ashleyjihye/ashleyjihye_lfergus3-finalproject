@@ -1,2 +1,0 @@
-#	Title	Melodia
-#	Source Filename	Herbert Ernst Groh - Melodia.xml

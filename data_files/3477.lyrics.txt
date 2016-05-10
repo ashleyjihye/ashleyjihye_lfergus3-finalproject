@@ -1,2 +1,0 @@
-#	Title	Theme From &quot;Zorba The Greek&quot;
-#	Source Filename	Mikis Theodorakis - Zorbas (Theme from Zorba the Greek).xml

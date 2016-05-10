@@ -1,2 +1,0 @@
-#	Title	Diamonds
-#	Source Filename	Sia Furler, Benjamin Levin, Mikkel Eriksen, Tor Hermansen - Diamonds.xml

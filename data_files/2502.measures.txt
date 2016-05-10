@@ -1,8 +1,0 @@
-#	Title	Utcára nyílik a kocsmaajtó
-#	Source Filename	Hungarian song - Utcara nyilik a kocsmaajto.xml
-0	4	4
-4	4	4
-8	4	4
-12	4	4
-16	4	4
-20	4	4

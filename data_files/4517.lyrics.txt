@@ -1,2 +1,0 @@
-#	Title	C'est la Vie
-#	Source Filename	Traditional - C'est la Vie.xml

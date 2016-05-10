@@ -1,2 +1,0 @@
-#	Title	Chilou
-#	Source Filename	Pierre Williet - Chilou.xml

@@ -1,9 +1,0 @@
-#	Title	And God is able
-#	Source Filename	Ron Porter, 1 Corinthians 8:9 - And God is able.xml
-0	4	4	3	3	dominant
-4	12	9	3	1	minor
-12	20	7	3	0	major-sixth
-20	28	5	3	0	major-sixth
-28	36	4	3	3	dominant
-36	37	7	3	0	major
-37	40	9	3	1	minor
