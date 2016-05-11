@@ -21,6 +21,7 @@ if __name__=='__main__':
     These files only need to be created once, so this code can be commented out if doing several tests in a row with
     the same song files.
     """
+    """
     with open(os.path.join(testdir, "compositeLyrics"), "w") as lyricsFile:
         with open(os.path.join(testdir, "compositeNotes"), "w") as notesFile:
             for filename in os.listdir(testdir):
@@ -48,7 +49,7 @@ if __name__=='__main__':
                                             notes_list.append(notes[int(lyric_line.split("\t")[0])].split()[3])
                         notesFile.write(" ".join(notes_list) + "\n")
                     lyricsFile.write(" ".join(syllables_list) + "\n")
-
+    """
     """
     Call hmm on the lyrics file created above.
     """
@@ -74,7 +75,7 @@ if __name__=='__main__':
                         if (len(t_l) > j):
                             if (n == t_l[j]):
                                 correct_notes += 1
-                    else:
-                        continue
+                            else:
+                                continue
     accuracy = correct_notes/(float(total_notes))
     print "The accuracy is: " + str(accuracy)

@@ -202,14 +202,20 @@ class HMM:
         for oi, obs in enumerate(observation):
             for si, state in enumerate(self.states):
                 if oi==0:
-                    viterbi_costs[si, oi] = math.pow(self.transitions['#'][state], transition_damper) * self.emissions[state][obs]
+                    if state in self.emissions and obs in self.emissions[state]:
+                        viterbi_costs[si, oi] = math.pow(self.transitions['#'][state], transition_damper) * self.emissions[state][obs]
+                    else:
+                        viterbi_costs[si, oi] = 0
                 else:
                     best_costs = {}
                     for pi, prevstate in enumerate(self.states):
                         best_costs[pi] = viterbi_costs[pi, oi-1] * math.pow(self.transitions[prevstate][state], transition_damper)
 
                     best_state, best_cost = max(best_costs.items(), key=lambda (state, cost): cost)
-                    viterbi_costs[si, oi] =  best_cost * self.emissions[state][obs]
+                    if state in self.emissions and obs in self.emissions[state]:
+                        viterbi_costs[si, oi] =  best_cost * self.emissions[state][obs]
+                    else:
+                        viterbi_costs[si, oi] = 0
                     viterbi_backpointers[si, oi] = best_state
 
         oi = len(observation)-1
