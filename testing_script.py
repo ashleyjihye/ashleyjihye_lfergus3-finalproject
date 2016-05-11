@@ -21,7 +21,7 @@ if __name__=='__main__':
     These files only need to be created once, so this code can be commented out if doing several tests in a row with
     the same song files.
     """
-    """
+
     with open(os.path.join(testdir, "compositeLyrics"), "w") as lyricsFile:
         with open(os.path.join(testdir, "compositeNotes"), "w") as notesFile:
             for filename in os.listdir(testdir):
@@ -47,9 +47,11 @@ if __name__=='__main__':
                                                 prev_note += 1
                                             syllables_list.append(lyric_line.split()[3])
                                             notes_list.append(notes[int(lyric_line.split("\t")[0])].split()[3])
-                        notesFile.write(" ".join(notes_list) + "\n")
-                    lyricsFile.write(" ".join(syllables_list) + "\n")
-    """
+                        if len(f) > 1:
+                            notesFile.write(" ".join(notes_list) + "\n")
+                    if len(f) > 1:
+                        lyricsFile.write(" ".join(syllables_list) + "\n")
+
     """
     Call hmm on the lyrics file created above.
     """
