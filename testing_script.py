@@ -51,17 +51,17 @@ if __name__=='__main__':
                             notesFile.write(" ".join(notes_list) + "\n")
                     if len(f) > 1:
                         lyricsFile.write(" ".join(syllables_list) + "\n")
-
     """
     Call hmm on the lyrics file created above.
     """
-    call("python hmm.py " + os.path.join(testdir, "compositeLyrics") + " models/music " + "v", shell=True)
+    #call("python hmm.py " + os.path.join(testdir, "compositeLyrics") + " models/music " + "v", shell=True)
 
 
     """
     Calculate and print the accuracy of our hmm compared to the actual notes of the songs.
     We add one to our count of correct notes for each note that is exactly correct, then divide by the
     total number of notes. These counts accumulate over all songs in our testing files.
+    """
     """
     total_notes = 0
     correct_notes = 0
@@ -81,3 +81,4 @@ if __name__=='__main__':
                                 continue
     accuracy = correct_notes/(float(total_notes))
     print "The accuracy is: " + str(accuracy)
+    """
