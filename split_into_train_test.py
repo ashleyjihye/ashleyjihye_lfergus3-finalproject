@@ -4,6 +4,8 @@ import sys
 import shutil
 import glob
 
+"""Run this file on commandline by doing 'python split_into_train_test.py inputdir num_test_files_you_want' """ 
+
 if __name__=='__main__':
     inputdir = sys.argv[1]
     num_test = int(sys.argv[2])

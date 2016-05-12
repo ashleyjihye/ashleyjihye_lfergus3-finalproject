@@ -4,7 +4,7 @@ from collections import defaultdict
 
 __author__= 'Ashley Thomas and Leah Ferguson'
 
-"""Run parser on commandline by doing 'parse_files input_directory'"""
+"""Run parser on commandline by doing 'python parse_files.py input_directory'"""
 
 def normalize(countdict):
     """given a dictionary mapping items to counts,

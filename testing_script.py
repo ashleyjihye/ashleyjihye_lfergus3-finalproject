@@ -5,7 +5,7 @@ from subprocess import check_output
 
 
 """
-run on command line with "testing_script testdir"
+run on command line with "python testing_script.py testdir"
 
 Checks whether a lyrics file is empty, if so ignores the file.
 If a lyrics file is missing a line (ie, there is a note but no lyric) the line is skipped in both the notes and lyrics files.
