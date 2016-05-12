@@ -3,6 +3,10 @@ Leah Ferguson, Ashley Thomas
 
 CS349 Final Project
 
+### Link to Paper
+
+https://docs.google.com/document/d/1zkgFu8-j5RqH1f0p0_mTf8jspcIrguTJRA3KzX0o3Vo/edit?usp=sharing
+
 ### Instructions for Running
 
 ##### Software dependencies
