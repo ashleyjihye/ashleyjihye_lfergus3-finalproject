@@ -1,11 +1,38 @@
 # Melody Generation From Lyrics
 Leah Ferguson, Ashley Thomas
 
-https://drive.google.com/open?id=0B2L-MQr1YVbbQzdKWFAtb2lId2c
-
 CS349 Final Project
 
-###Project Update (4/6/16)
+### Instructions for Running
+
+##### Software dependencies
+There are two packages that a user must download before running hmm.py.
+
+Music21 is an API created at MIT that allows the song to be written to .midi and .xml files. Install by using "pip install music21" or by following the instructions on this page: web.mit.edu/music21/doc/installing/installWindows.html#installwindows
+
+Hyphen is one of the dictionaries that allows us to parse user input into syllables. Install using "pip install pyhyphen" or by following the instructions on this page: https://pypi.pythong.org/pypi/PyHyphen/#installation
+
+MuseScore, while not necessary to run hmm.py, is a convenient way to open the .xml files that are outputted. It allows the user to see the notes aligned with the lyrics and play the music.
+
+##### Command and tags for running hmm.py
+Here is the basic command to run the program.
+
+*python hmm.py data/lyrics.txt models/music v*
+
+The data/lyrics.txt file should contain the lyrics that you want to output a melody for. If it is already in syllable format with no punctuation, no tags are needed. However, if you're inputting text that contains full words and/or punctuation, you should add the tag "--parse\_input=True". Each line of your song should be on a separate line in this file for the best results. The entire file will be treated as one song, and outputted to a single .xml file (when you use the --save\_output tag.) A sample input file is provided to show you the correct format for an input.
+
+The models/music directory needs to contain the files "music.emit" and "music.trans", which contain the transition and emission probabilities for hmm. These are included in our repository. The directory also needs to contain the file eow.cd (a dictionary for parsing syllables) which is provided in our repository.
+
+If you would like the output in a format other than the intervals provided in data/lyrics.tagged, you can add the tag "--save\_output=True" to have both .midi and .xml files outputted. These files will be labeled with the date/time that you ran the program. You will need to have a directory called "output" before saving these files, which we have already provided in our repository.
+
+##### Included files
+In order to generate songs, hmm.py should be the only file you will need to run. parse\_files.py was used to create our song files, split\_into\_train\_test.py separates song files in a given directory into two separate directories to be used as testing and training data, and testing\_script.py runs hmm on a group of songs and prints out the accuracy of our output based on the original songs. The instructions for running these files on command line are in the files.
+
+##### Link to Data Files (on Google Drive)
+
+https://drive.google.com/open?id=0B2L-MQr1YVbbQzdKWFAtb2lId2c
+
+### Project Update (4/6/16)
 
 During the last few weeks, we spent most of our time doing further background reading, honing our original idea, and then trying to parse our raw data into a usable format. Our background research brought several issues to our attention. We were forced to think about the difference in transposing major and minor keys, working with pitches of notes versus intervals, and retrieving syllables orthographically versus phonetically (using the CMU Dictionary). We decided to store intervals instead of pitches, and we think this will provide a more natural flow to our piece and be more forgiving in cases of error. We also decided on taking syllables orthographically, with a plan to expand to phonetic data down the line. We also realized that most of the work done previously with lyrics and music was related to the overall sentiment of an overall piece of text. For example, someone took overall sentiments of books and then used a formulaic method (based on previous research on sentiments in music) to generate melodies.
 
