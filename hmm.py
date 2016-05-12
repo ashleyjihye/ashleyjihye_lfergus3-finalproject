@@ -6,7 +6,7 @@ computing the probability of observations,
 and Baum-Welch EM algorithm for parameter learning.
 """
 
-__author__='Sravana Reddy'
+__author__='Ashley Thomas and Leah Ferguson'
 
 import math
 import numpy   # install this with pip or Canopy's package manager. You're probably all set if you have NLTK/matplotlib.
@@ -18,6 +18,8 @@ from collections import defaultdict
 from music21 import *
 import datetime
 import time
+from hyphen import Hyphenator
+from hyphen.dictools import *
 
 def normalize(countdict):
     """given a dictionary mapping items to counts,
@@ -101,7 +103,7 @@ class HMM:
             print 'Emission probabilities not given: initializing randomly.'
             self.init_emissions_random()
 
-        #adding rest of transitions
+        #adding rest of transitions (ie. making it comprehensive)
         intervals = list(self.transitions.keys())
         for key in self.transitions:
             for k1 in self.transitions[key]:
@@ -193,7 +195,7 @@ class HMM:
         compute and return the most likely state sequence that generated it
         using the Viterbi algorithm
         """
-        transition_damper = .1
+        transition_damper = .2
         viterbi_path = []
 
         viterbi_costs = numpy.zeros((len(self.states), len(observation)))
@@ -352,7 +354,7 @@ class HMM:
         return log_likelihood
 
 #return a list of syllables in a given sentence (in string form)
-def syllables_from_sentence(syllable_dict, sentence):
+def syllables_from_sentence(syllable_dict, hyphen_dict, sentence):
     syllable_list = []
 
     sentence = sentence.lower()
@@ -364,16 +366,24 @@ def syllables_from_sentence(syllable_dict, sentence):
             sentence[i] = "<UNK>"
 
     for word in sentence:
-        if word not in syllable_dict or word == "<UNK>":
-            print "The word " + word + " was not in our dictionary, so we're transforming it to an unknown word <UNK>"
-            syllable_list += ["<UNK>"]
+        if word == "<UNK>":
+            print "<UNK> was inputted, so <UNK> will be outputted"
+        elif word not in syllable_dict:
+            alt_syllables = hyphen_dict.syllables(word.decode('unicode-escape'))
+            if alt_syllables != []:
+                syllable_list += alt_syllables
+            else:
+                print "The word " + word + " was not in our dictionary, so we're transforming it to an unknown word <UNK>"
+                syllable_list += ["<UNK>"]
         else:
             syllable_list += syllable_dict[word]
 
+    for j in range(0, len(syllable_list)):
+        syllable_list[j] = "".join(c for c in syllable_list[j] if c not in ('\''))
     return syllable_list
 
-#make the syllable dictionary (pairings of words and their corresponding syllables)
-def make_dict(filename):
+#make the syllable dictionaries (pairings of words and their corresponding syllables)
+def make_dicts(filename):
 
     syllables = {}
 
@@ -390,13 +400,21 @@ def make_dict(filename):
                 if line[1] not in syllables and len(line[1].split()) == 1:
                     syllables[line[1]] = line[-1].split("-")
 
-    return syllables
+    for lang in ['en_US']:
+        if not is_installed(lang): 
+            install(lang)
+
+    #other dict
+    h_en = Hyphenator('en_US')
+
+    return (syllables, h_en)
 
 #output the results of viterbi (ie. the intervals) into a score and a midi format
 def handle_output(corpusfile, corpus, save_output):
     if not save_output:
         return
     else:
+        print "saving output"
         with open(corpusfile.split(".")[0] + '.tagged') as theFile:
             f = theFile.read()
 
@@ -407,11 +425,11 @@ def handle_output(corpusfile, corpus, save_output):
             ts = time.time()
             st = datetime.datetime.fromtimestamp(ts).strftime('%Y-%m-%d %H;%M;%S')
 
+            s = stream.Stream()
             for j in range(0, len(lines)):
                 line = lines[j]
                 if line != "":
                     line = line.split(" ")
-                    s = stream.Stream()
 
                     prev_note = 0
                     prev_octave = 4
@@ -424,11 +442,16 @@ def handle_output(corpusfile, corpus, save_output):
                         prev_note = new_note
                         prev_octave = new_octave
 
-                    for n, lyric in zip(s.notes, corpus[j]):
-                        n.lyric = lyric
+            flattened_corpus = []
+            for x in corpus:
+                for syl in x:
+                    flattened_corpus.append(syl)
 
-                    s.write(fmt="xml",fp="output/" + st + "|" + str(j) + ".xml")
-                    s.write(fmt="midi",fp="output/" + st + "|" + str(j) + ".midi")
+            for n, lyric in zip(s.notes, flattened_corpus):
+                n.lyric = lyric
+
+            s.write(fmt="xml",fp="output/" + st + "|" + str(j) + ".xml")
+            s.write(fmt="midi",fp="output/" + st + "|" + str(j) + ".midi")
 
 
 def main():
@@ -457,15 +480,15 @@ def main():
     if args.function == 'v':
         corpus = []
         if args.parse_input:
-            syllable_dict = make_dict("eow.cd")
+            (syllable_dict, hyphen_dict) = make_dicts("eow.cd")
             with open(args.corpusfile) as theFile:
                 f = theFile.read()
                 f = f.split('\n')
 
                 for i in range(0, len(f)):
                     if f[i] != "":
-                        out = "".join(c for c in f[i] if c not in ('!','.',':','\'','\"','?',';',',','(',')','-','_','[',']','/')).lower()
-                        corpus.append(syllables_from_sentence(syllable_dict, out))
+                        out = "".join(c for c in f[i] if c not in ('!','.',':','\"','?',';',',','(',')','-','_','[',']','/')).lower()
+                        corpus.append(syllables_from_sentence(syllable_dict, hyphen_dict, out))
 
         else:
             corpus = read_corpus(args.corpusfile)

@@ -104,53 +104,6 @@ if __name__=='__main__':
 
                 emitcounts[notes_list[note_counter][3]][lyrics_list[i][3]] += 1
 
-
-            """
-            lyric_counter = 0
-            for i in range(0,len(notes_list)-1):
-                current_interval = notes_list[i][3]
-                if len(lyrics_list) > lyric_counter:
-                    note_for_lyric = int(lyrics_list[lyric_counter][0])
-                    if note_for_lyric == (i+1):
-                        current_lyric = lyrics_list[lyric_counter][3]
-                        lyric_counter += 1
-                        emitcounts[current_interval][current_lyric] += 1
-                    else:
-                        emitcounts[current_interval]["<UNK>"] += 1
-                else:
-                    emitcounts[current_interval]["<UNK>"] += 1
-            """
-
-
-    """
-    emissions = {}
-    for k, v in emitcounts.iteritems():
-        emissions[k] = normalize(v)
-
-    transitions = {}
-    for k, v in transcounts.iteritems():
-        transitions[k] = normalize(v)
-
-
-    #write emissions to file
-    f = open("models/music.emit", "w")
-    for k, v in emissions.iteritems():
-        for k1, v1 in v.iteritems():
-            f.write(k + " " + k1 + " " + str(v1) + "\n")
-
-    f.close()
-
-
-    #write transitions to file
-    f = open("models/music.trans", "w")
-    for k, v in transitions.iteritems():
-        for k1, v1 in v.iteritems():
-            f.write(k + " " + k1 + " " + str(v1) + "\n")
-
-    f.close()
-    """
-
-
     #write emissions to file
     f = open("models/music.emit", "w")
     for k, v in emitcounts.iteritems():
